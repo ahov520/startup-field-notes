@@ -1,0 +1,196 @@
+{
+  "updated": "2026-09-10",
+  "total": 16,
+  "highlights": [
+    {
+      "name": "抱抱窝",
+      "story": "尚书毅从大厂辞职做情侣 AI 社交「抱抱窝」：问卷反馈「看起来有需求」，团队却把时间耗在 UI 与功能堆砌上，付费验证始终偏弱。APP 最终做出来了，但无力持续迭代推广，约 45 万自有资金耗尽后关停。",
+      "lesson": "问卷意愿≠付费闭环；未验证付费前不要过早扩功能与团队。",
+      "outcome": "失败",
+      "sector": "AI 社交",
+      "tags": [
+        "伪需求",
+        "现金流"
+      ],
+      "source_url": "https://www.woshipm.com/chuangye/6244206.html"
+    },
+    {
+      "name": "景恩 AI 剪辑",
+      "story": "景恩做 AI 剪辑工具，累计投入约 320 万+，产品上线仅四个多月。公司依赖单一天使按季度注资，发薪日前投资人突然告知不再续投；周末找接盘失败后，只好卖算力设备发工资、逐一谈赔偿，三天内关公司。",
+      "lesson": "融资来源勿押单一 LP；账上现金才算 runway，口头续投不算。",
+      "outcome": "失败",
+      "sector": "AI 工具",
+      "tags": [
+        "单一LP",
+        "现金流"
+      ],
+      "source_url": "https://www.cyzone.cn/article/833342.html"
+    },
+    {
+      "name": "毫末智行",
+      "story": "毫末智行作为长城孵化的智驾公司，估值曾超 10 亿美元，同时押注乘用车 NOA、L4 配送与 Robotaxi。2025 开年内部信仍写「融资顺利」，数月后却在 2025-11-24 起全员停工放假，叙事与现金彻底脱节。",
+      "lesson": "融资叙事可领先现金数月；多赛道并行却无造血时，停工往往突然到来。",
+      "outcome": "停工解散",
+      "sector": "自动驾驶",
+      "tags": [
+        "现金流",
+        "单一LP"
+      ],
+      "source_url": "https://www.36kr.com/p/3567011145685122"
+    },
+    {
+      "name": "极越汽车",
+      "story": "极越（集度）背靠百度 Apollo 与吉利，一度被写成 L4 量产叙事。2024-12 多部门原地解散、讨薪直播爆发，随后进入预重整；股东输血一断，员工、供应商与车主三角同时爆雷。",
+      "lesson": "技术光环挡不住资金窟窿；股东输血中断即系统性崩盘，要提前设计退出与对客承诺边界。",
+      "outcome": "闪崩/重整",
+      "sector": "智能电动车",
+      "tags": [
+        "现金流",
+        "治理崩"
+      ],
+      "source_url": "https://www.huxiu.com/article/4814013.html"
+    },
+    {
+      "name": "森合创新 Oasa R1",
+      "story": "森合创新的消费割草机器人 Oasa R1 在 Kickstarter 众筹约 230 万美元，看起来硬件出海叙事拉满。随后量产、供应链与组织压力压垮团队，创始人李畅发公开信认责后早会宣布解散，售后失联风险随之暴露。",
+      "lesson": "众筹热≠量产工装与售后能力；立项日就要写清死后交付与退款路径。",
+      "outcome": "失败/解散",
+      "sector": "消费机器人出海",
+      "tags": [
+        "硬件鸿沟",
+        "现金流"
+      ],
+      "source_url": "https://36kr.com/p/3291116922812547"
+    },
+    {
+      "name": "妙鸭相机",
+      "story": "妙鸭相机靠 AI 写真在暑期打出爆款，很快陷入同质化免费工具围剿。内部孵化光环未能转化成独立造血，团队最终解散，成为 AI 消费潮「爆款→同质化→退场」的典型样本。",
+      "lesson": "爆款留存窗口极短；同质化赛道要尽早找到付费差异，而不是靠流量幻觉续命。",
+      "outcome": "团队解散",
+      "sector": "AI写真",
+      "tags": [
+        "平台碾压",
+        "伪需求"
+      ],
+      "source_url": "https://news.qq.com/rain/a/20260527A078F800"
+    },
+    {
+      "name": "后会友期",
+      "story": "「后会友期」拿下挑战杯金奖后做众筹餐厅，光环迅速转化成融资与扩张叙事。治理与运营却跟不上：门店关门、矛盾升级，最终警方介入，成为「竞赛金奖≠商业能力」的具名反例。",
+      "lesson": "奖项与媒体光环不能替代治理与单位经济；落地率远低于获奖叙事。",
+      "outcome": "关门/警方",
+      "sector": "校园众筹餐饮",
+      "tags": [
+        "校园陷阱",
+        "治理崩"
+      ],
+      "source_url": "https://www.thepaper.cn/newsDetail_forward_1647093"
+    },
+    {
+      "name": "一星机器人",
+      "story": "苏州一星机器人带着吉利产业资本与亲友轮/数亿元种子叙事起步，成立不足半年便于约 2025-10 闪电解散：背景人员撤出、办公室拆牌。当时对外仍有「有订单、还在装修」的说法，独立生存权却已被内部资源聚焦牺牲。",
+      "lesson": "产业资本叙事≠独立生存权；挂靠大厂资源时先问清退出条件与内部竞品优先级。",
+      "outcome": "闪电解散",
+      "sector": "具身智能",
+      "tags": [
+        "现金流",
+        "治理崩"
+      ],
+      "source_url": "https://www.mrjjxw.com/articles/2025-10-18/4096327.html"
+    },
+    {
+      "name": "Klydo",
+      "story": "Klydo 做印度时尚即时配送，约 11 个月里跑出 5 万+订单、履约尚可、CM2 接近打平，仍主动关停。CAC 卡在 ₹900–1200 的地板上移不动——用户关系租自 Meta，再多执行也救不了单位经济。",
+      "lesson": "运营打平救不了 CAC 地板；发现渠道被平台租走时，要尽早止损而不是加码投放。",
+      "outcome": "Fail/deliberate",
+      "sector": "Fashion q-commerce",
+      "tags": [
+        "CAC",
+        "现金流"
+      ],
+      "source_url": "https://economictimes.indiatimes.com/tech/technology/rapid-fashion-delivery-startup-klydo-shuts-down-operations/articleshow/132196747.cms"
+    },
+    {
+      "name": "Yupp.ai",
+      "story": "Yupp.ai 募资约 3300 万美元、做到约 130 万用户，却在 2026-03 宣布 wind-down 并退还剩余资本。死因不是烧光钱，而是行业从 chatbot 众包评测转向 agentic 系统，原赛道被范式迁移直接杀死。",
+      "lesson": "用户规模≠PMF；范式迁移来临时，钱没花完也要敢于退场还钱。",
+      "outcome": "Wind-down/return capital",
+      "sector": "AI eval marketplace",
+      "tags": [
+        "平台碾压",
+        "伪需求"
+      ],
+      "source_url": "https://blog.yupp.ai/winddown/"
+    },
+    {
+      "name": "Guardian Agriculture",
+      "story": "Guardian Agriculture 拿下 FAA 农用 eVTOL 相关授权与媒体奖项，累计融资约 5170 万美元，却几乎只有 1 个付费客户。适航光环没有换成订单，最终停止运营并走向清算。",
+      "lesson": "适航/首批授权≠客户与现金流；深科技要按农场采购节奏验证付费，而不是按融资叙事扩产。",
+      "outcome": "Fail/liquidate",
+      "sector": "Ag eVTOL drone",
+      "tags": [
+        "政策",
+        "硬件鸿沟"
+      ],
+      "source_url": "https://www.therobotreport.com/drone-startup-guardian-agriculture-shuts-down/"
+    },
+    {
+      "name": "Snaphunt",
+      "story": "新加坡 AI 招聘平台 Snaphunt 已有可观用户与雇主网络，却在融资延迟后于 2026-07 进入清算。投资人「承诺」没有变成账上现金，Beenext 之后的下一轮资金空窗直接抽干 runway。",
+      "lesson": "投资人承诺≠现金到账；把融资时间表写成最坏情形，而不是乐观意向书。",
+      "outcome": "Liquidation",
+      "sector": "AI recruitment",
+      "tags": [
+        "单一LP",
+        "现金流"
+      ],
+      "source_url": "https://www.straitstimes.com/business/singapore-based-job-search-platform-snaphunt-winds-up-after-funding-delay-leaves-it-short-of-cash"
+    },
+    {
+      "name": "探鹿兼职",
+      "story": "探鹿兼职从校园场景切入，用下载返现与地推大使换增长，C 端热闹却难换来可持续的 B 端容积。烧完融资后进入破产清算，创始人复盘指向获客贵与供需错配。",
+      "lesson": "C 端流量≠B 端付费容积；校园地推的 CAC 要按可重复购买订单核算。",
+      "outcome": "破产清算",
+      "sector": "校园兼职",
+      "tags": [
+        "CAC",
+        "校园陷阱"
+      ],
+      "source_url": "https://www.tmtpost.com/2588898.html"
+    },
+    {
+      "name": "Landing Bakery",
+      "story": "西班牙 Landing Bakery 做到约 €1500/月 MRR，缓慢上涨撑了约 400 天仍决定关掉。创始人复盘：B2B self-serve 对非技术用户极难，€100/月订阅却可能每周两小时客支，人力时薪荒谬；随后枢转 Baker AI 代理。",
+      "lesson": "慢增长 MRR 也可能致命；先算清支持成本，拒绝「build build build」自我感动。",
+      "outcome": "失败 / 枢转 Baker AI",
+      "sector": "B2B SaaS",
+      "tags": [
+        "CAC",
+        "伪需求"
+      ],
+      "source_url": "https://jacin.substack.com/p/aprendizajes-tras-cerrar-landing"
+    },
+    {
+      "name": "Lilium",
+      "story": "Lilium最终关停或失败。结果写作「Nov 2024 insolvency filings → Feb 2025 ops stop after €200M rescue failed; Oct 2025 Archer wins ~300 patents for €18M」。",
+      "lesson": "可执行点：Certification + cash burn before first manned commercial product; state guarantee politics (KfW/Bavaria) as second-order risk; IP salvage ≠ company salvage.",
+      "outcome": "Fail",
+      "sector": "eVTOL",
+      "tags": [
+        "硬件鸿沟"
+      ],
+      "source_url": "https://www.aerotime.aero/articles/evtol-lilium-jet-aerospace-insolvency"
+    },
+    {
+      "name": "Wirecard",
+      "story": "Wirecard（Europe）最终关停或失败。时间约在Collapse 2020。档案记载：DAX fintech darling; ~€1.9B missing cash; auditor/regulatory blind spots; customer impact limited relative to investor wipeout—but model exposed supervision gaps for tech-enabled payments。结果写作「Fail (fraud, insolvency)」。",
+      "lesson": "可执行点：Fintech without real controls is leverage on trust; auditors & supervisors must understand business model; regulatory arbitrage ≠ moat.",
+      "outcome": "Fail",
+      "sector": "Fintech",
+      "tags": [
+        "治理崩"
+      ],
+      "source_url": "https://cepr.org/voxeu/columns/regulating-fintech-europe-lessons-collapse-wirecard"
+    }
+  ]
+}

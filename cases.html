@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="大学生创业案例库——通宵档案具名样本，可筛选成败与地区" />
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <title>案例库 · 大学生创业田野笔记</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700;800&family=Space+Grotesk:wght@400;500;600;700;800&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/cases.css" />
+</head>
+<body>
+  <a class="skip-link" href="#grid">跳到案例列表</a>
+  <div class="grain" aria-hidden="true"></div>
+  <header class="topbar">
+    <a class="brand" href="index.html"><span class="brand-mark">🪦</span><span class="brand-text">创业田野笔记</span></a>
+    <nav class="nav open-desktop" id="nav">
+      <a href="index.html#conclusions">结论</a>
+      <a href="index.html#failures">失败地图</a>
+      <a href="cases.html" aria-current="page">案例库</a>
+      <a href="index.html#reads">必读</a>
+    </nav>
+    <div class="comfort-bar" id="comfortBar" role="group" aria-label="阅读舒适度">
+      <button type="button" class="comfort-btn" id="fontDown" title="缩小字号" aria-label="缩小字号">A−</button>
+      <button type="button" class="comfort-btn" id="fontUp" title="放大字号" aria-label="放大字号">A+</button>
+      <button type="button" class="comfort-btn" id="paperToggle" title="纸质阅读模式" aria-pressed="false" aria-label="切换纸质阅读模式">纸</button>
+      <button type="button" class="comfort-btn" id="focusToggle" title="专注阅读（F）" aria-pressed="false" aria-label="切换专注阅读">专</button>
+      <span class="accent-swatches" id="accentSwatches" role="group" aria-label="强调色">
+        <button type="button" class="accent-dot" data-accent="coral" title="珊瑚强调色" aria-label="珊瑚强调色" aria-pressed="true"></button>
+        <button type="button" class="accent-dot" data-accent="teal" title="青绿强调色" aria-label="青绿强调色" aria-pressed="false"></button>
+        <button type="button" class="accent-dot" data-accent="gold" title="琥珀强调色" aria-label="琥珀强调色" aria-pressed="false"></button>
+        <button type="button" class="accent-dot" data-accent="violet" title="藤紫强调色" aria-label="藤紫强调色" aria-pressed="false"></button>
+      </span>
+    </div>
+    <button class="nav-toggle" id="navToggle" aria-label="打开菜单" aria-expanded="false"><span></span><span></span></button>
+  </header>
+  <div class="nav-backdrop" id="navBackdrop" hidden></div>
+  <main class="cases-main">
+    <header class="cases-hero">
+      <p class="kicker">Case archive</p>
+      <h1>创业坟场档案</h1>
+      <p class="section-desc">INDEX 219 · FAIL-ISH 149 · SUCCESS-ISH 23 · 搜索 / 筛选 / 点开读具体经历</p>
+      <p class="section-desc">从通宵档案索引抽出的具名样本（219）。点卡片看详情；点星标收藏到本机；筛选可写进地址栏分享。</p>
+    </header>
+    <div class="filters-sticky">
+      <div class="filters">
+        <input id="q" type="search" placeholder="SEARCH THE GRAVEYARD…" autocomplete="off" />
+        <select id="region" aria-label="地区"><option value="">全部地区</option><option>国内</option><option>全球</option></select>
+        <select id="outcome" aria-label="结果"><option value="">全部结果</option><option value="成功">偏成功</option><option value="失败">偏失败</option><option value="关">关停/退出</option></select>
+        <button type="button" class="fav-filter" id="favOnly" aria-pressed="false" title="只看本机收藏">☆ 只看收藏</button>
+        <button type="button" class="density-btn" id="densityToggle" aria-pressed="false" title="切换紧凑/舒展">舒展</button>
+        <button type="button" class="compare-btn" id="compareToggle" aria-pressed="false" title="双选对比两例">对比</button>
+        <button type="button" class="export-csv" id="exportCsv" title="导出当前筛选为 CSV">导出 CSV</button>
+        <select id="sort" aria-label="排序">
+          <option value="default">默认排序</option>
+          <option value="name">按名称</option>
+          <option value="outcome">按结果</option>
+          <option value="sector">按赛道</option>
+        </select>
+      </div>
+      <div class="sector-chips" id="sectorChips" role="group" aria-label="赛道快筛"></div>
+      <p class="kb-hint"><kbd>j</kbd>/<kbd>k</kbd> 浏览 · <kbd>Enter</kbd> 详情 · 开「对比」点两张卡片</p>
+      <div class="compare-tray" id="compareTray" hidden>
+        <p class="compare-tray-label">已选 <span id="compareCount">0</span>/2</p>
+        <div class="compare-tray-chips" id="compareChips"></div>
+        <button type="button" class="compare-run" id="compareRun" disabled>并排对照</button>
+        <button type="button" class="compare-clear" id="compareClear">清空</button>
+      </div>
+    </div>
+    <div class="pulse-band compact" id="archivePulse" aria-label="档案速览">
+      <div class="pulse-bars" id="pulseBars" role="group" aria-label="成败分布条"></div>
+      <div class="pulse-legend" id="pulseLegend"></div>
+    </div>
+    <p class="count" id="count">加载中…</p>
+    <div class="case-grid" id="grid"></div>
+  </main>
+  <p class="changelog">v19 · 同步档案 219 案 · 本机进度见首页</p>
+  <footer class="footer"><div><strong>案例库</strong><p>持续从档案增量导入</p></div><p class="ver">build v23 · 2026-09-10</p></footer>
+  <div class="case-drawer-backdrop" id="drawerBackdrop"></div>
+  <aside class="case-drawer" id="caseDrawer" role="dialog" aria-modal="true" aria-labelledby="drawerTitle" aria-hidden="true">
+    <div class="drawer-top" style="justify-content:flex-end;margin-bottom:-.5rem">
+      <button type="button" class="drawer-close" id="drawerClose" aria-label="关闭详情">×</button>
+    </div>
+    <div id="drawerBody"></div>
+  </aside>
+  <div class="compare-backdrop" id="compareBackdrop" hidden></div>
+  <div class="compare-panel" id="comparePanel" role="dialog" aria-modal="true" aria-labelledby="compareTitle" hidden>
+    <div class="compare-top">
+      <h2 id="compareTitle">案例对照</h2>
+      <button type="button" class="drawer-close" id="compareClose" aria-label="关闭对照">×</button>
+    </div>
+    <div class="compare-grid" id="compareGrid"></div>
+  </div>
+  <div class="toast-host" id="toastHost" aria-live="polite" aria-atomic="true"></div>
+  <button class="to-top" id="toTop" type="button" aria-label="回到顶部">↑</button>
+  <script src="js/cases.js" defer></script>
+
+  <nav class="bottom-nav" aria-label="手机主导航">
+    <a href="index.html"><span class="ic">⌂</span>首页</a>
+    <a href="cases.html" aria-current="page"><span class="ic">▦</span>档案</a>
+    <a href="index.html#weekly"><span class="ic">☰</span>本周</a>
+    <a href="index.html#screen"><span class="ic">⚒</span>工具</a>
+  </nav>
+</body>
+</html>

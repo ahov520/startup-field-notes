@@ -1,0 +1,3823 @@
+{
+  "cases": [
+    {
+      "name": "抱抱窝",
+      "who": "尚书毅",
+      "outcome": "失败",
+      "sector": "AI 社交",
+      "region": "国内",
+      "src": "china",
+      "story": "尚书毅从大厂辞职做情侣 AI 社交「抱抱窝」：问卷反馈「看起来有需求」，团队却把时间耗在 UI 与功能堆砌上，付费验证始终偏弱。APP 最终做出来了，但无力持续迭代推广，约 45 万自有资金耗尽后关停。",
+      "lesson": "问卷意愿≠付费闭环；未验证付费前不要过早扩功能与团队。",
+      "timeline": "2024.02 立项 → 2025 中关停",
+      "source_url": "https://www.woshipm.com/chuangye/6244206.html",
+      "tags": [
+        "伪需求",
+        "现金流"
+      ],
+      "capital": "约 45 万自有资金",
+      "lifespan": "2024–2025（约1年）",
+      "cause": "伪需求 / PMF 缺失",
+      "country": "中国"
+    },
+    {
+      "name": "景恩 AI 剪辑",
+      "who": "景恩",
+      "outcome": "失败",
+      "sector": "AI 工具",
+      "region": "国内",
+      "src": "china",
+      "story": "景恩做 AI 剪辑工具，累计投入约 320 万+，产品上线仅四个多月。公司依赖单一天使按季度注资，发薪日前投资人突然告知不再续投；周末找接盘失败后，只好卖算力设备发工资、逐一谈赔偿，三天内关公司。",
+      "lesson": "融资来源勿押单一 LP；账上现金才算 runway，口头续投不算。",
+      "timeline": "2025.03 启动 → 2025.12 断供关停",
+      "source_url": "https://www.cyzone.cn/article/833342.html",
+      "tags": [
+        "单一LP",
+        "现金流"
+      ],
+      "capital": "累计投入约 320 万+",
+      "lifespan": "约1年（2025）",
+      "cause": "融资来源单一断供",
+      "country": "中国"
+    },
+    {
+      "name": "ofo",
+      "who": "戴威",
+      "outcome": "先成后败",
+      "sector": "共享出行",
+      "region": "国内",
+      "src": "china",
+      "story": "戴威从校园共享单车做到估值近 30 亿美元，早期从「骑游」伪需求切到短途代步真需求是关键跃迁。随后全国烧钱扩张、拒合并与治理僵局叠加，押金无法退还引爆信任危机，最终巨额债务与限消收场。",
+      "lesson": "高速扩张下治理与否决权可致命；押金/预收款是信任负债，不是免费资本。",
+      "timeline": "2014 创立 → 2018 资金链危机 → 实质停运",
+      "source_url": "https://www.tmtpost.com/6577382.html",
+      "tags": [
+        "伪需求",
+        "治理崩",
+        "现金流"
+      ],
+      "country": "中国"
+    },
+    {
+      "name": "饿了么",
+      "who": "张旭豪等",
+      "outcome": "成功",
+      "sector": "外卖/本地生活",
+      "region": "国内",
+      "src": "china",
+      "story": "张旭豪等从交大宿舍痛点做校园外卖，先高校渗透再扩白领，并把合伙规则前置。融资以到账为准，最终做成本地生活巨头。",
+      "lesson": "从熟悉场景打穿；早期做不可规模化的地推与服务，合伙规则先写清。",
+      "tags": [
+        "成功对照"
+      ],
+      "country": "中国"
+    },
+    {
+      "name": "影石 Insta360",
+      "who": "刘靖康",
+      "outcome": "成功",
+      "sector": "消费硬件/影像",
+      "region": "国内",
+      "src": "china",
+      "story": "刘靖康用「痛点·头部毛利·百亿级规模」三标准筛赛道，消费影像硬件出海放大供应链优势，成为青年硬件成功样本。",
+      "lesson": "硬件要先过毛利与规模门槛；出海可放大国内供应链优势。",
+      "tags": [
+        "成功对照"
+      ],
+      "country": "中国"
+    },
+    {
+      "name": "泡否",
+      "who": "马佳佳",
+      "outcome": "失败",
+      "sector": "消费零售",
+      "region": "国内",
+      "src": "china",
+      "story": "泡否（马佳佳）的时间线约为~2012 创业；约 2 年内关停主体业务。玩笑式立项→话题营销（节目、PPT、中欧讲堂）；融资与曝光；实体店开一家关一家；后续项目亦多起伏。结局：失败（话题营销极强，线下店与商业闭环弱）。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "~2012 创业；约 2 年内关停主体业务 → 关停/失败",
+      "source_url": "https://jizhongzhan.blog.caixin.com/archives/95007",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "中国"
+    },
+    {
+      "name": "神奇百货",
+      "who": "王凯歆",
+      "outcome": "失败",
+      "sector": "电商",
+      "region": "国内",
+      "src": "china",
+      "story": "神奇百货（王凯歆）的时间线约为2015 天使 → 2016 A 轮喧嚣 → 2016 负面与关停/放弃。天使将尽、A 轮寒冬；经纬等入局后高光；数据与管理崩塌；投资人朱波公开反思「投人」风险。结局：失败（数据造假争议、裁员欠薪、创始人放弃公司）。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "2015 天使 → 2016 A 轮喧嚣 → 2016 负面与关停/放弃",
+      "source_url": "https://www.jiemian.com/article/1754391.html",
+      "tags": [
+        "治理崩"
+      ],
+      "lifespan": "2015–2016（约1年）",
+      "cause": "治理崩盘 / 内控失效",
+      "country": "中国"
+    },
+    {
+      "name": "超级课程表",
+      "who": "余佳文",
+      "outcome": "转型/存续",
+      "sector": "校园工具",
+      "region": "国内",
+      "src": "china",
+      "story": "余佳文以校园刚需工具「超级课程表」起家，一度获周鸿祎/真格/红杉/阿里等关注与融资高光。随后节目人设与「一亿分红」承诺反噬，创始人公开承认「像跳梁小丑」。公司未清盘，但网红路线退潮，业务收缩务实。",
+      "lesson": "校园刚需可融资但商业化难；过度消费创始人人设会反噬信任，潮退后靠收缩才能活。",
+      "timeline": "2012 前后产品 → 2013–2014 融资高光 → 食言风波后低调存续",
+      "tags": [
+        "校园陷阱",
+        "成功对照"
+      ],
+      "source_url": "https://www.thepaper.cn/newsDetail_forward_1368913",
+      "country": "中国"
+    },
+    {
+      "name": "校联帮",
+      "who": "刘泽碧",
+      "outcome": "失败",
+      "sector": "校园兼职",
+      "region": "国内",
+      "src": "china",
+      "story": "校联帮（刘泽碧）的时间线约为~2012–2015 高光；2015 末欠薪；2016 春停运。团购→兼职转型曾爆发；超级课程表合作导流；全国 3 万校园大使获客贵；竞品与 58 体系挤压。结局：失败（Pre-A 后烧光；地推校园大使成本高；to B 转型时已无弹药）。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "~2012–2015 高光；2015 末欠薪；2016 春停运",
+      "source_url": "https://m.36kr.com/p/1721055920129",
+      "tags": [
+        "CAC",
+        "校园陷阱"
+      ],
+      "lifespan": "2012–2016（约4年）",
+      "cause": "获客成本不可持续",
+      "country": "中国"
+    },
+    {
+      "name": "华子工作室",
+      "who": "华子",
+      "outcome": "失败",
+      "sector": "活动服务",
+      "region": "国内",
+      "src": "china",
+      "story": "华子用约 1.5 万本金把活动服务做到月入十万、净利可观，却因业务单一、疫情展会停摆而苦撑两年后注销。高峰利润没有转化成抗周期的产品与现金储备。",
+      "lesson": "业务单一时利润是假象；用高峰期利润建设第二曲线与现金缓冲。",
+      "timeline": "创业约 3 年 → 疫情后注销",
+      "source_url": "https://nwen.net/news/868365.html",
+      "tags": [
+        "现金流"
+      ],
+      "capital": "约 1.5 万本金把活动服务做到月入十万、净利可观，却",
+      "cause": "现金流断裂 / runway 耗尽",
+      "country": "中国"
+    },
+    {
+      "name": "家校沟通产品",
+      "who": "（匿名）",
+      "outcome": "失败",
+      "sector": "教育信息化",
+      "region": "国内",
+      "src": "china",
+      "story": "家校沟通产品的时间线约为约 2017–2020；疫情后解散。「零风险」内部孵化麻痹成本意识；情怀抵制向家长收费；大而全产品；现金流撑不住市场验证。结局：失败（融资约 380 万量级投入语境下项目关闭）。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "约 2017–2020；疫情后解散",
+      "source_url": "https://yuedu.biz/300wan-xue-fei-yu3nian-qing-chun-yi-ci-jiao-yu-chu/",
+      "tags": [
+        "现金流",
+        "校园陷阱"
+      ],
+      "capital": "约 380 万量级投入语境下项目关闭）",
+      "lifespan": "2017–2020（约3年）",
+      "cause": "校园路径陷阱（获客/人事/赛品）",
+      "country": "中国"
+    },
+    {
+      "name": "SaaS 客服「A」",
+      "who": "（匿名）",
+      "outcome": "失败",
+      "sector": "SaaS",
+      "region": "国内",
+      "src": "china",
+      "story": "SaaS 客服「A」的时间线约为2016–2018，约 3 年。未充分调研进入红海；产品/用户定位扯皮；技术架构缺统一规划；大小客户与部署形态摇摆。结局：失败（投资人看不到长期盈利，资金紧张关闭）。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "2016–2018，约 3 年",
+      "source_url": "https://36kr.com/p/1722534592513",
+      "tags": [
+        "现金流"
+      ],
+      "lifespan": "2016–2018（约2年）",
+      "cause": "现金流断裂 / runway 耗尽",
+      "country": "中国"
+    },
+    {
+      "name": "四次创业合集",
+      "who": "清华博士",
+      "outcome": "连续失败",
+      "sector": "教育/金融/消费",
+      "region": "国内",
+      "src": "china",
+      "story": "四次创业合集（清华博士）的时间线约为约 6 年，累计投入超 3000 万。团队不全员 All-in；平台封杀；股东内讧；疫情冲击线下。结局：四次均失败。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "约 6 年，累计投入超 3000 万 → 关停/失败",
+      "source_url": "https://www.tmtpost.com/4467301.html",
+      "tags": [
+        "平台碾压"
+      ],
+      "cause": "平台/巨头同质化碾压",
+      "country": "中国"
+    },
+    {
+      "name": "考虫",
+      "who": "李好宇等",
+      "outcome": "失败",
+      "sector": "教培",
+      "region": "国内",
+      "src": "china",
+      "story": "考虫曾是大学生四六级/考研头部品牌，年收入与用户光环极盛。考试生态变化与教培政策 β 叠加后增长逻辑失效，最终走向体面清算，证明考试流量护城河也会过期。",
+      "lesson": "别把政策与考试生态当成永久护城河；教培类要提前准备合规与产品迁移。",
+      "timeline": "高光增长 → 政策冲击后清算",
+      "source_url": "https://news.qq.com/rain/a/20240301A02B0200",
+      "tags": [
+        "政策",
+        "校园陷阱"
+      ],
+      "cause": "政策/监管冲击",
+      "country": "中国"
+    },
+    {
+      "name": "优胜教育",
+      "who": "陈昊",
+      "outcome": "失败",
+      "sector": "K12",
+      "region": "国内",
+      "src": "china",
+      "story": "优胜教育（陈昊）的时间线约为经营约 17 年；疫情冲击下倒下。长期零融资靠自有资金扩张；疫情转线上定价过低+竞争恶劣收入暴跌；团队偏业务缺战略；文化纵容失误无人买单。结局：失败。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "经营约 17 年；疫情冲击下倒下 → 关停/失败",
+      "source_url": "https://www.tmtpost.com/4833941.html",
+      "tags": [
+        "失败复盘"
+      ],
+      "lifespan": "约17年",
+      "cause": "综合经营失败",
+      "country": "中国"
+    },
+    {
+      "name": "MiniMax / Talkie",
+      "who": "闫俊杰等",
+      "outcome": "成功",
+      "sector": "AI 出海",
+      "region": "国内",
+      "src": "china",
+      "story": "闫俊杰等做 MiniMax，C 端以海外 Talkie / 国内星野切入 AI 陪伴。档案显示海外付费闭环更强：2025 年前 9 月 Talkie 等付费用户约 177 万、ARPPU 提升，收入结构海外占比高，成为国内模型公司「出海卷付费体验」样本。",
+      "lesson": "国内卷模型、海外卷付费体验；AI Native 要从第一天设计全球化与时长深度。",
+      "timeline": "2023–2025 产品爆发 → 海外付费验证",
+      "tags": [
+        "成功对照"
+      ],
+      "source_url": "https://www.woshipm.com/ai/6339697.html",
+      "country": "中国"
+    },
+    {
+      "name": "在线教培项目",
+      "who": "（芥末堆专栏）",
+      "outcome": "失败",
+      "sector": "在线教育",
+      "region": "国内",
+      "src": "china",
+      "story": "在线教培项目（（芥末堆专栏））的时间线约为约 2010 年代后期资本热潮期。机构融资顺利→算账发现真人在线「规模不经济」；管理层级随师生规模膨胀；结论倾向成为大集团补充业务而非独立盈利。结局：失败/关停。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "约 2010 年代后期资本热潮期 → 关停/失败",
+      "source_url": "https://www.jiemodui.com/N/123269",
+      "tags": [
+        "政策"
+      ],
+      "cause": "政策/监管冲击",
+      "country": "中国"
+    },
+    {
+      "name": "水晶饰品代理（台）",
+      "who": "郭憲閎",
+      "outcome": "主动关闭",
+      "sector": "消费零售",
+      "region": "国内",
+      "src": "china",
+      "story": "水晶饰品代理（台）（郭憲閎）留下了可核查的失败/关停记录。结局：主动关闭（业务仍赚钱，因精力无法兼顾另一事业）。",
+      "lesson": "专注是敢放掉；机会成本可高于账面利润。",
+      "source_url": "https://terry.zendragon.com.tw/posts/shutting-down-profitable-business",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "中国台湾"
+    },
+    {
+      "name": "泉为科技",
+      "who": "褚一凡等",
+      "outcome": "失败进行中",
+      "sector": "光伏跨界",
+      "region": "国内",
+      "src": "china",
+      "story": "泉为科技（褚一凡等）的时间线约为跨界扩产高峰 → 2023–2025 价格战 → 2026 立案/资产拍卖。组件价较 2023 高点跌超 60%；「不生产不亏、一生产按分钟亏」；2023 毛利率已为负；2025 营收断崖。结局：失败进行中（产能利用率极低、净资产转负、设备查封、证监立案）。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "跨界扩产高峰 → 2023–2025 价格战 → 2026 立案/资产拍卖",
+      "source_url": "https://www.nbd.com.cn/articles/2026-04-22/4351618.html",
+      "tags": [
+        "失败复盘"
+      ],
+      "lifespan": "2023–2026（约3年）",
+      "cause": "综合经营失败",
+      "country": "中国"
+    },
+    {
+      "name": "阳光电源",
+      "who": "曹仁贤",
+      "outcome": "成功",
+      "sector": "光储/氢能",
+      "region": "国内",
+      "src": "china",
+      "story": "曹仁贤创办阳光电源，逆变器仍占高营收时提前把研发与产能向储能倾斜，并布局匈牙利/泰国等海外基地与绿氢方案。新能源寒冬中靠第二曲线穿越周期，成为光储设备抗周期对照样本。",
+      "lesson": "周期赛道要提前 2–3 年布局第二曲线；卖设备能力往往比赌组件价格更抗周期。",
+      "timeline": "1997 创立 → 2021 加码储能 → 2024–2025 储能爆发",
+      "tags": [
+        "成功对照"
+      ],
+      "source_url": "https://m.21jingji.com/article/20250905/herald/4fd0144c3ea1d54da886bf208aad8f65.html",
+      "country": "中国"
+    },
+    {
+      "name": "达闼科技",
+      "who": "黄晓庆等",
+      "outcome": "失败",
+      "sector": "具身智能",
+      "region": "国内",
+      "src": "china",
+      "story": "达闼科技（黄晓庆等）的时间线约为2015 创立；多轮融资估值一度约 223 亿；2024–2025 停薪、团队离散。C 轮国资大额入局后半年资金链危机；某机构 3 亿交割跳票；飞书全员会折半工资→停发；报道称 2025 年前 7 月仅约 140 万营收量级、巨额净亏。结局：失败（融资跳票→停薪→核心出走；营收极弱对照估值）。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "2015 创立；多轮融资估值一度约 223 亿；2024–2025 停薪、团队离散",
+      "source_url": "https://www.163.com/dy/article/KPOH8LJO05118HA4.html",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "约 140 万营收量级、巨额净亏；估值一度约 223 亿",
+      "lifespan": "2015–2025（约10年）",
+      "cause": "综合经营失败",
+      "country": "中国"
+    },
+    {
+      "name": "普渡机器人",
+      "who": "张涛",
+      "outcome": "成功",
+      "sector": "商用服务机器人",
+      "region": "国内",
+      "src": "china",
+      "story": "张涛（港科大背景）2016 创立普渡，不跟仓储/跳舞风口，选冷门送餐场景，用底盘+托盘而非低效仿人，自研多机调度。档案记载全球商用服务机器人市占一度约 23%、出货十万台级、覆盖 80+ 国家。",
+      "lesson": "B 端可多轮打磨；场景任务拆解优先于人形叙事；工程团队更适合「有把握就干」。",
+      "timeline": "2016 创立 → 送餐切入 → 2023 市占第一叙事 → 2026 高估值融资",
+      "tags": [
+        "成功对照",
+        "硬件鸿沟"
+      ],
+      "source_url": "https://finance.sina.com.cn/roll/2026-05-29/doc-inhzpnfx7678399.shtml",
+      "country": "中国"
+    },
+    {
+      "name": "宇树科技",
+      "who": "王兴兴",
+      "outcome": "成功",
+      "sector": "四足/人形",
+      "region": "国内",
+      "src": "china",
+      "story": "王兴兴读研期 DIY 机器狗，2016 创立宇树；2018 账面仅约十万、投资人撤资时停发自己工资保团队。垂直整合电机/驱动/结构/算法，把四足打到万元级、人形到十万元级价格带，最终走出濒死到 IPO 高光叙事。",
+      "lesson": "硬件要能自己造零件撑过供给真空；濒死现金管理是生存技能。",
+      "timeline": "2016 创立 → 2018 濒死 → 四足降本 → 人形 → 2026 IPO 叙事",
+      "tags": [
+        "成功对照",
+        "硬件鸿沟",
+        "现金流"
+      ],
+      "source_url": "https://m.36kr.com/p/3945828969322370",
+      "country": "中国"
+    },
+    {
+      "name": "Seede AI",
+      "who": "Muji",
+      "outcome": "进行中复盘",
+      "sector": "AI 设计 Agent",
+      "region": "国内",
+      "src": "china",
+      "story": "NUS 毕业后回国的 Muji 做设计 Agent Seede AI，用 Cursor 写数十万行代码，一年后写 2 万字复盘：上下文污染、工具链路走错、埋点拖垮库、分销支付合规等踩坑后，结论是「第一次 Build 成就感是创业最大幻觉」，demo≠产品。",
+      "lesson": "Build 越爽债务越多；Agent engineering 必须懂业务的人下场，像做内容一样做产品。",
+      "timeline": "2025.06 毕业创业 → 2026 满一年复盘",
+      "tags": [
+        "伪需求"
+      ],
+      "source_url": "https://zhuanlan.zhihu.com/p/2052768211213586446",
+      "country": "中国"
+    },
+    {
+      "name": "Clico/Invoko",
+      "who": "程梦琪",
+      "outcome": "转型",
+      "sector": "AI 应用",
+      "region": "国内",
+      "src": "china",
+      "story": "程梦琪约 300 天内从垂直营销 Agent 做到浏览器插件 Clico，再枢转到桌面客户端 Invoko。踩遍 ToB「每次答案不一样」的炫技坑与插件局限，强调生产级稳定比模型炫技难 100 倍，抵制 quick-win 朋友圈心态。",
+      "lesson": "逻辑正确的技术选择事后常全错；稳定/成本/速度优先于模型炫技。",
+      "timeline": "2025–2026 约 300 天多轮转型",
+      "tags": [
+        "伪需求"
+      ],
+      "source_url": "https://zhuanlan.zhihu.com/p/2043685669625714283",
+      "country": "中国"
+    },
+    {
+      "name": "LegalNow→GlobalGPT",
+      "who": "李焕之",
+      "outcome": "先败后成",
+      "sector": "AI 应用",
+      "region": "国内",
+      "src": "china",
+      "story": "LegalNow→GlobalGPT（李焕之）的时间线约为LegalNow 失败；2024 初几乎没钱时做出 GlobalGPT 造血。LegalNow 有声望但不赚钱；2024 做七八个产品每个都赚钱但无 mission；「赚两块发一块五」滚动；最终锁定服务人群与三五年目标。结局：混合（LegalNow 失败；GlobalGPT 零融资活下来）。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "LegalNow 失败；2024 初几乎没钱时做出 GlobalGPT 造血 → 关停/失败",
+      "source_url": "https://zhuanlan.zhihu.com/p/2049904254278710291",
+      "tags": [
+        "失败复盘"
+      ],
+      "country": "中国"
+    },
+    {
+      "name": "L 公司垃圾分类",
+      "who": "大学生团队",
+      "outcome": "失败",
+      "sector": "环保政策",
+      "region": "国内",
+      "src": "china",
+      "story": "L 公司垃圾分类（大学生团队）的时间线约为2015 团队 → 2022 宣告失败。私人定制服务→转型垃圾分类；社区+高校场景；股权架构与团队心智冲突；政策驱动行业需求培育慢、技术门槛与资源错配。结局：失败（失信被执行；成立约 4 年彻底失败）。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "2015 团队 → 2022 宣告失败",
+      "source_url": "https://max.book118.com/html/2026/0202/5012024013013120.shtm",
+      "tags": [
+        "政策",
+        "校园陷阱"
+      ],
+      "lifespan": "约4年",
+      "cause": "政策/监管冲击",
+      "country": "中国"
+    },
+    {
+      "name": "nuwa / 小红书 BiP",
+      "who": "陈锦初",
+      "outcome": "成功进行中",
+      "sector": "AI 小工具",
+      "region": "国内",
+      "src": "china",
+      "story": "00 后陈锦初在小红书以 Build in Public 做 nuwa 小工具矩阵：不正经 AI 小工具+坦陈挫败，从挖需求、组队到冷启都在社区完成，半年内约 10 万用户叙事，用笔记替代先融几百万再干的路径。",
+      "lesson": "起点可以是一篇笔记而非 BP；BiP 降低获客与找人成本，校园项目可跳过重资产融资。",
+      "timeline": "2026 起公开构建 → 半年约 10 万用户叙事",
+      "tags": [
+        "成功对照",
+        "校园陷阱"
+      ],
+      "source_url": "https://zhuanlan.zhihu.com/p/2027415764324348561",
+      "country": "中国"
+    },
+    {
+      "name": "森合创新 Oasa R1",
+      "who": "李畅",
+      "outcome": "失败/解散",
+      "sector": "消费机器人出海",
+      "region": "国内",
+      "src": "china",
+      "story": "森合创新的消费割草机器人 Oasa R1 在 Kickstarter 众筹约 230 万美元，看起来硬件出海叙事拉满。随后量产、供应链与组织压力压垮团队，创始人李畅发公开信认责后早会宣布解散，售后失联风险随之暴露。",
+      "lesson": "众筹热≠量产工装与售后能力；立项日就要写清死后交付与退款路径。",
+      "timeline": "众筹爆款 → 公开信解散",
+      "source_url": "https://36kr.com/p/3291116922812547",
+      "tags": [
+        "硬件鸿沟",
+        "现金流"
+      ],
+      "capital": "约 230 万美元，看起来硬件出海叙事拉满",
+      "cause": "硬件量产与供应链鸿沟",
+      "country": "中国"
+    },
+    {
+      "name": "创业补贴中介抽成",
+      "who": "多地大学生/杭州中院",
+      "outcome": "判决无效抽成",
+      "sector": "校园政策",
+      "region": "国内",
+      "src": "china",
+      "story": "创业补贴中介抽成（多地大学生当事人；中介公司；杭州中院（2026-04 二审））留下了可核查的失败/关停记录。结局：杭州中院认定中介按补贴额抽 20% 服务费条款违背公序良俗、无效；中新网 2026-08 专题披露深圳/杭州申领碰壁与「蹭补」灰色链。",
+      "lesson": "补贴窗口有时限与材料门槛，房东不配合即卡死；无真实创业意愿「蹭补」+中介代办→抽成+诱导入驻指定写字楼，形成二次收割。",
+      "timeline": "2026-08",
+      "source_url": "https://www.chinanews.com.cn/sh/2026/08-31/10686969.shtml",
+      "tags": [
+        "政策",
+        "校园陷阱"
+      ],
+      "country": "中国"
+    },
+    {
+      "name": "面馆→包子店",
+      "who": "朱峻锋",
+      "outcome": "连续实体失败",
+      "sector": "餐饮实体",
+      "region": "国内",
+      "src": "china",
+      "story": "面馆→包子店（朱峻锋（殡葬专业背景，电商转实体））留下了可核查的失败/关停记录。结局：上海店投约 80 万、十余天倒闭，亏近 60 万；再投约 40 万 开包子店；婚姻破裂；2026 前后因「宁愿睡地板也要当老板」登热搜。",
+      "lesson": "「老板梦」≠ 选址/现金流/服务能力验证；实体失败损耗家庭关系，复盘成本远超账面。",
+      "timeline": "2026",
+      "source_url": "https://www.163.com/dy/article/KQLU3ORT0514D3UH.html",
+      "tags": [
+        "现金流"
+      ],
+      "capital": "约 80 万、十余天倒闭，亏近 60 万；约 40 万 开包子店",
+      "cause": "现金流断裂 / runway 耗尽",
+      "country": "中国"
+    },
+    {
+      "name": "AI 文创帆布包 OPC",
+      "who": "廖然（化名）",
+      "outcome": "失败/注销",
+      "sector": "一人公司·AI文创",
+      "region": "国内",
+      "src": "china",
+      "story": "廖然（化名）一人公司仿海外「照片转卡通」思路做语录帆布包，OPC 注册拿补贴叙事热闹，半年左右注销回巢。AI 降低了设计成本，却没解决分发、复购与供应链。",
+      "lesson": "一人公司+AI 不等于生意；先验证复购与渠道，再注册与领补贴。",
+      "timeline": "OPC 启动 → 约半年注销",
+      "source_url": "https://www.woshipm.com/chuangye/6402822.html",
+      "tags": [
+        "伪需求",
+        "政策"
+      ],
+      "cause": "伪需求 / PMF 缺失",
+      "country": "中国"
+    },
+    {
+      "name": "非遗合香珠材料包",
+      "who": "郭琪（化名）",
+      "outcome": "失败",
+      "sector": "一人公司·供应链",
+      "region": "国内",
+      "src": "china",
+      "story": "郭琪（化名）把非遗合香珠做成材料包供货，AI 写文案可以，却调不出老师傅经验里的合格香料配比；产地与湿度方差把试错费烧光，供应链击穿一人公司。",
+      "lesson": "AI 解决不了手艺与供应链方差；有行业 Know-how 也要把物理世界试错成本算进预算。",
+      "timeline": "辞职单干 → 试错费烧光失败",
+      "source_url": "https://www.woshipm.com/chuangye/6402822.html",
+      "tags": [
+        "硬件鸿沟",
+        "伪需求"
+      ],
+      "cause": "伪需求 / PMF 缺失",
+      "country": "中国"
+    },
+    {
+      "name": "AI 漫剧微型公司",
+      "who": "程钊圈子旁证",
+      "outcome": "流量断崖",
+      "sector": "AI内容",
+      "region": "国内",
+      "src": "china",
+      "story": "AI 漫剧微型公司（程钊（独立游戏一人工作室，观察者）；其做 AI 漫剧的朋友）留下了可核查的失败/关停记录。结局：2025 踩风口赚第一桶金；2026 开年平台流量倾斜 AI 短剧，营收断崖；算力/高清渲染开始收费，单兵扛不住。",
+      "lesson": "平台算法 β + 算力成本上行 = 微型公司「隐形杀手」；风口留存：程钊估算深圳 OPC 圈子一年留存不足十分之一。",
+      "timeline": "2025 → 2026",
+      "source_url": "https://www.woshipm.com/chuangye/6402822.html",
+      "tags": [
+        "平台碾压"
+      ],
+      "country": "中国"
+    },
+    {
+      "name": "北邮小西天孵化16队",
+      "who": "孵化负责人",
+      "outcome": "1年存活4/16",
+      "sector": "校园孵化器",
+      "region": "国内",
+      "src": "china",
+      "story": "北邮附近小西天约 130㎡ 大学生孵化（约 2011–2013）：16 队中 6 个月存活 7、一年仅存活 4（技术收购/收支平衡/苦撑待融/近 A 各 1）。失败侧集中在资源双端桥梁、兴趣错位、6 个月内人事动荡、把融资当盈利模式等。",
+      "lesson": "校园孵化一年存活率极低；勿做补不上商家端的「双端桥梁」，也勿把融资当盈利模式。",
+      "timeline": "约 2011–2013 · 16 队样本",
+      "tags": [
+        "校园陷阱",
+        "政策"
+      ],
+      "source_url": "http://www.isi.ac.cn/html/qihuo/2766.html",
+      "country": "中国"
+    },
+    {
+      "name": "校园购物折扣卡",
+      "who": "苗成",
+      "outcome": "失败",
+      "sector": "校园本地生活",
+      "region": "国内",
+      "src": "china",
+      "story": "苗成代理销售校园购物优惠卡，靠「无契约」的商户口头合作推进，用户体验崩塌后迅速被写成骗局叙事，最终退卡收场。信任与契约缺失比获客更致命。",
+      "lesson": "商户合作必须书面契约与可核销权益；体验崩=骗局叙事，校园场景尤其脆弱。",
+      "timeline": "代理推广 → 退卡收场",
+      "source_url": "https://cy4.cn/article/2025/12/15/1993.html",
+      "tags": [
+        "治理崩",
+        "校园陷阱",
+        "伪需求"
+      ],
+      "cause": "伪需求 / PMF 缺失",
+      "country": "中国"
+    },
+    {
+      "name": "亿航智能 EH216",
+      "who": "管理层",
+      "outcome": "危机进行中",
+      "sector": "低空eVTOL",
+      "region": "国内",
+      "src": "china",
+      "story": "亿航智能 EH216（管理层（CFO 杨嘉宏等）；非青年整机初创，但是国内低空具名样本）留下了可核查的失败/关停记录。结局：全球首家集齐 TC/PC/AC/OC「四证」；2026Q1 仅交付 4 架（较 2025Q4 66 架断崖）、营收约 2570万、净亏 1.264亿；8月撤回全年 6亿 营收指引；组织优化/裁员风波；公开售票商业化多次推迟。",
+      "lesson": "适航证 ≠ 商业现金流；全自动载人+文旅场景单一，缺 to B 巡检/物流对冲。",
+      "timeline": "2026 → 2025",
+      "source_url": "https://www.caixin.com/2026-08-26/102478088.html",
+      "tags": [
+        "政策",
+        "单一LP",
+        "硬件鸿沟",
+        "现金流"
+      ],
+      "country": "中国"
+    },
+    {
+      "name": "众创空间尸检模式",
+      "who": "行业综合",
+      "outcome": "模式库",
+      "sector": "双创园区",
+      "region": "国内",
+      "src": "china",
+      "story": "TrueSight 对众创/科创园政策套利的尸检：红利期用格子间+挂牌虚构入驻率吸附租金补贴与税收返还；退坡期转向房产租赁与「AB 面合同」；审计穿透发票与社保后信用破产清退，地级市千万级园区沦为咖啡+空置写字楼。",
+      "lesson": "KPI 从面积/入驻数切到产出/真实性即清算日；对政策红利要精准避险而非最大化吸附。",
+      "timeline": "政策红利期 → 退坡审计 → 清退",
+      "tags": [
+        "政策"
+      ],
+      "source_url": "https://tsight.io/articles/10505705",
+      "country": "中国"
+    },
+    {
+      "name": "璎黎药业",
+      "who": "惠欣",
+      "outcome": "失败进行中",
+      "sector": "Biotech",
+      "region": "国内",
+      "src": "china",
+      "story": "璎黎药业留下了可核查的失败/关停记录。结局：2026 春节前漕河泾康桥园区大门被物业封条；官网停运；林普利塞 2025 医保目录未续签调出；2025 年被告诉讼约 19 起；部分股权冻结、失信被执行人；创始人被限制高消费；知情人士称大半年前已发不出工资、陆续裁员。",
+      "lesson": "单品依赖+安全性争议 = 医保续签失败可成压垮现金流的扳机；BD「好交易」≠「好投资」——溢价拿权益后关键 BD 操盘人离职，责任真空加速管理崩溃。",
+      "timeline": "2026 → 2025",
+      "source_url": "https://news.qq.com/rain/a/20260210A03T2K00",
+      "tags": [
+        "现金流",
+        "校园陷阱"
+      ],
+      "lifespan": "2025–2026（约1年）",
+      "cause": "校园路径陷阱（获客/人事/赛品）",
+      "country": "中国"
+    },
+    {
+      "name": "健新原力",
+      "who": "余国良/李玉玲",
+      "outcome": "破产清算",
+      "sector": "CGT CDMO",
+      "region": "国内",
+      "src": "china",
+      "story": "健新原力（余国良（连续创业者）· 李玉玲（海归科学家）；2018 杭州创办）留下了可核查的失败/关停记录。结局：融资叙事超 10 亿、基地曾列入杭州「十四五」重大项目（总投资叙事约 20 亿）；2025-11 萧山法院受理破产清算；资产首次拍卖起拍约 8.82 亿流拍，二次八折仍报名 0。",
+      "lesson": "「湾区叙事+政府重大项目」≠ 订单与产能利用率；行业龙头（药明生基）收入停滞/下滑时，后来者 CDMO 更易死在资本开支前置。",
+      "timeline": "2025-11",
+      "source_url": "https://news.qq.com/rain/a/20260605A089BA00",
+      "tags": [
+        "政策",
+        "现金流"
+      ],
+      "capital": "约 20 亿）",
+      "cause": "政策/监管冲击",
+      "country": "中国"
+    },
+    {
+      "name": "Mythic Therapeutics",
+      "who": "Brian Fiske",
+      "outcome": "关停",
+      "sector": "ADC",
+      "region": "国内",
+      "src": "china",
+      "story": "Mythic Therapeutics（Brian Fiske（创始人叙事））留下了可核查的失败/关停记录。结局：B 轮约 1.03 亿美元后约四年（报道时点 2025-12）融资失败、终止全部业务与 MYTX-011 临床试验；I 期节奏落后竞品标准疗法建立之后。",
+      "lesson": "「平台故事」遇「数据真空」+ 早期 VC 收缩 = 无大药企合作兜底即死；速度即生命的赛道里后发初创无首创光环也无巨头资源。",
+      "timeline": "2025-12",
+      "source_url": "https://www.drugtimes.cn/2025/12/17/sinianshaodiao1yimeiyuanmingxingadcyaoqidaobi/",
+      "tags": [
+        "平台碾压"
+      ],
+      "capital": "03 亿美元后约四年（报道时点 2025-12）融资",
+      "cause": "平台/巨头同质化碾压",
+      "country": "中国"
+    },
+    {
+      "name": "拉勾网",
+      "who": "许单单",
+      "outcome": "破产重整",
+      "sector": "垂直招聘",
+      "region": "国内",
+      "src": "china",
+      "story": "拉勾网曾是互联网垂直招聘标杆，许单单后来选择主动走向破产重整，并公开复盘合伙与周期问题。垂直招聘在流量与客户预算迁移后，品牌光环挡不住现金流与组织债。",
+      "lesson": "主动破产有时是止损；合伙规则与周期现金要在扩张前提前写清。",
+      "timeline": "高光垂直招聘 → 破产重整",
+      "source_url": "https://www.ithome.com/0/957/960.htm",
+      "tags": [
+        "现金流",
+        "治理崩"
+      ],
+      "cause": "治理崩盘 / 内控失效",
+      "country": "中国"
+    },
+    {
+      "name": "重庆通用航空",
+      "who": "重整投资人/法院",
+      "outcome": "重整成功",
+      "sector": "通航/低空",
+      "region": "国内",
+      "src": "china",
+      "story": "重庆通航 2022 年债务约 2.68 亿申请清算，后转重整成功，投资人首期注入 2500 万，低空旅游等业务重启。档案强调重资产通航收入盖不住租金与利息，但清算 vs 重整的路径选择决定资产包能否留给新产业叙事。",
+      "lesson": "重资产通航造血难；清算与重整路径选择决定「火种」能否被制度挽救。",
+      "timeline": "2022 申请清算 → 转重整成功",
+      "tags": [
+        "政策",
+        "现金流",
+        "硬件鸿沟"
+      ],
+      "source_url": "http://www.cq.xinhuanet.com/20241011/5e6d5c13f76a4178815c787b4b2d426e/c.html",
+      "country": "中国"
+    },
+    {
+      "name": "Manus / 蝴蝶效应",
+      "who": "肖弘等",
+      "outcome": "收购撤销/独立运营",
+      "sector": "AI Agent",
+      "region": "国内",
+      "src": "china",
+      "story": "肖弘等做通用 Agent Manus：2025-12 Meta 约 20 亿美元收购叙事后，2026-04-27 发改委外资安审禁止并责令撤销；腾讯牵头+真格/红杉中国原价回购，2026-09-01 官网宣布独立运营、创始团队恢复实控。非关停，是合规架构逆转课。",
+      "lesson": "跨境主体+海外巨头收购可被安审逆转；失去算力/分发后增长路径必须重写。",
+      "timeline": "2025-12 收购叙事 → 2026-04 安审撤销 → 2026-09 独立运营",
+      "tags": [
+        "政策",
+        "治理崩"
+      ],
+      "source_url": "https://www.36kr.com/p/3935775263603845",
+      "country": "中国"
+    },
+    {
+      "name": "影石影翎无人机",
+      "who": "刘靖康体系",
+      "outcome": "巨亏进行中",
+      "sector": "消费无人机",
+      "region": "国内",
+      "src": "china",
+      "story": "影石影翎无人机（刘靖康（主业已入库 R1 成功）；无人机线管理层）留下了可核查的失败/关停记录。缺口状态：国内青年具名整机/eVTOL 一手关停信仍缺；本条是龙头子公司失血，非青年一手。结局：2026 H1：集团营收 +50% 但归母净利暴跌 94%；影翎系合计亏约 3.67 亿，核心主体技术性资不抵债；美国 FCC Covered List 抬高境外无人机准入。",
+      "lesson": "主业现金牛 ≠ 第二曲线可无限输血；适航/准入监管（FCC）可瞬间抬高出海成本。",
+      "timeline": "2026",
+      "source_url": "https://m.163.com/dy/article/L5LQG0QC0519RRAD.html",
+      "tags": [
+        "政策",
+        "硬件鸿沟",
+        "现金流",
+        "第二曲线失血"
+      ],
+      "country": "中国"
+    },
+    {
+      "name": "HOMEE 合宜家居",
+      "who": "创办人被解任",
+      "outcome": "停业/治理崩",
+      "sector": "AI家具电商",
+      "region": "国内",
+      "src": "china",
+      "story": "HOMEE 合宜家居（创办人遭董事会解任；日籍新董事长「神隐」；员工公开喊救命）留下了可核查的失败/关停记录。结局：2026-07 北市消保稽查大门深锁；待出货订单估 400 万+ 新台币；官网曾继续接单后改 Coming Soon。",
+      "lesson": "经营权纠纷可瞬间瘫痪履约与发薪；AI 背书/名人背板 ≠ 现金流与治理。",
+      "timeline": "2026-07",
+      "source_url": "https://www.knews.com.tw/news/FA64F23B3F0C15726DA64CE3376C22E5",
+      "tags": [
+        "治理崩",
+        "现金流"
+      ],
+      "cause": "治理崩盘 / 内控失效",
+      "country": "中国台湾"
+    },
+    {
+      "name": "疲老闆",
+      "who": "陈小铭",
+      "outcome": "关停",
+      "sector": "内容电商",
+      "region": "国内",
+      "src": "china",
+      "story": "疲老闆（陈小铭）留下了可核查的失败/关停记录。结局：2026-04 社群影片宣布门市结束；称「硬撑、苦撑」约一年后「真的撑不下去」；承诺「该还的一定还」。",
+      "lesson": "直播红利消退后固定成本（千坪卖场）反噬；公开视频关停是华语圈准一手收尾礼仪。",
+      "timeline": "2026-04",
+      "source_url": "https://udn.com/news/story/7326/9442274",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "中国台湾"
+    },
+    {
+      "name": "AI社交小程序",
+      "who": "匿名全栈",
+      "outcome": "主动暂停",
+      "sector": "AI社交",
+      "region": "国内",
+      "src": "china",
+      "story": "匿名全栈团队用 AI 把原需 5–6 人三个月的社交 MVP 压缩到一人可交付，次日留存一度约 35%、付费过百，仍主动暂停。生产力能把产品做出来，却解不开「双向意愿」与商业天花板。",
+      "lesson": "生产力跃迁≠生意；有人用、有人付也不等于值得持续投入，要敢在正向数据后推翻底层逻辑。",
+      "timeline": "约半年冲刺 → 主动暂停",
+      "source_url": "https://www.woshipm.com/pd/6455154.html",
+      "tags": [
+        "伪需求",
+        "平台碾压"
+      ],
+      "country": "中国"
+    },
+    {
+      "name": "睿途低空等",
+      "who": "操盘团伙",
+      "outcome": "跑路/注销",
+      "sector": "低空骗局",
+      "region": "国内",
+      "src": "china",
+      "story": "「睿途低空」等项目把低空经济热点包装成 APP 服务包日收益与层级返利，从 2024 农业无人机租赁话术滑向 2025 类传销资金盘。长沙监管风险提示后主体注销跑路，与同期「学开飞机」类骗局同构。",
+      "lesson": "固定收益+发展下线=热点传销话术；把「能飞演示」和「真付费客户」分开验证。",
+      "timeline": "2024 租赁话术 → 2025 跑路注销",
+      "source_url": "https://news.qq.com/rain/a/20260125A068DN00",
+      "tags": [
+        "伪需求",
+        "治理崩",
+        "政策"
+      ],
+      "lifespan": "2024–2025（约1年）",
+      "cause": "伪需求 / PMF 缺失",
+      "country": "中国"
+    },
+    {
+      "name": "Mad Space",
+      "who": "王臣",
+      "outcome": "关闭",
+      "sector": "众创空间",
+      "region": "国内",
+      "src": "china",
+      "story": "Mad Space（王臣（创始人））留下了可核查的失败/关停记录。结局：关闭；入驻率约 60% 仍死于物业/运营成本与联合办公价格战；与优客工场全盘接管协议爽约；园区违建/无房产证，押金约百万未退。",
+      "lesson": "做二房东时物业自主权缺失，租金目标与创业服务理念冲突；入驻率好看 ≠ 单位经济。",
+      "source_url": "https://m.newseed.cn/news/1327104",
+      "tags": [
+        "治理崩"
+      ],
+      "cause": "治理崩盘 / 内控失效",
+      "country": "中国"
+    },
+    {
+      "name": "AI获客原型项目",
+      "who": "匿名OPC",
+      "outcome": "主动暂停",
+      "sector": "一人公司",
+      "region": "国内",
+      "src": "china",
+      "story": "AI获客原型项目（一人公司实践者（人人都是产品经理））留下了可核查的失败/关停记录。结局：主动暂停：差点用生成式工具直接上线；真实访谈发现客户要的是平台流量而非官网门面。",
+      "lesson": "AI 降低执行成本，不降低判断成本；原型是止损工具。",
+      "source_url": "https://www.woshipm.com/share/6352880.html",
+      "tags": [
+        "CAC",
+        "平台碾压"
+      ],
+      "country": "中国"
+    },
+    {
+      "name": "苏珀曼智能",
+      "who": "浙大产学研团队",
+      "outcome": "破产清算",
+      "sector": "庭院机器人",
+      "region": "国内",
+      "src": "china",
+      "story": "杭州苏珀曼是国内最早一批庭院割草机器人公司之一，曾出口多国、拥有数十项专利，仍因产品迭代停滞被新锐与海外需求甩开。2025 杭州中院受理破产，设备与专利进入司法拍卖。",
+      "lesson": "老牌专利墙挡不住迭代停滞；硬件公司要把导航/避障等核心能力的持续研发写进生存线。",
+      "timeline": "2007 成立 → 2025 破产拍卖",
+      "source_url": "https://www.cifnews.com/article/176732",
+      "tags": [
+        "硬件鸿沟",
+        "现金流"
+      ],
+      "lifespan": "2007–2025（约18年）",
+      "cause": "硬件量产与供应链鸿沟",
+      "country": "中国"
+    },
+    {
+      "name": "一星机器人",
+      "who": "李星星等",
+      "outcome": "闪电解散",
+      "sector": "具身智能",
+      "region": "国内",
+      "src": "china",
+      "story": "苏州一星机器人带着吉利产业资本与亲友轮/数亿元种子叙事起步，成立不足半年便于约 2025-10 闪电解散：背景人员撤出、办公室拆牌。当时对外仍有「有订单、还在装修」的说法，独立生存权却已被内部资源聚焦牺牲。",
+      "lesson": "产业资本叙事≠独立生存权；挂靠大厂资源时先问清退出条件与内部竞品优先级。",
+      "timeline": "成立不足半年 → 2025-10 闪电解散",
+      "source_url": "https://www.mrjjxw.com/articles/2025-10-18/4096327.html",
+      "tags": [
+        "现金流",
+        "治理崩"
+      ],
+      "cause": "治理崩盘 / 内控失效",
+      "country": "中国"
+    },
+    {
+      "name": "微亚医疗",
+      "who": "管理团队",
+      "outcome": "破产清算",
+      "sector": "手术机器人",
+      "region": "国内",
+      "src": "china",
+      "story": "微亚医疗做血管介入手术机器人，曾完成千万级 A 轮并宣称「世界首例」机器人辅助造影，但核心产品未获 NMPA 三类证、无经营性收入。2025-02 法院受理破产，专利与设备进入低价拍卖。",
+      "lesson": "实验室「首例」≠注册上市时钟；证未下之前不要按已商业化公司扩编制。",
+      "timeline": "A 轮叙事 → 2025-02 破产清算",
+      "source_url": "https://news.qq.com/rain/a/20250605A090DU00",
+      "tags": [
+        "政策",
+        "硬件鸿沟"
+      ],
+      "cause": "硬件量产与供应链鸿沟",
+      "country": "中国"
+    },
+    {
+      "name": "超能界",
+      "who": "陈卓权",
+      "outcome": "失败",
+      "sector": "二次元短视频",
+      "region": "国内",
+      "src": "china",
+      "story": "超能界（陈卓权 Charge（浙大计算机、腾讯出身、90后 CEO））留下了可核查的失败/关停记录。结局：失败关停：真人特效短视频、启明/德迅等融资、峰值 DAU 约十万级后瓶颈；工具转社区社交、VIE 搭建拖节奏、融资窗口错过；作者自述患肿瘤后仍写长复盘。",
+      "lesson": "工具估值焦虑→强行讲社区故事是常见死法；应先把拍摄体验打磨极致再扩圈。",
+      "source_url": "https://www.36kr.com/p/1724279226369",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "估值焦虑→强行讲社区故事是常见死法",
+      "cause": "综合经营失败",
+      "country": "中国"
+    },
+    {
+      "name": "妙鸭相机",
+      "who": "张月光",
+      "outcome": "团队解散",
+      "sector": "AI写真",
+      "region": "国内",
+      "src": "china",
+      "story": "妙鸭相机靠 AI 写真在暑期打出爆款，很快陷入同质化免费工具围剿。内部孵化光环未能转化成独立造血，团队最终解散，成为 AI 消费潮「爆款→同质化→退场」的典型样本。",
+      "lesson": "爆款留存窗口极短；同质化赛道要尽早找到付费差异，而不是靠流量幻觉续命。",
+      "timeline": "暑期爆款 → 同质化后团队解散",
+      "source_url": "https://news.qq.com/rain/a/20260527A078F800",
+      "tags": [
+        "平台碾压",
+        "伪需求"
+      ],
+      "cause": "伪需求 / PMF 缺失",
+      "country": "中国"
+    },
+    {
+      "name": "后会友期",
+      "who": "潘启农等",
+      "outcome": "关门/警方",
+      "sector": "校园众筹餐饮",
+      "region": "国内",
+      "src": "china",
+      "story": "「后会友期」拿下挑战杯金奖后做众筹餐厅，光环迅速转化成融资与扩张叙事。治理与运营却跟不上：门店关门、矛盾升级，最终警方介入，成为「竞赛金奖≠商业能力」的具名反例。",
+      "lesson": "奖项与媒体光环不能替代治理与单位经济；落地率远低于获奖叙事。",
+      "timeline": "挑战杯金奖 → 众筹餐厅 → 关门/警方",
+      "source_url": "https://www.thepaper.cn/newsDetail_forward_1647093",
+      "tags": [
+        "校园陷阱",
+        "治理崩"
+      ],
+      "cause": "治理崩盘 / 内控失效",
+      "country": "中国"
+    },
+    {
+      "name": "探鹿兼职",
+      "who": "周文华",
+      "outcome": "破产清算",
+      "sector": "校园兼职",
+      "region": "国内",
+      "src": "china",
+      "story": "探鹿兼职从校园场景切入，用下载返现与地推大使换增长，C 端热闹却难换来可持续的 B 端容积。烧完融资后进入破产清算，创始人复盘指向获客贵与供需错配。",
+      "lesson": "C 端流量≠B 端付费容积；校园地推的 CAC 要按可重复购买订单核算。",
+      "timeline": "校园增长 → 破产清算",
+      "source_url": "https://www.tmtpost.com/2588898.html",
+      "tags": [
+        "CAC",
+        "校园陷阱"
+      ],
+      "cause": "获客成本不可持续",
+      "country": "中国"
+    },
+    {
+      "name": "毫末智行",
+      "who": "张凯/顾维灏",
+      "outcome": "停工解散",
+      "sector": "自动驾驶",
+      "region": "国内",
+      "src": "china",
+      "story": "毫末智行作为长城孵化的智驾公司，估值曾超 10 亿美元，同时押注乘用车 NOA、L4 配送与 Robotaxi。2025 开年内部信仍写「融资顺利」，数月后却在 2025-11-24 起全员停工放假，叙事与现金彻底脱节。",
+      "lesson": "融资叙事可领先现金数月；多赛道并行却无造血时，停工往往突然到来。",
+      "timeline": "2019 孵化 → 2025-11 全员停工",
+      "source_url": "https://www.36kr.com/p/3567011145685122",
+      "tags": [
+        "现金流",
+        "单一LP"
+      ],
+      "capital": "估值曾超 10 亿美元，同时押注乘用车 NOA、L4 配送与 R",
+      "lifespan": "2019–2025（约6年）",
+      "cause": "融资来源单一断供",
+      "country": "中国"
+    },
+    {
+      "name": "极越汽车",
+      "who": "夏一平",
+      "outcome": "闪崩/重整",
+      "sector": "智能电动车",
+      "region": "国内",
+      "src": "china",
+      "story": "极越（集度）背靠百度 Apollo 与吉利，一度被写成 L4 量产叙事。2024-12 多部门原地解散、讨薪直播爆发，随后进入预重整；股东输血一断，员工、供应商与车主三角同时爆雷。",
+      "lesson": "技术光环挡不住资金窟窿；股东输血中断即系统性崩盘，要提前设计退出与对客承诺边界。",
+      "timeline": "2024-12 闪崩 → 预重整",
+      "source_url": "https://www.huxiu.com/article/4814013.html",
+      "tags": [
+        "现金流",
+        "治理崩"
+      ],
+      "cause": "治理崩盘 / 内控失效",
+      "country": "中国"
+    },
+    {
+      "name": "雷柏/零度无人机",
+      "who": "上市公司",
+      "outcome": "业务终止",
+      "sector": "消费无人机",
+      "region": "国内",
+      "src": "china",
+      "story": "雷柏/零度无人机（上市公司管理层（互动易披露））留下了可核查的失败/关停记录。结局：2025-08 明确终止无人机研发与销售；子公司无实际经营活动。",
+      "lesson": "上市公司第二曲线可「干净切断」——对照影翎仍在失血；控股壳留存≠业务存活。",
+      "timeline": "2025-08",
+      "source_url": "https://www.nbd.com.cn/articles/2025-08-07/4004105.html",
+      "tags": [
+        "硬件鸿沟",
+        "第二曲线失血"
+      ],
+      "country": "中国"
+    },
+    {
+      "name": "Stripe",
+      "who": "IE→US",
+      "outcome": "Success",
+      "sector": "Fintech",
+      "region": "全球",
+      "src": "global",
+      "story": "Collison 兄弟在 YC 早期实践「Collison installation」：客户一点头就立刻上手安装，幕后手动开通「即时」商户账户，用不可规模化动作把热情锁住，再叠加每周增长率纪律，做成支付基础设施品类定义者。",
+      "lesson": "先做不可规模化的事制造拉力；创始人亲自成交，周增长率重于虚荣绝对数。",
+      "timeline": "2010 YC → Collison installation → 品类定义",
+      "tags": [
+        "成功对照"
+      ],
+      "source_url": "https://www.paulgraham.com/ds.html",
+      "country": "爱尔兰/美国"
+    },
+    {
+      "name": "Airbnb",
+      "who": "US",
+      "outcome": "Success",
+      "sector": "Marketplace",
+      "region": "全球",
+      "src": "global",
+      "story": "约 2008 年纽约，Airbnb 创始人带着相机上门给房东拍专业房源照，转化率约提升 3 倍；约 30 天面对面运营把脆弱供给撬成牵引力，成为「Do Things that Don’t Scale」的经典供给侧英雄主义样本。",
+      "lesson": "双边市场早期要病理级取悦供给侧；早期「极致」是体验而非抛光产品。",
+      "timeline": "2008 NYC 上门拍照 → YC W09 → 全球市场",
+      "tags": [
+        "成功对照"
+      ],
+      "source_url": "https://www.paulgraham.com/ds.html",
+      "country": "美国"
+    },
+    {
+      "name": "Superhuman",
+      "who": "US",
+      "outcome": "Success",
+      "sector": "Consumer AI",
+      "region": "全球",
+      "src": "global",
+      "story": "Rahul Vohra 用 Sean Ellis 问卷把「非常失望」分从 22% 做到约 58%：先切出高期望客户「Nicole」，路线图一半加码速度真爱点、一半拆掉摇摆用户障碍，把 PMF 做成可测量引擎而非感觉。",
+      "lesson": "PMF 可测量可改进；先细分再平均；把 PMF 分数本身设成 OKR。",
+      "timeline": "2015– · Sean Ellis 引擎迭代",
+      "tags": [
+        "成功对照"
+      ],
+      "source_url": "https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit",
+      "country": "美国"
+    },
+    {
+      "name": "Supabase",
+      "who": "NZ/global",
+      "outcome": "Success",
+      "sector": "Devtools",
+      "region": "全球",
+      "src": "global",
+      "story": "Paul Copplestone 等把定位改成「开源 Firebase 替代」后次日意外登顶 HN；Demo Day 前先出荷 Auth，再用 launch week 节奏增长，并赶上 pgvector→AI 应用后端三波尾风。创始人强调：尽管融到钱，仍按账上只剩 10 万美元来运营。",
+      "lesson": "PMF 常常是定位契合；先找到 PMF 再 blitzscale；融资手艺与建造要分开。",
+      "timeline": "2020 YC → HN 定位爆发 → AI 尾风",
+      "tags": [
+        "成功对照"
+      ],
+      "source_url": "https://review.firstround.com/how-supabase-became-the-essential-infrastructure-for-the-ai-era-paul-copplestone-co-founder-ceo/",
+      "country": "新西兰"
+    },
+    {
+      "name": "Gusto",
+      "who": "US",
+      "outcome": "Success",
+      "sector": "Fintech/HR",
+      "region": "全球",
+      "src": "global",
+      "story": "Gusto（原 ZenPayroll）创始人曾做过「推绳子」的企业软件；再创业时故意先只服务加州带薪 SMB，在步入式壁橱里冷电话，直到出现「我现在就需要」的情绪信号才扩品类，十年做成人力薪酬平台。",
+      "lesson": "找带强烈爱恨的真痛点；把 ICP 收窄到人人真爱，再扩张。",
+      "timeline": "2011–12 YC W12 → 窄 ICP → 平台扩张",
+      "tags": [
+        "成功对照"
+      ],
+      "source_url": "https://review.firstround.com/gustos-path-to-product-market-fit/",
+      "country": "美国"
+    },
+    {
+      "name": "Klarna",
+      "who": "Europe",
+      "outcome": "Success+pivot",
+      "sector": "Fintech",
+      "region": "全球",
+      "src": "global",
+      "story": "Klarna 从保理灵感与快餐客服共情做出 BNPL，ZIRP 期月烧约 1 亿美元、估值从约 450 亿回撤后，靠重组与 AI 重度运营压成本，约 2024 年回到约 28 亿美元营收并盈利，再走 IPO 叙事。",
+      "lesson": "增长至上可逆，前提是尽早重组；AI 能压缩金融运营成本结构。",
+      "timeline": "2005 创立 → ZIRP 烧钱 → 重组盈利 → IPO 路径",
+      "tags": [
+        "成功对照",
+        "现金流"
+      ],
+      "source_url": "https://sequoiacap.com/article/sebastian-siemiatkowski-klarna-spotlight/",
+      "country": "欧洲"
+    },
+    {
+      "name": "Grab",
+      "who": "SEA",
+      "outcome": "Success",
+      "sector": "Super-app",
+      "region": "全球",
+      "src": "global",
+      "story": "Anthony Tan / Tan Hooi Ling 做 Grab：Series A 融得极惨（Tan 在投资人会面间晕倒），GrabPay 源自司机被抢现金的运营痛点，GrabFood 源自闲时运力利用；创始人把家搬到雅加达做本地沉浸，按问题链路扩成超级应用。",
+      "lesson": "扩张要问题联动而非战略 PPT 联动；本地沉浸胜过总部抽象。",
+      "timeline": "2012 创立 → 支付/外卖问题联动 → 上市路径",
+      "tags": [
+        "成功对照"
+      ],
+      "source_url": "https://www.businesstimes.com.sg/companies-markets/ceo-anthony-tan-podcast-inside-grab",
+      "country": "东南亚"
+    },
+    {
+      "name": "Gojek / GoTo",
+      "who": "SEA",
+      "outcome": "Success/merge",
+      "sector": "Super-app",
+      "region": "全球",
+      "src": "global",
+      "story": "Gojek 起步是约 20 名摩的司机的电话调度中心，司机再变成招募者；随后在 200+ 城市铺餐饮、物流、支付，2021 与 Tokopedia 合并为 GoTo。用不可规模化的人际网络换来多边密度。",
+      "lesson": "从不可规模化的人际网络起步；深度本地化才能长出支付与商业邻接。",
+      "timeline": "2010 呼叫中心 → 超级应用 → 2021 合并 GoTo",
+      "tags": [
+        "成功对照"
+      ],
+      "source_url": "https://startuptalky.com/gojek-success-story/",
+      "country": "东南亚"
+    },
+    {
+      "name": "Quibi",
+      "who": "US",
+      "outcome": "Fail",
+      "sector": "Media",
+      "region": "全球",
+      "src": "global",
+      "story": "Quibi（US）最终关停或失败。时间约在2018–2020。档案记载：~$1.8B raised pre/post launch; ~$1B content spend; no killer show; Super Bowl/Oscars ads that confused millennials; no social clip/share; COVID blamed then walked back; wound down and returned remaining capital。结果写作「Fail (shut down 2020)」。",
+      "lesson": "可执行点：Overfunding forces binary outcome; content + distribution > pedigree; validate problem with MVP before billion-dollar production; leadership disconnected from I…。",
+      "timeline": "2018–2020",
+      "source_url": "https://www.failory.com/cemetery/quibi",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "$1.8B raised pre/post launch；~$1B content spend",
+      "lifespan": "2018–2020（约2年）",
+      "cause": "综合经营失败",
+      "country": "美国"
+    },
+    {
+      "name": "Fast",
+      "who": "US",
+      "outcome": "Fail",
+      "sector": "Fintech",
+      "region": "全球",
+      "src": "global",
+      "story": "Fast 以一键结账冲击电商结账体验，融资与估值快速膨胀，却未跑通可持续单位经济与商户渗透。烧完资本后迅速关停，成为 fintech「体验叙事领先现金」的经典尸检。",
+      "lesson": "体验创新也要先证明商户愿付与复购；估值膨胀不能替代单位经济。",
+      "timeline": "高估值扩张 → 关停",
+      "tags": [
+        "现金流",
+        "伪需求"
+      ],
+      "capital": "估值快速膨胀，却未跑通可持续单位经济与商户渗透；估值扩张 → 关停 体验创新也要先证明商户愿付与复购",
+      "cause": "伪需求 / PMF 缺失",
+      "country": "美国"
+    },
+    {
+      "name": "Byju's",
+      "who": "India",
+      "outcome": "Fail",
+      "sector": "Edtech",
+      "region": "全球",
+      "src": "global",
+      "story": "Byju's（Byju Raveendran, Divya Gokulnath）最终关停或失败。时间约在2011 → crisis 2023–2026。档案记载：Pandemic boom → aggressive M&A and borrowing; governance breakdown; investor board exits; BCCI dues → NCLT insolvency path; Singapore contempt jail sentence narrative (2026 reporting); founder frames as “grew too fast” +…。结果写作「Fail / collapse (from ~$22B to near-zero; insolvency, founder legal woes)」。",
+      "lesson": "可执行点：Growth-as-virtue without controls destroys trust; pandemic demand is not forever PMF; governance is a product; debt + opacity = terminal in funding winters.",
+      "timeline": "2011 → crisis 2023–2026",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "$22B to near-zero；insolvency, founder legal woes)」",
+      "lifespan": "2011–2026（约15年）",
+      "cause": "综合经营失败",
+      "country": "印度"
+    },
+    {
+      "name": "Dunzo",
+      "who": "India",
+      "outcome": "Fail",
+      "sector": "Hyperlocal",
+      "region": "全球",
+      "src": "global",
+      "story": "Dunzo最终关停或失败。时间约在2014 → ops wind-down ~Jan 2025; CIRP Aug 2025。档案记载：Raised ~$449M (Google, Reliance, etc.); FY23 losses ~₹1,801 Cr on ~₹226 Cr revenue; dark-store cuts, vendor dues (~₹80 Cr notices), cofounder exits; Reliance write-off; NCLT Bengaluru admitted CIRP (Aug 6, 2025)。结果写作「Fail (insolvency / CIRP)」。",
+      "lesson": "可执行点：Unit economics must work before density wars; first-mover ≠ durable moat vs well-capitalized quick-commerce rivals; vendor trust is oxygen; leadership churn acc…。",
+      "timeline": "2014 → ops wind-down ~Jan 2025; CIRP Aug 2025",
+      "source_url": "https://inc42.com/buzz/exclusive-reliance-backed-dunzo-admitted-into-insolvency/",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "$449M (Google, Reliance, etc.)；FY23 losses ~₹1,801 Cr",
+      "lifespan": "2014–2025（约11年）",
+      "cause": "综合经营失败",
+      "country": "印度"
+    },
+    {
+      "name": "CB Insights autopsies",
+      "who": "Global",
+      "outcome": "Pattern library",
+      "sector": "Cross",
+      "region": "全球",
+      "src": "global",
+      "story": "CB Insights 对数百起关停做尸检归类：现金耗尽约占 70%（机制），PMF 差约 43%，时机/宏观约 29%，单位经济不可持续约 19%；末轮融资到死亡中位约 22 个月。现金是子弹而非动机，AI 时代还叠加推理成本吃掉毛利。",
+      "lesson": "先分清死于 PMF、毛利还是宏观；现金耗尽是机制，根因要另找。",
+      "timeline": "2023 后关停队列 · 报告约 2024–2026 更新",
+      "tags": [
+        "现金流",
+        "伪需求"
+      ],
+      "source_url": "https://www.cbinsights.com/research/report/startup-failure-reasons-top/",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "Wirecard",
+      "who": "Europe",
+      "outcome": "Fail",
+      "sector": "Fintech",
+      "region": "全球",
+      "src": "global",
+      "story": "Wirecard（Europe）最终关停或失败。时间约在Collapse 2020。档案记载：DAX fintech darling; ~€1.9B missing cash; auditor/regulatory blind spots; customer impact limited relative to investor wipeout—but model exposed supervision gaps for tech-enabled payments。结果写作「Fail (fraud, insolvency)」。",
+      "lesson": "可执行点：Fintech without real controls is leverage on trust; auditors & supervisors must understand business model; regulatory arbitrage ≠ moat.",
+      "timeline": "Collapse 2020 → 关停/失败",
+      "source_url": "https://cepr.org/voxeu/columns/regulating-fintech-europe-lessons-collapse-wirecard",
+      "tags": [
+        "治理崩"
+      ],
+      "cause": "治理崩盘 / 内控失效",
+      "country": "欧洲"
+    },
+    {
+      "name": "Pieter Levels portfolio",
+      "who": "Global/SEA",
+      "outcome": "Success",
+      "sector": "Indie / consumer AI",
+      "region": "全球",
+      "src": "global",
+      "story": "Pieter Levels 从 Google Sheet 做出 Nomad List，再因用户需求做出 Remote OK，公开收入、重 SEO 与自动化而非堆人头，后又加 Photo AI；档案描述为无 VC、高毛利、多百万美元营收的 solo 组合复利。",
+      "lesson": "先丑陋 MVP；跟着下一个用户问题走；solo+高毛利胜过虚荣编制。",
+      "timeline": "2014 Nomad List → Remote OK → Photo AI",
+      "tags": [
+        "成功对照"
+      ],
+      "source_url": "https://www.indiehackers.com/post/from-google-sheets-to-3-6m-as-a-solo-founder-de782f722a",
+      "country": "东南亚"
+    },
+    {
+      "name": "Naval — How to Get Rich",
+      "who": "US/global",
+      "outcome": "Essay",
+      "sector": "Founder essay",
+      "region": "全球",
+      "src": "global",
+      "story": "Naval 的《How to Get Rich》推文长文与访谈集，强调特定知识、杠杆（代码/媒体/资本）、问责与长期博弈：财富来自可规模化杠杆而非线性出卖时间，是创业者心智层的常用教材而非单一公司尸检。",
+      "lesson": "追求杠杆而非线性劳力；玩可迭代的长期游戏；特定知识学校教不会。",
+      "timeline": "2018+ 推文风暴 → nav.al/rich / Almanack",
+      "tags": [
+        "成功对照"
+      ],
+      "source_url": "https://nav.al/rich",
+      "country": "美国"
+    },
+    {
+      "name": "Matic Robotics",
+      "who": "US",
+      "outcome": "Success-in-progress",
+      "sector": "Robotics",
+      "region": "全球",
+      "src": "global",
+      "story": "Matic 选择进入 NPS 为负的存量扫地机器人品类，而非发明人形新市场；强调视觉感知、自建产线加快迭代、产品驱动增长而非买量。论点是硬件不要「创造市场」，演示≠量产。",
+      "lesson": "硬件勿凭空造市场；机器人难度远高于软件；感知与量产才是硬问题。",
+      "timeline": "2010s 中后期– · 存量品类重定义",
+      "tags": [
+        "成功对照",
+        "硬件鸿沟"
+      ],
+      "source_url": "https://tribechat.com/founders-in-arms-podcast/matic-robotics-mehul-nariyawala-hardware-startups-robotics",
+      "country": "美国"
+    },
+    {
+      "name": "Botsync",
+      "who": "SEA",
+      "outcome": "Success-in-progress",
+      "sector": "Robotics",
+      "region": "全球",
+      "src": "global",
+      "story": "Botsync 做工业 AMR：档案记载 2025 生产行程 +240%、直播行程超百万、收入同比 +230%，增长多来自老客户扩单，并靠 Ford/可口可乐/Caterpillar/Nestlé 等部署建立可信度，强调试点之后的生产 ROI。",
+      "lesson": "成熟市场买的是证据不是 BP；用生产 ROI 而非试点叙事衡量。",
+      "timeline": "SEA/India 起步 → 2025 规模化扩单",
+      "tags": [
+        "成功对照",
+        "硬件鸿沟"
+      ],
+      "source_url": "https://technode.global/2026/09/01/botsync-rahul-nambiar-scaling-autonomous-mobile-robots-beyond-pilots-qa/",
+      "country": "东南亚"
+    },
+    {
+      "name": "Airtable",
+      "who": "US",
+      "outcome": "Success",
+      "sector": "No-code SaaS",
+      "region": "全球",
+      "src": "global",
+      "story": "Airtable 从私有 alpha 做多年「慢构建」水平平台：如何在不过早锁死垂直场景的前提下验证愿景、打磨定位与竞争叙事，是 First Round 记录的经典水平产品 PMF 路径。",
+      "lesson": "水平产品需要耐心与定位手艺；慢构建≠没野心。",
+      "timeline": "2012– · alpha → 水平平台",
+      "tags": [
+        "成功对照"
+      ],
+      "source_url": "https://review.firstround.com/airtables-path-to-product-market-fit-lessons-for-building-horizontal-products/",
+      "country": "美国"
+    },
+    {
+      "name": "Lenny — PMF essay",
+      "who": "Global",
+      "outcome": "Essay",
+      "sector": "Operator essay",
+      "region": "全球",
+      "src": "global",
+      "story": "Lenny Rachitsky 汇总 Andreessen、Elad Gil、Steve Blank、Rachleff、Seibel 等对 PMF 的定义，指向 Superhuman 引擎与精益打法，成为运营者默认的 PMF 参考层：产品前/后信号不同，要收集具体领先指标。",
+      "lesson": "产品前与产品后的 PMF 信号不同；把具体领先指标收集起来，社区策展本身也是产品。",
+      "timeline": "2020 起长文 · 持续更新",
+      "tags": [
+        "成功对照"
+      ],
+      "source_url": "https://www.lennysnewsletter.com/p/how-to-know-if-youve-got-productmarket",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "Running Tide",
+      "who": "US",
+      "outcome": "Fail",
+      "sector": "Ocean CDR",
+      "region": "全球",
+      "src": "global",
+      "story": "Running Tide（US）最终关停或失败。时间约在2017– mid-2024 shutdown。档案记载：$54M Series B (Lowercarbon); Microsoft/Shopify credits; sub-$200/ton path; ~1000 investor meetings failed to fund megaton scale; voluntary carbon prices collapsed ~80%; laid off remaining staff Jun 2024。结果写作「Fail (voluntary shutdown; not classic bankruptcy)」。",
+      "lesson": "可执行点：Voluntary carbon demand ≠ bankable offtake; being first means building the whole value chain (labor-heavy); industrial ops > “science story” for capital; classi…。",
+      "timeline": "2017– mid-2024 shutdown",
+      "source_url": "https://www.latitudemedia.com/news/running-tides-final-year/",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "$54M Series B (Lowercarbon)；Microsoft/Shopify credits",
+      "lifespan": "2017–2024（约7年）",
+      "cause": "综合经营失败",
+      "country": "美国"
+    },
+    {
+      "name": "Moxion Power",
+      "who": "US",
+      "outcome": "Fail",
+      "sector": "Mobile batteries",
+      "region": "全球",
+      "src": "global",
+      "story": "Moxion Power（Paul Huelskamp, Alexander Meek）最终关停或失败。时间约在2020– Chapter 7 Aug 2024。档案记载：YC → $100M Series B (Amazon Climate Pledge, Microsoft CIF, Sunbelt); 400+ units shipped; 600-unit Sunbelt order narrative; failed $200M Series C at $1.5B; Jul 2024 furlough ~400 → close in a week。结果写作「Fail (Chapter 7; ~$201,980 cash left; assets sold ~$7M)」。",
+      "lesson": "可执行点：Investor logos ≠ market validation; premature manufacturing scale; missing bidirectional charge hurt utilization; customer concentration + capital winter = term…。",
+      "timeline": "2020– Chapter 7 Aug 2024",
+      "source_url": "https://avanzaenergy.substack.com/p/from-15-billion-valuation-to-201980",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "$100M Series B (Amazon Climate Pledge, Microsoft CIF, S；$200M Series C at $1.5B",
+      "lifespan": "2020–2024（约4年）",
+      "cause": "综合经营失败",
+      "country": "美国"
+    },
+    {
+      "name": "Northvolt",
+      "who": "Europe",
+      "outcome": "Fail",
+      "sector": "EV batteries",
+      "region": "全球",
+      "src": "global",
+      "story": "Northvolt（Peter Carlsson et al. (ex-Tesla)）最终关停或失败。时间约在Peak ~6,000 staff → Chapter 11 / production halt。档案记载：Massive public + private capital; production far below nameplate; reliance on Chinese equipment/know-how despite “sovereignty” narrative; SEK tens of billions debt vs thin revenue; CEO exit。结果写作「Fail (one of Europe’s largest modern bankruptcies)」。",
+      "lesson": "可执行点：Green industrial policy can create moral hazard / “subsidy entrepreneurs”; capabilities take time but politics forces speed; don’t bet national strategy on one …。",
+      "timeline": "Peak ~6,000 staff → Chapter 11 / production halt",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "欧洲"
+    },
+    {
+      "name": "Tallarna",
+      "who": "UK",
+      "outcome": "Fail",
+      "sector": "Carbon accounting SaaS",
+      "region": "全球",
+      "src": "global",
+      "story": "Tallarna（UK climate SaaS team）最终关停或失败。时间约在2018–2025 collapse after ~$8M raised。档案记载：ESG investing “why now” → ESG backlash + SaaS budget cuts; mid-market sales cycles 6→18+ months; regulatory tailwinds never converted to paid urgency。结果写作「Fail」。",
+      "lesson": "可执行点：Policy narrative ≠ purchase orders; mid-market ESG tools are first cut in downturns; GTM must survive 18-month enterprise cycles。",
+      "timeline": "2018–2025 collapse after ~$8M raised",
+      "source_url": "https://ideaproof.io/failure/tallarna",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "$8M raised；m",
+      "lifespan": "2018–2025（约7年）",
+      "cause": "综合经营失败",
+      "country": "英国"
+    },
+    {
+      "name": "Agrifood–climate cohort",
+      "who": "Global",
+      "outcome": "Pattern library",
+      "sector": "Agrifood×climate",
+      "region": "全球",
+      "src": "global",
+      "story": "2021 气候×农业食品队列到 2024 中烧光 runway：垂直农场、替代蛋白等 Capex 重仓出现破产、困境并购与安静的 500–3000 万美元级关停。EKAP 尸检强调：要分清科学风险与市场规模风险，还要有 offtake 与耐心资本。",
+      "lesson": "重资产气候押注需要收购与耐心资本；队列时机风险会被宏观放大。",
+      "timeline": "2021 热潮 → 2024 Q3 崩溃高峰 → 2025–2026 余震",
+      "tags": [
+        "现金流",
+        "硬件鸿沟"
+      ],
+      "source_url": "https://ekap.substack.com/p/autopsy-of-the-agrifoodclimate-tech",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "K-Scale Labs",
+      "who": "US",
+      "outcome": "Fail",
+      "sector": "Humanoid",
+      "region": "全球",
+      "src": "global",
+      "story": "K-Scale Labs 做人形机器人预购后难以续命，创始人选择退还订金并开源全部 IP 后告别。对照国内宇树等成本曲线，预购热度没有跨越制造与资本深渊。",
+      "lesson": "预购与开源退场是负责任路径；人形硬件在没有成本曲线前不要把预收款当收入。",
+      "timeline": "预购 → 退款开源关停",
+      "tags": [
+        "硬件鸿沟"
+      ],
+      "cause": "硬件量产与供应链鸿沟",
+      "country": "美国"
+    },
+    {
+      "name": "Cartwheel Robotics",
+      "who": "US",
+      "outcome": "Fail",
+      "sector": "Humanoid",
+      "region": "全球",
+      "src": "global",
+      "story": "Cartwheel Robotics（Scott LaValley）最终关停或失败。时间约在~4 years → shutdown。档案记载：Team of 7; ~$3M outside capital; built compact humanoid in <1 year; VC interest without bridge capital; LinkedIn farewell: “No money is better than the wrong money.”。结果写作「Fail (no capital partner for scale manufacturing)」。",
+      "lesson": "可执行点：Prototype speed ≠ scale capital; refuse misaligned money; tiny teams hit hardware walls earlier。",
+      "timeline": "~4 years → shutdown",
+      "source_url": "https://mikekalil.com/blog/cartwheel-robotics-shuts-down/",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "$3M outside capital；built compact humanoid in <1 yea",
+      "cause": "综合经营失败",
+      "country": "美国"
+    },
+    {
+      "name": "Embodied (Moxie)",
+      "who": "US",
+      "outcome": "Fail",
+      "sector": "Consumer robot",
+      "region": "全球",
+      "src": "global",
+      "story": "Embodied 的儿童陪伴机器人 Moxie 依赖云端服务，公司关停后设备面临「变砖」。团队以 OpenMoxie 等方式做损害控制，但云依赖硬件的商业模式本身已失败。",
+      "lesson": "消费机器人若强依赖云，关停=变砖；要在设计日规划离线降级与用户数据退出。",
+      "timeline": "云关停 → 设备变砖风险",
+      "tags": [
+        "硬件鸿沟",
+        "平台碾压"
+      ],
+      "cause": "硬件量产与供应链鸿沟",
+      "country": "美国"
+    },
+    {
+      "name": "eFishery",
+      "who": "SEA",
+      "outcome": "Fail/fraud",
+      "sector": "Agritech",
+      "region": "全球",
+      "src": "global",
+      "story": "eFishery最终关停或失败。时间约在2013– unicorn 2023 ($1.4B) → forensic unraveling 2024–2025 → liquidation path 2026。档案记载：SoftBank, Temasek, Sequoia India backers; alleged ~$600M fictitious revenue in 9M 2024; dual books alleged since Series A era; whistleblower; executives detained 2025; asset sale stalled。结果写作「Fail / fraud unwind (investors facing <10¢/$ recovery scenarios)」。",
+      "lesson": "可执行点：Growth-over-profit VC eras hide fraud longer; impact narrative is not a control; private unicorns need forensic-grade governance; SEA structural failure = gover…。",
+      "timeline": "2013– unicorn 2023 ($1.4B) → forensic unraveling 2024–2025 → liquidati",
+      "tags": [
+        "治理崩"
+      ],
+      "capital": "$1.4B) → forensic unraveling 2024–2025 → liquidation pa；$600M fictitious revenue in 9M 2024",
+      "lifespan": "2013–2025（约12年）",
+      "cause": "治理崩盘 / 内控失效",
+      "country": "东南亚"
+    },
+    {
+      "name": "Investree",
+      "who": "SEA",
+      "outcome": "Fail",
+      "sector": "P2P fintech",
+      "region": "全球",
+      "src": "global",
+      "story": "Investree（SEA）最终关停或失败。时间约在License revoked; NPL ~16% vs 5% cap; alleged ~Rp 2.7T illegal fund diversion; CEO repatriated Sep 2025。档案记载：NPL spike; lender lawsuits; OJK warnings ignored; SPVs allegedly used to raise funds in Investree’s name; Red Notice → Qatar → repatriation。结果写作「Fail (OJK revoke; criminal case; liquidation multi-year)」。",
+      "lesson": "可执行点：Fintech without risk controls + founder misconduct = regulatory death; NPL physics beat growth story; SEA fintech consolidation is policy-forced。",
+      "timeline": "License revoked; NPL ~16% vs 5% cap; alleged ~Rp 2.7T illegal fund diversion; CEO repatriated Sep 2025 → 关停/失败",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "东南亚"
+    },
+    {
+      "name": "Frubana",
+      "who": "LATAM",
+      "outcome": "Fail",
+      "sector": "Foodtech B2B",
+      "region": "全球",
+      "src": "global",
+      "story": "Frubana（Alejandro Muñoz）最终关停或失败。时间约在2018– ops cease Oct 2023 (post-ZIRP autopsy widely cited 2024–25)。档案记载：~$99M+ raised (a16z, SoftBank LatAm, YC); perishable cold-chain spoilage; multi-country before single-city profit。结果写作「Fail (ops shut; assets sold)」。",
+      "lesson": "可执行点：Physics of perishability > capital; prove unit economics in one city first; SoftBank-scale burn without margins。",
+      "timeline": "2018– ops cease Oct 2023 (post-ZIRP autopsy widely cited 2024–25)",
+      "source_url": "https://unicornburn.com/autopsy/frubana-foodtech-colombia",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "$99M+ raised (a16z, SoftBank LatAm, YC)；perishable co",
+      "lifespan": "2018–2024（约6年）",
+      "cause": "综合经营失败",
+      "country": "拉丁美洲"
+    },
+    {
+      "name": "Aprende Institute",
+      "who": "LATAM",
+      "outcome": "Fail",
+      "sector": "Edtech",
+      "region": "全球",
+      "src": "global",
+      "story": "Aprende Institute（Alejandro Cárdenas (CEO stepped down 2023)）最终关停或失败。时间约在2019– mass layoffs + shutdown Q1 2024。档案记载：SoftBank LatAm $38M Series B; CAC $400+; completion ~30%; 200+ layoffs then close; students redirected。结果写作「Fail」。",
+      "lesson": "可执行点：Fix completion before scaling acquisition; SoftBank headcount inflation; edtech unit economics brutal post-2022。",
+      "timeline": "2019– mass layoffs + shutdown Q1 2024",
+      "source_url": "https://unicornburn.com/autopsy/aprende-institute-edtech-mexico",
+      "tags": [
+        "CAC"
+      ],
+      "capital": "$38M Series B；CAC $400+",
+      "lifespan": "2019–2024（约5年）",
+      "cause": "获客成本不可持续",
+      "country": "拉丁美洲"
+    },
+    {
+      "name": "Lilium",
+      "who": "Europe",
+      "outcome": "Fail",
+      "sector": "eVTOL",
+      "region": "全球",
+      "src": "global",
+      "story": "Lilium最终关停或失败。结果写作「Nov 2024 insolvency filings → Feb 2025 ops stop after €200M rescue failed; Oct 2025 Archer wins ~300 patents for €18M」。",
+      "lesson": "可执行点：Certification + cash burn before first manned commercial product; state guarantee politics (KfW/Bavaria) as second-order risk; IP salvage ≠ company salvage.",
+      "timeline": "2024 → 2025",
+      "source_url": "https://www.aerotime.aero/articles/evtol-lilium-jet-aerospace-insolvency",
+      "tags": [
+        "硬件鸿沟"
+      ],
+      "capital": "burn before first manned commercial product",
+      "lifespan": "2024–2025（约1年）",
+      "cause": "硬件量产与供应链鸿沟",
+      "country": "欧洲"
+    },
+    {
+      "name": "Maeve Aerospace",
+      "who": "Europe",
+      "outcome": "Fail",
+      "sector": "Hybrid-electric regional",
+      "region": "全球",
+      "src": "global",
+      "story": "Maeve Aerospace（Europe）最终关停或失败。结果写作「Insolvency declared ~2026-05-28 (The Hague); failed to close ~€20M round despite partners」。",
+      "lesson": "可执行点：Clean-sheet + novel propulsion multiplies certification cost/time; early investors buy vision, later rounds need deep-pocket aerospace patience; €20M “trivial” …。",
+      "timeline": "2026-05",
+      "source_url": "https://www.flightglobal.com/air-transport/2026/06/maeve-aerospace-collapses-after-hybrid-electric-project-fails-to-take-off/",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "欧洲"
+    },
+    {
+      "name": "Stralis Aircraft",
+      "who": "Australia",
+      "outcome": "Fail",
+      "sector": "H2-electric aviation",
+      "region": "全球",
+      "src": "global",
+      "story": "Stralis Aircraft最终关停或失败。结果写作「Closing after ~4 years; 2026-07-29 taxi test of hydrogen-electric Bonanza at Brisbane succeeded technically; commercial readiness gap not cl」。",
+      "lesson": "可执行点：Tech proof ≠ airline offtake + H2 supply + refuel infra + certification path.",
+      "timeline": "2026-07",
+      "source_url": "https://vertus.aero/stralis-aircraft-closes-after-hydrogen-electric-taxi-test",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "澳大利亚"
+    },
+    {
+      "name": "BluSmart",
+      "who": "India",
+      "outcome": "Fail",
+      "sector": "EV ride-hail",
+      "region": "全球",
+      "src": "global",
+      "story": "BluSmart最终关停或失败。结果写作「Ops suspended overnight; drivers/customers stranded; allegations: FAME-II subsidy diversion, personal luxury misuse; parent Gensol probed」。",
+      "lesson": "可执行点：Climate narrative + subsidies without integrity → community harm (drivers, prepaid balances).",
+      "source_url": "https://bizprotalk.com/blusmart-collapse-a-wake-up-call-for-indias-ev-startup-ecosystem/",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "印度"
+    },
+    {
+      "name": "Kheyti",
+      "who": "India",
+      "outcome": "Fail",
+      "sector": "Agritech/greenhouse",
+      "region": "全球",
+      "src": "global",
+      "story": "Kheyti（Kaushik Kappagantula, Sathya Raghu）最终关停或失败。结果写作「Earthshot Prize £1M (2022); ~3000 farmers; raised ~$8M; Series A failed after ~18 months; ops shrink to grant pilots (~2024)」。",
+      "lesson": "可执行点：Impact metrics ≠ unit economics; subsidized pricing locks negative contribution margin; impact investors later demand profitability.",
+      "timeline": "2022 → 2024",
+      "source_url": "https://unicornburn.com/autopsy/Kheyti-precision-agritech-india",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "$8M；Series A failed after ~18 months",
+      "lifespan": "2022–2024（约2年）",
+      "cause": "综合经营失败",
+      "country": "印度"
+    },
+    {
+      "name": "Centeni",
+      "who": "Brazil",
+      "outcome": "Fail",
+      "sector": "Preventive health",
+      "region": "全球",
+      "src": "global",
+      "story": "Centeni（André Leite, Felipe Cabral）最终关停或失败。结果写作「Raised R$5M; public launch Mar 2026; shut Jul 2026; returned ~R$2.5M to investors; refunds + care transition」。",
+      "lesson": "可执行点：Interest ≠ urgency; US Function Health benchmarks don’t transplant (Brazil exams already accessible via plans); clinical superiority invisible to buyers; low-fr…。",
+      "timeline": "2026 → 2026",
+      "source_url": "https://www.leitedecabra.com/p/startup-post-mortem-centeni",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "$5M；public launch Mar 2026",
+      "lifespan": "约1年（2026）",
+      "cause": "综合经营失败",
+      "country": "巴西"
+    },
+    {
+      "name": "CUX",
+      "who": "Argentina",
+      "outcome": "Fail",
+      "sector": "Mental health AI",
+      "region": "全球",
+      "src": "global",
+      "story": "CUX（Connie Ansaldi (founder)）最终关停或失败。结果写作「Closed after ~4 years (announced ~2026-08); B2C interest vs B2B budget authority mismatch」。",
+      "lesson": "可执行点：Building when “talking to a machine” felt sci-fi; closed when AI chat is mainstream — timing/category risk; selling mental-health AI to B2B still hard.",
+      "timeline": "2026-08",
+      "source_url": "https://techla.pro/2026/08/24/cux-cierra-despues-de-cuatro-anos-cuando-una-startup-llega-demasiado-temprano-al-mercado/",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "阿根廷"
+    },
+    {
+      "name": "Foccuz",
+      "who": "Uruguay",
+      "outcome": "Fail",
+      "sector": "Comp/commission SaaS",
+      "region": "全球",
+      "src": "global",
+      "story": "Foccuz最终关停或失败。结果写作「Seemed near PMF 2025; closed after alleged co-founder dishonest administration / missing funds; founder later returned to Nowports growth ro」。",
+      "lesson": "可执行点：LatAm cultural taboo on talking failure + absolute need for financial controls / dual authority on bank; PMF trajectory can be erased overnight by governance.",
+      "timeline": "2025",
+      "source_url": "https://www.elobservador.com.uy/cafe-y-negocios/la-historia-detras-del-cierre-la-startup-uruguaya-foccuz-raiz-una-administracion-desleal-y-lo-que-aprendio-su-fundador-del-momento-mas-dificil-su-carrera-n6046259",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "乌拉圭"
+    },
+    {
+      "name": "KOKO Networks",
+      "who": "Kenya/Africa",
+      "outcome": "Fail",
+      "sector": "Clean cooking × carbon",
+      "region": "全球",
+      "src": "global",
+      "story": "KOKO Networks最终关停或失败。结果写作「Ops folded 2026-01-31 (customer SMS); administration ~2026-02-01; ~700 jobs, claimed ~1–1.5M households, ~3,000 refill machines; ~$300M inve」。",
+      "lesson": "可执行点：Climate unit economics built on sovereign carbon permission = single-point political/integrity risk; subsidy-to-customer model dies without credit cash; impact …。",
+      "timeline": "2026-01 → 2026-02",
+      "source_url": "https://africanarguments.org/2026/06/the-death-of-koko-networks-a-post-mortem-of-a-biofuel-startup-and-the-rise-of-carbon-economies-in-africa/",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "$300M inve」",
+      "lifespan": "约1年（2026）",
+      "cause": "综合经营失败",
+      "country": "肯尼亚"
+    },
+    {
+      "name": "YallaMarket",
+      "who": "UAE",
+      "outcome": "Fail",
+      "sector": "Quick commerce",
+      "region": "全球",
+      "src": "global",
+      "story": "YallaMarket（Leo Dovbenko (founder letter)）最终关停或失败。结果写作「Shut after ~4 years; raised $10M+ / ~$13M; 220 investors, peak ~730 employees, ~215k customers; Option A ($100M scale raise) & Option B (acq」。",
+      "lesson": "可执行点：\"Fast delivery is a feature, not a business model\"; knowing when to stop is untaught; next bet: boring document automation / invoices.",
+      "source_url": "https://www.linkedin.com/posts/leodovbenko_i-shut-down-yallamarket-4-years-10m-raised-activity-7417539718986514432-4R9j",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "$10M+ / ~$13M；220 investors, peak ~730 employees, ~21",
+      "cause": "综合经营失败",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "Glam",
+      "who": "KSA",
+      "outcome": "Fail",
+      "sector": "Merchant SaaS",
+      "region": "全球",
+      "src": "global",
+      "story": "Glam最终关停或失败。结果写作「Closed ~2026-06; Zid shipped free built-in retargeting → churn; refused gray-area WhatsApp QR clones → share loss; regulation suspended unli」。",
+      "lesson": "可执行点：Platform feature bundling + licensing regulation can erase SaaS niche overnight; ethics vs gray area is a real tradeoff; some portfolio apps still scaling (Retu…。",
+      "timeline": "2026-06",
+      "source_url": "https://www.linkedin.com/posts/moathdev_today-we-are-closing-glam-doors-for-good-activity-7476948780387319808-x2lW",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "Hulexo",
+      "who": "UAE",
+      "outcome": "Sunset",
+      "sector": "Retail OS",
+      "region": "全球",
+      "src": "global",
+      "story": "阿联酋零售 OS Hulexo 做到可观 ARR 后选择日落：团队发现用 AI 六天能重建核心产品，而过去要两三年。这不是经典破产，而是软件护城河被 AI 压缩后的主动退出。",
+      "lesson": "当重建成本坍塌，要重新评估软件护城河；主动日落优于假装还有壁垒。",
+      "timeline": "ARR 过百万迪拉姆级 → 2026-05 日落",
+      "tags": [
+        "平台碾压"
+      ],
+      "cause": "平台/巨头同质化碾压",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "Africa VC cluster",
+      "who": "Africa",
+      "outcome": "Pattern",
+      "sector": "Fintech/health",
+      "region": "全球",
+      "src": "global",
+      "story": "TechPoint 综述 2023–2025 非洲关停簇：Okra/Dash/54gene/Lipa Later/Pivo 等，仅 2023 年就有超过 2 亿美元 VC 损失叙事；资本从成长型金融科技转向气候/资产抵押模型，治理与监管时点与 Byju's、eFishery 同构。",
+      "lesson": "新兴市场治理+监管时点可成批杀死成长故事；气候资产抵押模型在轮动中相对更硬。",
+      "timeline": "2023–2025 关停簇",
+      "tags": [
+        "治理崩",
+        "现金流",
+        "政策"
+      ],
+      "source_url": "https://techpoint.africa/guide/climate-tech-africa-2026-clean-energy-beats-fintech/",
+      "country": "非洲"
+    },
+    {
+      "name": "InfographsAI",
+      "who": "Global indie",
+      "outcome": "Fail",
+      "sector": "AI tool",
+      "region": "全球",
+      "src": "global",
+      "story": "InfographsAI（Global indie）最终关停或失败。结果写作「~10 months, $20,000 savings, 0 users / $0 revenue on launch」。",
+      "lesson": "Feature addiction；no distribution。",
+      "source_url": "https://36kr.com/p/3351170233133696",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "Dashdot",
+      "who": "Australia",
+      "outcome": "Fail",
+      "sector": "Proptech advisory",
+      "region": "全球",
+      "src": "global",
+      "story": "澳洲 Proptech 顾问公司 Dashdot 一度自称盈利且服务大量客户，却在政策与 Meta 获客成本冲击下，约一周量级走到自愿清算：先裁员数十人，随即公司退场。",
+      "lesson": "盈利公司也可能死于单一获客渠道+薄缓冲+政策 β；渠道集中度本身就是风险。",
+      "timeline": "2026-05 裁员 → 自愿清算",
+      "tags": [
+        "CAC",
+        "政策",
+        "现金流"
+      ],
+      "cause": "获客成本不可持续",
+      "country": "澳大利亚"
+    },
+    {
+      "name": "Spoony",
+      "who": "Australia",
+      "outcome": "Fail",
+      "sector": "Disability social",
+      "region": "全球",
+      "src": "global",
+      "story": "Spoony（Nicholas Carlton (CEO/co-founder)）最终关停或失败。结果写作「Wind-down by end-May 2026 after Oct 2025 round failed; raised ~$1M; ~65k users; exploring asset sale to digital-health buyer」。",
+      "lesson": "可执行点：Mission integrity vs capital fashion; \"fiercely human\" design award ≠ fundable in AI-companion winter.",
+      "timeline": "2026 → 2025",
+      "source_url": "https://www.smartcompany.com.au/startupsmart/spoony-social-media-closure-app-artificial-intelligence/",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "$1M；~65k users",
+      "lifespan": "2025–2026（约1年）",
+      "cause": "综合经营失败",
+      "country": "澳大利亚"
+    },
+    {
+      "name": "One Small Step",
+      "who": "Australia",
+      "outcome": "Fail",
+      "sector": "Climate consumer",
+      "region": "全球",
+      "src": "global",
+      "story": "One Small Step（Lily Dempster (sole founder)）最终关停或失败。结果写作「Formally deregistered ~Jul 2026; 70k+ downloads, Apple App of the Day; claimed >8,300 tCO₂e avoided without offsets; 20 paid partnerships」。",
+      "lesson": "可执行点：Impact metrics ≠ unit economics; geography/founder structure is a first-order bet.",
+      "timeline": "2026",
+      "source_url": "https://www.linkedin.com/posts/lilydempster_one-small-step-the-business-i-founded-and-activity-7495366402875400193-GqK7",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "澳大利亚"
+    },
+    {
+      "name": "AI Market",
+      "who": "Japan",
+      "outcome": "Fail",
+      "sector": "LTD software marketplace",
+      "region": "全球",
+      "src": "global",
+      "story": "AI Market最终关停或失败。结果写作「Shut Feb 2026; ~¥700,000 sales in ~4 months; co-founder exit + Batino chose not to solo alongside other businesses; JFC loan repayments loom」。",
+      "lesson": "可执行点：Strong team ≠ do-or-die founder love; second-time founders are time-sensitive; western LTD model transfer still needs long JP PMF verification.",
+      "timeline": "2026",
+      "source_url": "https://www.linkedin.com/posts/tysonbatino_buildinginpublic-foreignfounders-japanstartup-activity-7458394928495112192-lHtx",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "日本"
+    },
+    {
+      "name": "SunCulture",
+      "who": "Kenya",
+      "outcome": "Success-in-progress",
+      "sector": "Solar irrigation PayGo",
+      "region": "全球",
+      "src": "global",
+      "story": "肯尼亚 SunCulture 做小农户太阳能灌溉 PayGo：用碳金融降低首付、BII 碳设施与 Bridgin 约 1500 万美元应收融资打开周转，档案称撒哈拉以南太阳能灌溉份额 50%+。对照 KOKO，碳被做成生产性资产的可负担层而非单一主权风险点。",
+      "lesson": "气候碳可以是 PayGo 硬件的可负担层，也可以是单点主权风险——结构决定命运。",
+      "timeline": "2012 创立 → PAYGrow / Series 路径 → 2025 应收融资",
+      "tags": [
+        "成功对照"
+      ],
+      "source_url": "https://shellfoundation.org/case-study/building-a-successful-climate-tech-startup-the-sunculture-story/",
+      "country": "肯尼亚"
+    },
+    {
+      "name": "Cydoc",
+      "who": "US",
+      "outcome": "Fail",
+      "sector": "Health AI",
+      "region": "全球",
+      "src": "global",
+      "story": "Cydoc最终关停或失败。结果写作「Paying customers (peak 4), patents, NC IDEA grant, clinical time-savings demos; shut after business model math broke (hosting/AI ~$70/doctor」。",
+      "lesson": "可执行点：Health AI: workflow + sales + integration = 80%; tech demo = 20%.",
+      "source_url": "https://postmortem.io/shutdowns/cydoc--2026-02-21--why-i-shut-down-my-bootstrapped-health-ai-startup/",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "美国"
+    },
+    {
+      "name": "Kintsugi",
+      "who": "US",
+      "outcome": "Fail",
+      "sector": "Clinical voice AI",
+      "region": "全球",
+      "src": "global",
+      "story": "Kintsugi（Grace Chang (CEO/founder)）最终关停或失败。结果写作「~$30M raised; ~4 years waiting FDA clearance; >$16M spent on FDA path; needed another $1–4M to finish; AI engineer comps $400–500k/yr unsust」。",
+      "lesson": "可执行点：Regulated clinical AI: VC wants $100M ARR by y3–5; FDA may block selling for years — timeline mismatch is structural, not execution noise.",
+      "source_url": "https://endpoints.news/why-clinical-ai-startup-kintsugi-shut-down/",
+      "tags": [
+        "政策"
+      ],
+      "capital": "$30M raised；~4 years waiting FDA clearance",
+      "cause": "政策/监管冲击",
+      "country": "美国"
+    },
+    {
+      "name": "BioCompute",
+      "who": "India→US",
+      "outcome": "Relocate exit",
+      "sector": "DNA storage",
+      "region": "全球",
+      "src": "global",
+      "story": "2002 年生的 Anagha Rajesh 在班加罗尔做出印度规模化 DNA 存储实验室，融资超 5 千万卢比并完成端到端原型；2026-06 关掉印度运营、LinkedIn 卖掉实验设备，公司迁往旧金山进入芯片阶段——校园深科技「成功」可以长得像地理退出。",
+      "lesson": "商业化阶段跟随耐心资本，而非原型出生地；缺的是长周期硬件风险资本。",
+      "timeline": "2024 创立 → 2026-06 关印度迁 SF",
+      "tags": [
+        "硬件鸿沟",
+        "现金流"
+      ],
+      "source_url": "https://imfounder.com/entrepreneurship/biocompute-anagha-rajesh-science-this-week/",
+      "country": "印度"
+    },
+    {
+      "name": "Neptune Cloud",
+      "who": "Korea",
+      "outcome": "Fail",
+      "sector": "Cloud/startup",
+      "region": "全球",
+      "src": "global",
+      "story": "Neptune Cloud（유승학 Yu Seung-hak（대표）; 2021-07 창업 → 상반기 마무리）最终关停或失败。结果写作「사업 중단; 폐업 결정 시 세 기준: 팀 존속 가치 / 새 사업 기회 / 투자자 신뢰」。",
+      "lesson": "可执行点：폐업 중 최난관은 투자사·직원 소통; 이해관계 없는 선배 투자자「가족과 자신을 챙기세요」가 죄책감 완화; 평소 신뢰 없으면 「갑자기 중단」은 납득 불가; 생태계는 IPO뿐 아니라 마무리 지식도 필요。",
+      "source_url": "https://closurestartup.oopy.io/interviews/1",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "韩国"
+    },
+    {
+      "name": "Publy",
+      "who": "Korea",
+      "outcome": "Fail→book",
+      "sector": "Content",
+      "region": "全球",
+      "src": "global",
+      "story": "Publy（박소령 Park So-ryeong（전 대표））最终关停或失败。结果写作「2024-07 콘텐츠→뉴닉, 08 소셜→시소 매각 후 사표; 책 「실패를 통과하는 일」 공개; Series B 함정(지출↑성장≠) → 개인카드 돌려막기 → 3회 레이오프」。",
+      "lesson": "可执行点：펀드레이징 늘어도 현금 없으면 끝; 「실패 기록」이 요가원·한의원 등 비테크 사장님 공명 허브가 됨 — 실패담의 범용성。",
+      "timeline": "2024-07",
+      "source_url": "https://www.sisain.co.kr/news/articleView.html?idxno=56739",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "韩国"
+    },
+    {
+      "name": "mirrorboard",
+      "who": "Korea",
+      "outcome": "Fail",
+      "sector": "AI products",
+      "region": "全球",
+      "src": "global",
+      "story": "mirrorboard（유태형 Yu Tae-hyung（14년차 프로덕트 빌더/기획자））最终关停或失败。结果写作「2026-03-25 Brunch 공개 마무리; AI로 밥줄 끊김 자조 후 「다음 실패 준비」리셋; 에이전트 샐러드 오픈소스형 선물」。",
+      "lesson": "可执行点：AI 도구 창업자조차 AI 치환 압력에 사업 종료; 실패 공개+유틸 기부가 한국 indie 마무리 템플릿。",
+      "timeline": "2026-03",
+      "source_url": "https://brunch.co.kr/@gitinup88/22",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "韩国"
+    },
+    {
+      "name": "Atalanta Climate",
+      "who": "Canada",
+      "outcome": "Fail",
+      "sector": "Climate hardware",
+      "region": "全球",
+      "src": "global",
+      "story": "Atalanta Climate（Sally Chen（Vancouver; ex-Shopify/Patch RevOps））最终关停或失败。结果写作「2026-04 LinkedIn 중단 선언; NY Climate Week 관심→양산 직전 IP licensing 협상 파탄; 주문 환불·벤더 정산·엔젤 환급; $150k로 여기까지」。",
+      "lesson": "可执行点：하드웨어 기후 제품은 IP/공급 계약이 제품 자체보다 먼저 죽을 수 있음; 소액으로 멀리 간 것도 자산。",
+      "timeline": "2026-04",
+      "source_url": "https://www.linkedin.com/posts/siyusallychen_this-post-has-no-ai-we-have-decided-to-activity-7449203446798368768-jXF5",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "AirVitalize",
+      "who": "US",
+      "outcome": "Fail",
+      "sector": "Climate hardware",
+      "region": "全球",
+      "src": "global",
+      "story": "AirVitalize（Serena Allen（대학 직후 창업; 3년 거의 무급））最终关停或失败。结果写作「2026-02 Substack Closing Statement; 모멘텀·관심은 정점인데 팀/자본 부족; SBIR pause + climate 투자 기피 + 1 FTE라 대형 그랜트 자격 미달; 펀드레이징 직전 개인 사유로 짧은 공백 → 스크래피 하드웨」。",
+      "lesson": "「관심≠안정」；founder single-point-of-failure。",
+      "timeline": "2026-02",
+      "source_url": "https://serenaswritings.substack.com/p/airvitalize-closing-statement",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "美国"
+    },
+    {
+      "name": "Exhale Aerosystems",
+      "who": "Canada",
+      "outcome": "Paused",
+      "sector": "DAC",
+      "region": "全球",
+      "src": "global",
+      "story": "Exhale Aerosystems（Founder（LinkedIn 회사 계정））最终关停或失败。结果写作「2026-03 「placed on ice」; 완제품 미도달; 공학 트레이드오프·상업화·펀드레이징 압력 학습 → LIME / BILDI 후속」。",
+      "lesson": "可执行点：많은 벤처는 지능/야망 부족이 아니라 너무 늦게 배워야 할 것을 발견해서 죽음。",
+      "timeline": "2026-03",
+      "source_url": "https://www.linkedin.com/posts/exhale-aerosystems_after-a-long-period-of-work-exhale-aerosystems-activity-7443327150851571714-Fsz9",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "Attabotics",
+      "who": "Canada",
+      "outcome": "Bankruptcy",
+      "sector": "Warehouse robotics",
+      "region": "全球",
+      "src": "global",
+      "story": "Attabotics（Board chair Edna Conway（affidavit）; 기술·화재 이슈 다수）最终关停或失败。结果写作「2025-07 creditor protection; raised >$200M; revenue $11.4M (2022) → ~$3M (2024); R&D ~$76M 누적; 2024 적자 ~$49.5M; 192명 해고→11명 잔류; 로봇 화재 ≥3회 등 」。",
+      "lesson": "可执行点：규모 자본+앵커 내러티브도 기술 신뢰성×고객 CapEx 동결×금리 앞에서 무너짐; 매출 대비 R&D 폭주。",
+      "timeline": "2025-07 → 2024",
+      "source_url": "https://thelogic.co/news/the-big-read/calgary-startup-attabotics-bankruptcy/",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "$200M；revenue $11.4M (2022) → ~$3M (2024)",
+      "lifespan": "2024–2025（约1年）",
+      "cause": "综合经营失败",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "متون / Matoun",
+      "who": "KSA",
+      "outcome": "Fail",
+      "sector": "Prop data SaaS",
+      "region": "全球",
+      "src": "global",
+      "story": "متون / Matoun（Desert Jungle Man（아랍어 Substack 一手））最终关停或失败。结果写作「2018 물결 창업; 법무부 raw open data 의존; 2023-09 데이터 공개 중단→유료·대기업만 감당 가능 가격; اعتماد 정부조달 데이터로 피벗 검토 후 「같은 구멍에 두 번 물리지 않는다」 로 폐업; 2026-08 「النهاية」에」。",
+      "lesson": "可执行点：정부 open data = 공공재처럼 보이지만 정책 스위치 단점; 아랍어 원문 폐업 성찰 — 아카이브 장기 갭 메움。",
+      "timeline": "2018 → 2026-08",
+      "source_url": "https://desertjungle.substack.com/p/95c",
+      "tags": [
+        "失败复盘"
+      ],
+      "lifespan": "2018–2026（约8年）",
+      "cause": "综合经营失败",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "شقردي / Shgardi",
+      "who": "KSA",
+      "outcome": "Fail",
+      "sector": "Food delivery",
+      "region": "全球",
+      "src": "global",
+      "story": "شقردي / Shgardi（회사 X 성명（아랍 미디어 전재））最终关停或失败。结果写作「6년 후 종료; 7M+ 주문, 3M+ users, 35 도시; 「경쟁 심화+가격 소각」; Nomu 상장 플랜 미완」。",
+      "lesson": "可执行点：로컬 앱은 글로벌/대형 플레이어 약탈 가격에 취약; 규모 지표≠지속 가능 마진。",
+      "source_url": "https://arabfounders.net/shgardi-saudi-app-shuts-down-2025/",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "Kader",
+      "who": "Jordan",
+      "outcome": "Fail",
+      "sector": "Services/AI",
+      "region": "全球",
+      "src": "global",
+      "story": "Kader（Rad Radaideh（CEO））最终关停或失败。结果写作「2026-01 LinkedIn 폐업; AI/자동화 가속이 기존 서비스 경로를 무의미화; Village Capital / ISSFJO 등 투자자 감사+전적 책임 선언」。",
+      "lesson": "可执行点：Never over-engineer; 돈으로 문제 덮기=실패 지름길; 수동→통증 이해→자동화; 감정으로 끌면 비용 큼。",
+      "timeline": "2026-01",
+      "source_url": "https://www.linkedin.com/posts/rradaideh_after-much-thought-and-reflection-i-have-activity-7421179875958382592-WpNN",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "Oola",
+      "who": "Egypt",
+      "outcome": "Fail",
+      "sector": "Tech",
+      "region": "全球",
+      "src": "global",
+      "story": "Oola最终关停或失败。结果写作「2026-03 LinkedIn 공식 종료; 감사 중심 짧은 페어웰（상세 재무 비공개）」。",
+      "lesson": "可执行点：MENA 페어웰 템플릿의 짧은 형태; 문화/파트너십 서사가 수치보다 앞섬。",
+      "timeline": "2026-03",
+      "source_url": "https://www.linkedin.com/posts/aghareeb_today-is-a-difficult-day-but-one-filled-activity-7444005519473668096-O-yE",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "QDE",
+      "who": "Sweden",
+      "outcome": "Fail",
+      "sector": "Mobile gaming",
+      "region": "全球",
+      "src": "global",
+      "story": "QDE（Sebastian Knutsson（co-founder 발언））最终关停或失败。结果写作「2026-06 운영 중단; 직전 가을 수억 SEK 조달에도 철수; 「There is no economics in scaling mobile games」」。",
+      "lesson": "可执行点：카테고리 경험+대형 자본 ≠ 단위경제 성립; 경력 창업도 구조적 시장 수학 앞에 무력。",
+      "timeline": "2026-06",
+      "source_url": "https://eustartups.news/swedish-mobile-gaming-studio-qde-shuts-down-despite-raising-hundreds-of-millions/",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "欧洲"
+    },
+    {
+      "name": "Favro",
+      "who": "Sweden",
+      "outcome": "Bankruptcy",
+      "sector": "SaaS",
+      "region": "全球",
+      "src": "global",
+      "story": "Favro（Patric Palm（founder; 「사업을 되사겠다」））最终关停或失败。结果写作「2026-07 파산; 누적 VC >40M SEK; 리투아니아 투자 실패가 직접 트리거」。",
+      "lesson": "可执行点：지리 확장/해외 베팅이 본업 현금흐름을 삼킬 수 있음; 창업자 buy-back 의지는 별개 옵션。",
+      "timeline": "2026-07",
+      "source_url": "https://eustartups.news/swedish-saas-company-favro-files-for-bankruptcy-following-failed-lithuania-investment/",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "欧洲"
+    },
+    {
+      "name": "Myssyfarmi",
+      "who": "Finland",
+      "outcome": "Fail",
+      "sector": "Fashion/social",
+      "region": "全球",
+      "src": "global",
+      "story": "Myssyfarmi（Anna Rauhansuu（CEO））最终关停或失败。结果写作「2026-02 통제된 철수; 20년·최대 ~100명 할머니·10만+ 모자·16개국; 매출 백만 유로대에도 고정비 커버 볼륨 미달; 매출 ≥70%가 6개월 계절 집중」。",
+      "lesson": "可执行点：임팩트·스토리·Vogue 노출 ≠ 패션 볼륨 수학; 생태계 부재가 국제화 병목。",
+      "timeline": "2026-02",
+      "source_url": "https://en.yrittajat.fi/uutiset/myssymummoja-tyollistanyt-muotiyritys-ajetaan-alas-teimme-mahdottomasta-mahdollista-mutta-se-ei-riittanyt-taman-pidemmalle/",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "ABC creator-led",
+      "who": "Global/indie",
+      "outcome": "Fail",
+      "sector": "Creator tech",
+      "region": "全球",
+      "src": "global",
+      "story": "ABC creator-led（Kris / Medium 一手（2026-04））最终关停或失败。结果写作「2025-03 creator 집착 회귀 → 50+ LOI → 10월 런치 → 제로 → 사무실 정리·API 미수·법적 통지·EMI; 질병·자퇴·죽은 제품 후 또 실패」。",
+      "lesson": "可执行点：창작자 equity alignment ≠ 제품 PMF; LOI 밀도는 런치 후 현실을 예측하지 못함。",
+      "timeline": "2025-03",
+      "source_url": "https://medium.com/@krissmanng/we-built-the-worlds-first-multiple-creator-led-tech-startup-it-almost-broke-us-69324241b580",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "Eisuke Hirata (AI Edtech)",
+      "who": "JP→US",
+      "outcome": "Fail/liquidate",
+      "sector": "AI Edtech",
+      "region": "全球",
+      "src": "global",
+      "story": "Eisuke Hirata (AI Edtech)（JP→US）最终关停或失败。结果写作「Closed 2025; essay 2026-03-23; returned remaining capital to investors」。",
+      "lesson": "「期待に応えようとしすぎた」— flame already out, continuing would burn investor money；used shutdown flowchart for rational decision。",
+      "timeline": "2025 → 2026-03",
+      "source_url": "https://note.com/eisukehirata/n/n89af81975ff0",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "burn investor money",
+      "lifespan": "2025–2026（约1年）",
+      "cause": "综合经营失败",
+      "country": "英国"
+    },
+    {
+      "name": "これからミステリー",
+      "who": "Japan",
+      "outcome": "Retreat+debt",
+      "sector": "Entertainment FC",
+      "region": "全球",
+      "src": "global",
+      "story": "これからミステリー（Japan）留下了可核查的失败/关停记录。结局：2026-05 宣布店舗以外事业撤退；约 2.8 亿日元赤字；个人合计约 1.1 亿债务（个人贷+保证）。",
+      "lesson": "名人联合发布会 ≠ 可持续单位经济；个人垫资与保证放大下行。",
+      "timeline": "2026-05",
+      "source_url": "https://www.sponichi.co.jp/entertainment/news/2026/05/18/kiji/20260518s00041000310000c.html",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "1 亿债务",
+      "cause": "综合经营失败",
+      "country": "日本"
+    },
+    {
+      "name": "寺町 LegalTech + Food EC",
+      "who": "Japan",
+      "outcome": "Fail×2",
+      "sector": "Legal AI / food",
+      "region": "全球",
+      "src": "global",
+      "story": "寺町 LegalTech + Food EC（Japan）最终关停或失败。结果写作「Fail×2」。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "source_url": "https://note.com/n_teramachi/n/nc6078747f160",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "日本"
+    },
+    {
+      "name": "4 SaaS solo",
+      "who": "Japan indie",
+      "outcome": "Fail",
+      "sector": "SaaS",
+      "region": "全球",
+      "src": "global",
+      "story": "4 SaaS solo（Japan indie）留下了可核查的失败/关停记录。结局：2026-02 从 10 事业砍到 3；4 个 SaaS 全关。",
+      "lesson": "3个月无二位数用户 → 停；营销投不进每周足够时间 → 停。",
+      "timeline": "2026-02",
+      "source_url": "https://zenn.dev/joinclass/articles/4-saas-20260617220004-22895",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "日本"
+    },
+    {
+      "name": "Esperanto Technologies",
+      "who": "US",
+      "outcome": "Bankruptcy",
+      "sector": "RISC-V AI chip",
+      "region": "全球",
+      "src": "global",
+      "story": "Esperanto Technologies（US）最终关停或失败。结果写作「Bankruptcy ~2025-07；IP/assets to Ainekko (open-source intent) 2025-10」。",
+      "lesson": "Hyperscaler DC 渗透失败；欧洲设计团队流失。",
+      "timeline": "2025-07 → 2025-10",
+      "source_url": "https://boardor.com/blog/risc-v-ai-chip-company-esperanto-files-for-bankruptcy",
+      "tags": [
+        "失败复盘"
+      ],
+      "lifespan": "约1年（2025）",
+      "cause": "综合经营失败",
+      "country": "美国"
+    },
+    {
+      "name": "Condor Computing",
+      "who": "US/TW",
+      "outcome": "Shut by parent",
+      "sector": "RISC-V DC core",
+      "region": "全球",
+      "src": "global",
+      "story": "Condor Computing（US/TW）留下了可核查的失败/关停记录。结局：Andes 关闭 Austin Condor；Cuzco IP 收回母公司；Hot Chips 后无量产测试硅。",
+      "lesson": "地缘「美国设计中心」叙事挡不住母公司砍预算；50→15→骨架。",
+      "source_url": "https://www.jonpeddie.com/news/condor-flies-no-more/",
+      "tags": [
+        "硬件鸿沟"
+      ],
+      "cause": "硬件量产与供应链鸿沟",
+      "country": "美国"
+    },
+    {
+      "name": "QiOVA",
+      "who": "France",
+      "outcome": "Liquidation",
+      "sector": "Laser/photonics",
+      "region": "全球",
+      "src": "global",
+      "story": "QiOVA（France）最终关停或失败。结果写作「Liquidation after failing next-round raise despite industrial traction；~€3.5M raised since 2021 takeover」。",
+      "lesson": "「商业动量」≠ 下一轮资金；deeptech 制药/半导体客户管道仍可死于融资窗。",
+      "timeline": "2021",
+      "source_url": "https://www.linkedin.com/posts/dr-florent-thibault-52147970_after-five-years-of-an-incredibly-rewarding-activity-7478085938020175872-20ew",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "raised since 2021 takeover」",
+      "cause": "综合经营失败",
+      "country": "欧洲"
+    },
+    {
+      "name": "Chimoney",
+      "who": "Africa/CA",
+      "outcome": "Orderly wind-down",
+      "sector": "Cross-border pay",
+      "region": "全球",
+      "src": "global",
+      "story": "Chimoney（Africa/CA）最终关停或失败。结果写作「Stopped processing 2026-04-30；client refunds through 2026-08-31；raised &lt;$1M over ~4y」。",
+      "lesson": "可执行点：「Under $1M too thin for venture-scale multi-jurisdiction fintech」；compliance/licensing/float per country burns $200k–$800k before first txn；raise big or bootstr…。",
+      "timeline": "2026-04 → 2026-08",
+      "source_url": "https://techrectory.com/the-post-mortem-of-chimoney-what-it-reveals-about-rising-compliance-costs/",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "$1M over ~4y」；$1M too thin for venture-scale multi-jurisdiction fin",
+      "lifespan": "约1年（2026）",
+      "cause": "综合经营失败",
+      "country": "非洲"
+    },
+    {
+      "name": "FoodCourt",
+      "who": "Nigeria",
+      "outcome": "Ops pause",
+      "sector": "Cloud kitchen",
+      "region": "全球",
+      "src": "global",
+      "story": "FoodCourt（Nigeria）留下了可核查的失败/关停记录。结局：2026-03 app 停单；厨房罢工欠薪；宣称曾 profitable + ~$4.3M ARR + $1.7M raise。",
+      "lesson": "账面盈利 ≠ 现金流与营运资金；依赖「快到账」的融资设施落空。",
+      "timeline": "2026-03",
+      "source_url": "https://techsoma.africa/foodcourt-shutdown-analysis-nigerian-business-lessons/",
+      "tags": [
+        "现金流"
+      ],
+      "capital": "$4.3M ARR + $1.7M raise",
+      "cause": "现金流断裂 / runway 耗尽",
+      "country": "尼日利亚"
+    },
+    {
+      "name": "Edukoya",
+      "who": "Africa",
+      "outcome": "Shut",
+      "sector": "Edtech",
+      "region": "全球",
+      "src": "global",
+      "story": "Edukoya（Africa）留下了可核查的失败/关停记录。结局：~$3.5M 创纪录 idea-stage pre-seed 后约三年内关闭。",
+      "lesson": "明星 cap table（McKinsey/Google/Kuda/Paystack 系）挡不住「市场准备度」叙事失败。",
+      "source_url": "https://launchbaseafrica.com/2026/07/30/over-500m-lost-in-two-years-eight-graphs-that-map-the-blind-spots-behind-recent-african-startup-collapses/",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "$3.5M 创纪录 idea-stage pre-seed 后约三年内关闭",
+      "cause": "综合经营失败",
+      "country": "英国"
+    },
+    {
+      "name": "Volocopter",
+      "who": "Germany",
+      "outcome": "Bankruptcy",
+      "sector": "eVTOL",
+      "region": "全球",
+      "src": "global",
+      "story": "德国 eVTOL 独角兽 Volocopter 峰值估值约 19 亿美元，奥运演示与适航窗口错过后仍难造血，政府亿级欧元贷款担保未获，最终在 Karlsruhe 申请破产。",
+      "lesson": "适航与主权担保都是二阶风险；低空整机青年项目勿把演示窗口当成收入计划。",
+      "timeline": "估值峰值 → 破产申请",
+      "tags": [
+        "政策",
+        "硬件鸿沟",
+        "现金流"
+      ],
+      "capital": "估值约 19 亿美元，奥运演示与适航窗口错过后仍难造血，政府亿级；估值峰值 → 破产申请 适航与主权担保都是二阶风险",
+      "cause": "硬件量产与供应链鸿沟",
+      "country": "欧洲"
+    },
+    {
+      "name": "Log9 Materials",
+      "who": "India",
+      "outcome": "Fail/IBC",
+      "sector": "EV battery",
+      "region": "全球",
+      "src": "global",
+      "story": "Log9 Materials（India）最终关停或失败。结果写作「NCLT insolvency ~2025-05; debt ~₹200 crore; mass layoffs; LTO bet lost to Chinese LFP cost curve」。",
+      "lesson": "可执行点：① Tech bet = market timing bet (LTO vs LFP cost collapse); ② Never scale manufacturing before product reliability; ③ VC clock ≠ plant clock (tooling/homologatio…。",
+      "timeline": "2025-05",
+      "source_url": "https://startupmentors.in/2026/03/13/log9s-collapse-4-deeptech-startup-mistakes-every-indian-founder-must-avoid/",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "~₹200 crore；mass layoffs",
+      "cause": "综合经营失败",
+      "country": "印度"
+    },
+    {
+      "name": "Kunwer / Su-Kam essays",
+      "who": "India",
+      "outcome": "Essay library",
+      "sector": "Manufacturing",
+      "region": "全球",
+      "src": "global",
+      "story": "Kunwer Sachdev（「逆变器人」）以 Su-Kam 经历写 Manufacturing Mirage：CIRP 冻结仍在呼吸的研发，约 77 项专利在市场意义上「被打散」；程序成本约 4500 万卢比量级而债权人回收稀薄，外资品牌趁机拿走印度屋顶逆变器份额。",
+      "lesson": "两只时钟杀死工厂——IBC 法定期限与 VC 软件倍数；技术创始人常被制度挡在自救门外。",
+      "timeline": "1988–2019 Su-Kam → 2026 散文集",
+      "tags": [
+        "政策",
+        "硬件鸿沟",
+        "治理崩"
+      ],
+      "source_url": "https://kunwersachdev.com/manufacturing-mirage/",
+      "country": "印度"
+    },
+    {
+      "name": "Sendo / Sendo Farm",
+      "who": "Vietnam",
+      "outcome": "Fail",
+      "sector": "Ecommerce",
+      "region": "全球",
+      "src": "global",
+      "story": "Sendo / Sendo Farm（Vietnam）最终关停或失败。结果写作「Marketplace shut Apr 2025; Sendo Farm ceases ~2026-07-10 after 14y; raised ~$130M; peak ~$1B GMV」。",
+      "lesson": "可执行点：Don't outburn Tencent/Alibaba; promo-free retention was near-zero; grocery pivot needs 24/7 cold chain neighbourhood partners can't run; Tiki merger collapse le…。",
+      "timeline": "2025 → 2026-07",
+      "source_url": "https://www.therunway.ventures/p/sendo",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "$130M；peak ~$1B GMV」",
+      "lifespan": "2025–2026（约1年）",
+      "cause": "综合经营失败",
+      "country": "越南"
+    },
+    {
+      "name": "Telio",
+      "who": "Vietnam",
+      "outcome": "Fail",
+      "sector": "B2B ecommerce",
+      "region": "全球",
+      "src": "global",
+      "story": "Telio（Vietnam）最终关停或失败。结果写作「Dissolved ~2024-12; peak burn $1.4M/mo; still ~$2.5–3M/mo revenue at death」。",
+      "lesson": "可执行点：Burn without backup raise; down-round then freeze; profitable-looking top line ≠ runway。",
+      "timeline": "2024-12",
+      "source_url": "https://www.therunway.ventures/p/telio",
+      "tags": [
+        "现金流"
+      ],
+      "capital": "$1.4M/mo；still ~$2.5–3M/mo revenue at death」",
+      "cause": "现金流断裂 / runway 耗尽",
+      "country": "越南"
+    },
+    {
+      "name": "Gojek Vietnam",
+      "who": "Vietnam",
+      "outcome": "Fail",
+      "sector": "Super-app",
+      "region": "全球",
+      "src": "global",
+      "story": "Gojek Vietnam（Vietnam）最终关停或失败。结果写作「Shut 2024-09-16; ~$230M accumulated losses; Xanh SM EV taxi shock」。",
+      "lesson": "可执行点：Subsidies buy share not lock-in; leadership churn kills ecosystem build; HQ cuts markets below GTV threshold。",
+      "timeline": "2024-09",
+      "source_url": "https://www.therunway.ventures/p/gojek-vietnam",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "$230M accumulated losses；Xanh SM EV taxi shock」",
+      "cause": "综合经营失败",
+      "country": "越南"
+    },
+    {
+      "name": "Trela",
+      "who": "Brazil",
+      "outcome": "Fail",
+      "sector": "Foodtech",
+      "region": "全球",
+      "src": "global",
+      "story": "Trela（Brazil）最终关停或失败。结果写作「Closed 2026-04-02; ~100k clients, 400 suppliers; Series A $25M SoftBank + YC; ARR path ~R$85M cited in Valor」。",
+      "lesson": "可执行点：Tight-margin retail needs continuous capital; couldn't find terms; contribution margin+ growth still dies without next check; 「honrar compromissos」exit framing。",
+      "timeline": "2026-04",
+      "source_url": "https://exame.com/negocios/trela-encerra-operacoes-apos-cinco-anos-nao-encontramos-os-parceiros-ideais/",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "$25M SoftBank + YC；ARR path ~R$85M cited in Valor」",
+      "cause": "综合经营失败",
+      "country": "巴西"
+    },
+    {
+      "name": "Stormy",
+      "who": "PL/US",
+      "outcome": "Fail",
+      "sector": "AI influencer",
+      "region": "全球",
+      "src": "global",
+      "story": "Stormy（PL/US）最终关停或失败。结果写作「Meta C&D + permanent bans; grew anyway to ~14k MRR / raised; killed at ~6k MRR when “raise felt wrong” + churn」。",
+      "lesson": "可执行点：Platform policy can nuke distribution; Demo Day optics ≠ product love; killing while ARR exists is founder agency。",
+      "source_url": "https://www.linkedin.com/posts/karmedge_today-i-killed-my-250k-arr-ai-influencer-activity-7483199064646492161-GxUU",
+      "tags": [
+        "CAC"
+      ],
+      "capital": "raised；killed at ~6k MRR when “raise felt wrong” + churn」",
+      "cause": "获客成本不可持续",
+      "country": "美国"
+    },
+    {
+      "name": "viktor.com",
+      "who": "Poland",
+      "outcome": "Fail",
+      "sector": "AI product",
+      "region": "全球",
+      "src": "global",
+      "story": "viktor.com（Poland）最终关停或失败。结果写作「Post-mortem after Anthropic launched competing product into their wedge」。",
+      "lesson": "可执行点：Foundation-model vendor as existential competitor; small wedge defensibility vs lab roadmap。",
+      "source_url": "https://www.linkedin.com/posts/fryderyk-wiatrowski_anthropic-killed-viktorcom-a-post-mortem-activity-7475917881424121856-JNIS",
+      "tags": [
+        "平台碾压"
+      ],
+      "cause": "平台/巨头同质化碾压",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "Rilo",
+      "who": "Poland",
+      "outcome": "Fail",
+      "sector": "Recruit tech",
+      "region": "全球",
+      "src": "global",
+      "story": "Rilo（Poland）最终关停或失败。结果写作「Pulled plug after ~1y; wrote post-mortem」。",
+      "lesson": "可执行点：Too slow to ship; scoping rookies; great team ≠ right team for early product。",
+      "source_url": "https://www.linkedin.com/posts/mateuszslawinski_fail-fast-they-say-so-we-did-a-few-activity-7413956030730100736-TJ0k",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "Ula",
+      "who": "Indonesia",
+      "outcome": "Fail/solvent return",
+      "sector": "B2B wholesale",
+      "region": "全球",
+      "src": "global",
+      "story": "Ula（Indonesia）最终关停或失败。结果写作「Core ops shut ~late 2023; formal wind-down Feb 2025 returning ~30% capital; last investors exit Jul 2025; ~$50M still on balance sheet」。",
+      "lesson": "可执行点：① Solving sourcing+logistics+inventory+credit at once = 3–4 hard businesses glued; ② Capex-heavy model assumes capital stays easy; ③ Dominate a wedge before the…。",
+      "timeline": "2023 → 2025",
+      "source_url": "https://www.therunway.ventures/p/ula",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "$50M still on balance sheet」",
+      "lifespan": "2023–2025（约2年）",
+      "cause": "综合经营失败",
+      "country": "印度尼西亚"
+    },
+    {
+      "name": "Ringan",
+      "who": "Indonesia",
+      "outcome": "Fail/solvent OJK handback",
+      "sector": "P2P lending",
+      "region": "全球",
+      "src": "global",
+      "story": "Ringan（Indonesia）最终关停或失败。结果写作「License revoked at own request Apr 2025; dissolution Jul 2025; interim BS Oct 2025: Rp 16.8B cash, ~Rp 17.89B equity, zero lender obligation」。",
+      "lesson": "可执行点：① Tier-1 cost base vs tiny loan book (competitors Rp 1T+); waitlist ≠ deployed volume; ② Defaulted to commoditised cash loans instead of Lippo/MSME unfair edge;…。",
+      "timeline": "2025 → 2025",
+      "source_url": "https://www.therunway.ventures/p/ringan",
+      "tags": [
+        "失败复盘"
+      ],
+      "lifespan": "约1年（2025）",
+      "cause": "综合经营失败",
+      "country": "印度尼西亚"
+    },
+    {
+      "name": "NocNoc",
+      "who": "Thailand",
+      "outcome": "Fail",
+      "sector": "Ecommerce",
+      "region": "全球",
+      "src": "global",
+      "story": "NocNoc（Thailand）最终关停或失败。结果写作「Ops end midnight 2026-02-09; SCG ~1.8B baht non-cash Q4'25 loss; never broke even in 6 years; 2015–24 accum. revenue 3.26B / loss 4.52B baht」。",
+      "lesson": "可执行点：① Local SET shareholders refuse multi-year loss absorption vs Shopee/Lazada/TikTok capital patience; ② Subsidised pricing war unsustainable; ③ Vertical/offline-…。",
+      "timeline": "2026-02 → 2015",
+      "source_url": "https://www.bangkokpost.com/business/general/3172323/brutal-ecommerce-war-forces-nocnoc-to-close",
+      "tags": [
+        "失败复盘"
+      ],
+      "lifespan": "2015–2026（约11年）",
+      "cause": "综合经营失败",
+      "country": "泰国"
+    },
+    {
+      "name": "Tonik",
+      "who": "Philippines",
+      "outcome": "Fail",
+      "sector": "Neobank",
+      "region": "全球",
+      "src": "global",
+      "story": "Tonik（Philippines）最终关停或失败。结果写作「Decline through 2024; workforce cuts; path to profit unclear / autopsy as UE death」。",
+      "lesson": "可执行点：High-yield deposits attract users but crush loan spread; GCash/Maya distribution via Grab/telecoms made licensed neobank UE structurally hard for underbanked。",
+      "timeline": "2024",
+      "source_url": "https://unicornburn.com/autopsy/tonik-bank",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "菲律宾"
+    },
+    {
+      "name": "Tract",
+      "who": "UK",
+      "outcome": "Fail/return capital",
+      "sector": "PropTech",
+      "region": "全球",
+      "src": "global",
+      "story": "Tract（UK）最终关停或失败。结果写作「Cease Mar 2025; return remaining capital after £744k pre-seed (Apr 2024); ~2y, zero revenue / no committed paying customers」。",
+      "lesson": "可执行点：① Conservative fragmented UK property ≠ venture-scale SaaS; ② Positive demo ≠ purchase intent; ③ Stay lean until revenue; ④ Not every mission fits VC (OpCo-Prop…。",
+      "timeline": "2025 → 2024",
+      "source_url": "https://buildwithtract.com/",
+      "tags": [
+        "失败复盘"
+      ],
+      "lifespan": "2024–2025（约1年）",
+      "cause": "综合经营失败",
+      "country": "英国"
+    },
+    {
+      "name": "ETLR",
+      "who": "UK",
+      "outcome": "Fail",
+      "sector": "Devtools",
+      "region": "全球",
+      "src": "global",
+      "story": "ETLR（UK）最终关停或失败。结果写作「Shut ~Jul 2026 after ~7 months; 200 signups, zero paid upgrades; shutdown email → no one asked to stay」。",
+      "lesson": "可执行点：① If removing the product gets zero complaints → no PMF; ② Mixed early validation ≠ burning problem; ③ Target users wanted OSS not proprietary lock-in; ④ Agent …。",
+      "timeline": "2026",
+      "source_url": "https://betsworth.io/an-honest-obituary/",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "burning problem；③ Target users wanted OSS n",
+      "cause": "综合经营失败",
+      "country": "英国"
+    },
+    {
+      "name": "Hokodo",
+      "who": "Europe",
+      "outcome": "Fail",
+      "sector": "B2B BNPL",
+      "region": "全球",
+      "src": "global",
+      "story": "Hokodo（Europe）最终关停或失败。结果写作「Shut after 8 years (ann. ~Apr 2026); financed €500M+ invoices; ~$177M equity+debt; first full EU payments licence in category; founders → Li」。",
+      "lesson": "可执行点：Took too long to narrow ICP (marketplace→enterprise complexity); 2021/22 FOMO mistook small wins for PMF。",
+      "timeline": "2026",
+      "source_url": "https://www.embeddedfinancereview.com/hokodo-shuts-down-after-eight-years-and-eur500m-in-financed-invoices/",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "$177M equity+debt；first full EU payments licence in ca",
+      "cause": "综合经营失败",
+      "country": "欧洲"
+    },
+    {
+      "name": "Arjita Sethi AI edtech",
+      "who": "US/global",
+      "outcome": "Fail/voluntary",
+      "sector": "AI edtech",
+      "region": "全球",
+      "src": "global",
+      "story": "Arjita Sethi AI edtech（US/global）最终关停或失败。结果写作「Voluntary close despite VC backers (NY/Finland/SF), 40k pipeline, 1k paying, 91% pedagogy score, XPRIZE semis, NASDAQ Times Square billboard」。",
+      "lesson": "可执行点：① Tech not ready + waiting game burns cash; ② Impact/slow education ≠ VC hypergrowth model; ③ Structure-induced burnout ≠ 「insufficient wellness」; ④ Startup fai…。",
+      "source_url": "https://arjitasethi.substack.com/p/why-i-closed-my-ai-startup",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "burns cash；② Impact/slow education ≠ VC hyp",
+      "cause": "综合经营失败",
+      "country": "美国"
+    },
+    {
+      "name": "Curnon",
+      "who": "Vietnam",
+      "outcome": "Fail/quiet close",
+      "sector": "D2C watches",
+      "region": "全球",
+      "src": "global",
+      "story": "Curnon最终关停或失败。结果写作「Closed retail ~Aug 2026 after 9 years; site/hotline down; warranty desk kept; no long founder letter」。",
+      "lesson": "可执行点：Brand recall ≠ P&L; fashion-SKU inventory locks capital; D2C eats returns risk; CAC rose while cheap imports + global brands compressed margin; revenue growth c…。",
+      "timeline": "2026",
+      "source_url": "https://doanhnhanplus.vn/curnon-dung-hoat-dong-bai-hoc-d2c-707019.html",
+      "tags": [
+        "CAC"
+      ],
+      "cause": "获客成本不可持续",
+      "country": "越南"
+    },
+    {
+      "name": "Maka Motors",
+      "who": "Ghana",
+      "outcome": "Fail",
+      "sector": "EV manufacturing",
+      "region": "全球",
+      "src": "global",
+      "story": "Maka Motors（Ghana mobility founders (UnicornBurn autopsy)）最终关停或失败。结果写作「Shut ~2023 after ~€3M / 4 years; local EV bikes for last-mile vs petrol okadas」。",
+      "lesson": "可执行点：Import-heavy BOM + sparse charging = unit economics never scale; commercial riders need guaranteed range before purchase; partner charging infra pre-launch。",
+      "timeline": "2023",
+      "source_url": "https://unicornburn.com/autopsy/maka-motors-mobility-ghana",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "Burn autopsy)）最终关停或失败",
+      "cause": "综合经营失败",
+      "country": "加纳"
+    },
+    {
+      "name": "Kalulu Hatcheries",
+      "who": "Eswatini",
+      "outcome": "Fail",
+      "sector": "Agri manufacturing",
+      "region": "全球",
+      "src": "global",
+      "story": "Kalulu Hatcheries（Sbu Mngadi & Anette Mngadi）最终关停或失败。结果写作「Closed 2023–24 after ~12 years; family severance into Chinese hatchery gear; tried to build breeders→growers→processing→cold chain alone」。",
+      "lesson": "可执行点：Cannot commercialise before breed + chain + price exist; one SME cannot fund five national links; “no breed, no chain, no price”; govt pushed farmers into empty…。",
+      "timeline": "2023",
+      "source_url": "https://agribusinessmedia.com/2026/07/29/commercialise-indigenous-chickens/",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "Minimus",
+      "who": "Israel",
+      "outcome": "Fail/return capital",
+      "sector": "Cybersecurity",
+      "region": "全球",
+      "src": "global",
+      "story": "Minimus最终关停或失败。结果写作「Orderly wind-down to Oct 22 2026 after $51M raise; failed M&A search; return ~$10M residual; 60-day customer maintenance; 35 staff」。",
+      "lesson": "可执行点：Serial-exit pedigree + star LPs ≠ path; wind down with cash beats distressed sale; solvent exit cluster with Ula/Ringan。",
+      "timeline": "2026",
+      "source_url": "https://www.israeldefense.co.il/en/node/70386",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "$51M raise；failed M&A search",
+      "cause": "综合经营失败",
+      "country": "以色列"
+    },
+    {
+      "name": "Montara",
+      "who": "Israel",
+      "outcome": "Fail",
+      "sector": "AI data tooling",
+      "region": "全球",
+      "src": "global",
+      "story": "Montara（Ori Soen (CEO)）最终关停或失败。结果写作「Shut ~Apr 2026 after ~3 years building AI platform for analysts to prep/maintain data」。",
+      "lesson": "可执行点：LinkedIn bottom-line farewell; complements Minimus as Israel 2026 shutdown wave。",
+      "timeline": "2026",
+      "source_url": "https://www.linkedin.com/posts/orisoen_the-bottom-line-we-are-shutting-down-montara-activity-7446935562189574146-RFRE",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "以色列"
+    },
+    {
+      "name": "CodeThreat",
+      "who": "Turkey",
+      "outcome": "Fail",
+      "sector": "AppSec",
+      "region": "全球",
+      "src": "global",
+      "story": "CodeThreat（Serhan Öztuna (Co-founder & CEO)）最终关停或失败。结果写作「Ended ~Aug 2026 after 7 years; code security analysis; customers in 3 countries incl. global brands」。",
+      "lesson": "可执行点：Full lifecycle from zero product to global sales to hard close; Turkish-language primary。",
+      "timeline": "2026",
+      "source_url": "https://www.linkedin.com/posts/serhan-oztuna_7-y%C4%B1l%C4%B1n-ard%C4%B1ndan-codethreat-yolculu%C4%9Fumuz-activity-7493543110975799296-ilzh",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "土耳其"
+    },
+    {
+      "name": "Actins AI",
+      "who": "Turkey",
+      "outcome": "Fail",
+      "sector": "AI",
+      "region": "全球",
+      "src": "global",
+      "story": "Actins AI（Berkay Uzuner）最终关停或失败。结果写作「Wound down ~2026; published “what we did wrong / right / why I won’t build in Türkiye again”」。",
+      "lesson": "可执行点：Ecosystem capital “asleep”; honest wrong/right split; refusal to rebuild locally as meta-lesson。",
+      "timeline": "2026",
+      "source_url": "https://www.linkedin.com/posts/berkay-uzuner_after-winding-down-actins-ai-i-needed-to-activity-7442591108267659264-AhIF",
+      "tags": [
+        "CAC"
+      ],
+      "cause": "获客成本不可持续",
+      "country": "土耳其"
+    },
+    {
+      "name": "Coordinal",
+      "who": "US",
+      "outcome": "Fail",
+      "sector": "AI safety",
+      "region": "全球",
+      "src": "global",
+      "story": "Coordinal最终关停或失败。结果写作「Wound down Q1–Q2 2026; $125K SAFE; RE-Bench climb then burnout; CG declined $1M ask」。",
+      "lesson": "可执行点：Small grants can be net-negative; built for self, demo failed friend test; frontier labs eat scaffolding; cofounder “full body yes”; forever fundraising。",
+      "timeline": "2026",
+      "source_url": "https://ronakrm.substack.com/p/coordinal-a-postmortem",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "$1M ask」；burnout",
+      "cause": "综合经营失败",
+      "country": "美国"
+    },
+    {
+      "name": "Satvacart",
+      "who": "India",
+      "outcome": "Fail/founder capacity",
+      "sector": "Online grocery",
+      "region": "全球",
+      "src": "global",
+      "story": "Satvacart 模型显示还有约 45 天可打平，订单与贡献利润也在好转，却在 2026-08-28 关停。死因不是单位经济算不过，而是创始人精力与现金同时见底——创始人容量本身就是资本。",
+      "lesson": "打平前夜也可能死于创始人容量；把健康与备份负责人写进风险清单。",
+      "timeline": "距打平约 45 天 → 2026-08 关停",
+      "tags": [
+        "现金流"
+      ],
+      "cause": "现金流断裂 / runway 耗尽",
+      "country": "印度"
+    },
+    {
+      "name": "Qtrove",
+      "who": "India",
+      "outcome": "Fail",
+      "sector": "Artisan marketplace",
+      "region": "全球",
+      "src": "global",
+      "story": "Qtrove（Ganesh Krishnan (founder; TutorVista etc.)）最终关停或失败。结果写作「Shut after ~4 years — math never worked」。",
+      "lesson": "可执行点：High take rate useless if purchase frequency low; LTV never justified CAC; cold-start/flywheel failed; US Etsy premium uniqueness ≠ India price-optimized mass m…。",
+      "source_url": "https://www.linkedin.com/posts/ganeshk_startups-entrepreneurship-marketplaces-activity-7426462316788908032-02NG",
+      "tags": [
+        "CAC"
+      ],
+      "cause": "获客成本不可持续",
+      "country": "印度"
+    },
+    {
+      "name": "Guardian Agriculture",
+      "who": "US",
+      "outcome": "Fail/liquidate",
+      "sector": "Ag eVTOL drone",
+      "region": "全球",
+      "src": "global",
+      "story": "Guardian Agriculture 拿下 FAA 农用 eVTOL 相关授权与媒体奖项，累计融资约 5170 万美元，却几乎只有 1 个付费客户。适航光环没有换成订单，最终停止运营并走向清算。",
+      "lesson": "适航/首批授权≠客户与现金流；深科技要按农场采购节奏验证付费，而不是按融资叙事扩产。",
+      "timeline": "FAA 授权光环 → 2025-08 停运清算",
+      "tags": [
+        "政策",
+        "硬件鸿沟"
+      ],
+      "capital": "约 5170 万美元",
+      "cause": "硬件量产与供应链鸿沟",
+      "country": "美国",
+      "source_url": "https://www.therobotreport.com/drone-startup-guardian-agriculture-shuts-down/"
+    },
+    {
+      "name": "RendeRex",
+      "who": "UAE",
+      "outcome": "Fail/collapse",
+      "sector": "AI hardware",
+      "region": "全球",
+      "src": "global",
+      "story": "RendeRex（Amr Shawky (pilot→founder; Dubai)）最终关停或失败。结果写作「Rise then collapse after US GPU export controls; pivot SmartPark blocked by gov API politics」。",
+      "lesson": "可执行点：Exclusive blower-GPU arbitrage → inventory stranded when H100 approvals take 9 months; ending steady BigCo contract to chase next-gen burned runway; hardware in…。",
+      "source_url": "https://amrshawky.com/posts/rise-and-fall/",
+      "tags": [
+        "现金流"
+      ],
+      "capital": "burned runway；hardware in…",
+      "cause": "现金流断裂 / runway 耗尽",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "Bytemelt",
+      "who": "MENA",
+      "outcome": "Stopped",
+      "sector": "AI infra",
+      "region": "全球",
+      "src": "global",
+      "story": "Bytemelt（Denis Skomarovskii (Dubai)）最终关停或失败。结果写作「Stopped 2026-03 — geopolitics made region uninvestable near-term」。",
+      "lesson": "可执行点：5 investors folded after regional conflict; rational stop ≠ push harder; wait for Asia opportunity or ≥1 year post-war reassessment。",
+      "timeline": "2026-03",
+      "source_url": "https://www.linkedin.com/posts/skomarovskii_over-the-past-year-i-was-buildingbytemelt-activity-7437040836053291008-O5Mj",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "中东/北非"
+    },
+    {
+      "name": "BionicHIVE",
+      "who": "Israel",
+      "outcome": "Liquidation",
+      "sector": "Warehouse robotics",
+      "region": "全球",
+      "src": "global",
+      "story": "BionicHIVE最终关停或失败。结果写作「Liquidation petition; ~$18M / NIS 66M debt; Amazon-backed」。",
+      "lesson": "可执行点：War closed HQ (military zone), founders evacuated/called up; foreign investor pipeline cut; Musk tweet + Amazon recognition ≠ cash runway under conflict。",
+      "source_url": "https://www.calcalistech.com/ctechnews/article/bjejbfsbyx",
+      "tags": [
+        "现金流"
+      ],
+      "capital": "$18M / NIS 66M debt；Amazon-backed」",
+      "cause": "现金流断裂 / runway 耗尽",
+      "country": "以色列"
+    },
+    {
+      "name": "Polyfos",
+      "who": "Israel",
+      "outcome": "Fail",
+      "sector": "Additive mfg",
+      "region": "全球",
+      "src": "global",
+      "story": "Polyfos（Amir Veresh (postmortem Part 2 on LinkedIn)）最终关停或失败。结果写作「Shut — war disrupted lab access; AM sector ice age post-SPAC」。",
+      "lesson": "可执行点：Reserve duty + rocket fire blocked PoC before budget ended; AM investor sentiment flipped after US SPAC failures (~90% value destruction); conflict geography co…。",
+      "source_url": "https://www.linkedin.com/posts/veresh_techentrepreneurship-startupjourney-hardwarestartup-activity-7389583102064451584-qC0i",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "以色列"
+    },
+    {
+      "name": "Chickin Worx Riyadh",
+      "who": "KSA",
+      "outcome": "Voluntary close",
+      "sector": "F&B expansion",
+      "region": "全球",
+      "src": "global",
+      "story": "Chickin Worx Riyadh（Farouk Kadous）最终关停或失败。结果写作「Chose to close Saudi location despite ability to keep going」。",
+      "lesson": "可执行点：Strong reviews ≠ unit economics under full KSA cost structure; hardest close is when you *could* continue; focus Cairo/Boston returns over ego in new market。",
+      "source_url": "https://medium.com/@faroukkadous/i-could-have-kept-going-i-chose-not-to-here-is-what-i-learned-9f288e79cf4c",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "Yupp.ai",
+      "who": "US",
+      "outcome": "Wind-down/return capital",
+      "sector": "AI eval marketplace",
+      "region": "全球",
+      "src": "global",
+      "story": "Yupp.ai 募资约 3300 万美元、做到约 130 万用户，却在 2026-03 宣布 wind-down 并退还剩余资本。死因不是烧光钱，而是行业从 chatbot 众包评测转向 agentic 系统，原赛道被范式迁移直接杀死。",
+      "lesson": "用户规模≠PMF；范式迁移来临时，钱没花完也要敢于退场还钱。",
+      "timeline": "融资 $33M → 2026-03 wind-down",
+      "source_url": "https://blog.yupp.ai/winddown/",
+      "tags": [
+        "平台碾压",
+        "伪需求"
+      ],
+      "capital": "约 3300 万美元、做到约 130 万用户，却在 20；$33M → 2026-03 wind-down 用户规模≠PMF",
+      "cause": "伪需求 / PMF 缺失",
+      "country": "美国"
+    },
+    {
+      "name": "Klydo",
+      "who": "India",
+      "outcome": "Fail/deliberate",
+      "sector": "Fashion q-commerce",
+      "region": "全球",
+      "src": "global",
+      "story": "Klydo 做印度时尚即时配送，约 11 个月里跑出 5 万+订单、履约尚可、CM2 接近打平，仍主动关停。CAC 卡在 ₹900–1200 的地板上移不动——用户关系租自 Meta，再多执行也救不了单位经济。",
+      "lesson": "运营打平救不了 CAC 地板；发现渠道被平台租走时，要尽早止损而不是加码投放。",
+      "timeline": "约 11 个月 → 2026-08 主动关停",
+      "source_url": "https://economictimes.indiatimes.com/tech/technology/rapid-fashion-delivery-startup-klydo-shuts-down-operations/articleshow/132196747.cms",
+      "tags": [
+        "CAC",
+        "现金流"
+      ],
+      "capital": "₹900–1200 的地板上移不动——用户关系租自 Meta，再多执行也救不了单位经济",
+      "lifespan": "约11个月",
+      "cause": "获客成本不可持续",
+      "country": "印度"
+    },
+    {
+      "name": "Snaphunt",
+      "who": "Singapore",
+      "outcome": "Liquidation",
+      "sector": "AI recruitment",
+      "region": "全球",
+      "src": "global",
+      "story": "新加坡 AI 招聘平台 Snaphunt 已有可观用户与雇主网络，却在融资延迟后于 2026-07 进入清算。投资人「承诺」没有变成账上现金，Beenext 之后的下一轮资金空窗直接抽干 runway。",
+      "lesson": "投资人承诺≠现金到账；把融资时间表写成最坏情形，而不是乐观意向书。",
+      "timeline": "Beenext seed → 2026-07 清算",
+      "source_url": "https://www.straitstimes.com/business/singapore-based-job-search-platform-snaphunt-winds-up-after-funding-delay-leaves-it-short-of-cash",
+      "tags": [
+        "单一LP",
+        "现金流"
+      ],
+      "cause": "融资来源单一断供",
+      "country": "新加坡"
+    },
+    {
+      "name": "Lemon",
+      "who": "Singapore",
+      "outcome": "Fail",
+      "sector": "IRL social",
+      "region": "全球",
+      "src": "global",
+      "story": "新加坡社交创业 Lemon 围绕「人很孤独」的陈述偏好起步，约 9 个月后关停。用户嘴里说想认识新朋友，真实行为却撑不起差异化；面对 Timeleft 等同类产品，团队找不到护城河。",
+      "lesson": "陈述偏好≠揭示偏好；社交产品先验证双向意愿与复访，再谈规模化。",
+      "timeline": "上线约 9 个月 → 关停",
+      "tags": [
+        "伪需求"
+      ],
+      "lifespan": "约9个月",
+      "cause": "伪需求 / PMF 缺失",
+      "country": "新加坡"
+    },
+    {
+      "name": "ResumoFII",
+      "who": "Brazil",
+      "outcome": "Killed",
+      "sector": "Indie fintech AI",
+      "region": "全球",
+      "src": "global",
+      "story": "ResumoFII（Solo builder (popado.co)）最终关停或失败。结果写作「Killed after ~4 months live (shipped 2025-07, killed by 2026-05 essay)」。",
+      "lesson": "可执行点：Code worked; CVM investment-advice regulation + NF-e tax stack killed before PMF; \"check if legal before 6 months of Rust\"; global-by-default; infra portable, r…。",
+      "timeline": "2025-07 → 2026-05",
+      "source_url": "https://read.popado.co/killing-resumofii/",
+      "tags": [
+        "政策"
+      ],
+      "lifespan": "2025–2026（约1年）",
+      "cause": "政策/监管冲击",
+      "country": "巴西"
+    },
+    {
+      "name": "Wahine Capital",
+      "who": "Malaysia",
+      "outcome": "Closing",
+      "sector": "Women fintech",
+      "region": "全球",
+      "src": "global",
+      "story": "Wahine Capital（Rejina Rahim, Shareena Mohd Sheriff）最终关停或失败。结果写作「Closing end of month ~2026-08; founder podcast + LinkedIn accountability」。",
+      "lesson": "可执行点：UN awards + SC accelerator shortlist ≠ PMF; \"product might be needed, but without PMF the idea is just a dream\"; public failure narrative as accountability。",
+      "timeline": "2026-08",
+      "source_url": "https://www.linkedin.com/posts/rejinarahim_wahine-capital-is-closing-rejina-rahim-tells-activity-7490676451667734528-e2Ds",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "Strait Grains",
+      "who": "Singapore",
+      "outcome": "Fail",
+      "sector": "Healthy F&B",
+      "region": "全球",
+      "src": "global",
+      "story": "Strait Grains（Elvin (founder; side of full-time job)）最终关停或失败。结果写作「Closed after underfunded launch; product/ops praised」。",
+      "lesson": "可执行点：Right product + niche location still die on insufficient setup capital; fixed lease from day one; promo cliff with no reserve; personal loan priority over rent/…。",
+      "source_url": "https://www.commune-asia.com/p/burnt-ends-how-strait-grains-ran",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "raised」",
+      "cause": "综合经营失败",
+      "country": "新加坡"
+    },
+    {
+      "name": "ComparaOnline",
+      "who": "Chile",
+      "outcome": "Market exit",
+      "sector": "Insurtech",
+      "region": "全球",
+      "src": "global",
+      "story": "ComparaOnline（Rodrigo Fernández）最终关停或失败。结果写作「2023 market exit from CO/BR/MX; Chile assets sold distressed」。",
+      "lesson": "可执行点：SEO+affiliate moat erodes (Google algo −45% traffic); insurers go direct; multi-country expansion without UE; older case filling Chile gap。",
+      "timeline": "2023",
+      "source_url": "https://unicornburn.com/autopsy/comparaonline-insurance-chile-expansion",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "AI 社交小程序（「人的搜索引擎」→卡片互选）",
+      "who": "连续创业者/全栈作者（人人都是产品经理专栏；非尚书毅抱抱窝）",
+      "outcome": "主动暂停（约半年）：团队本有约 30 万高校用户基础、日活两三万；AI 助力单人完成原需 5–6 人 3 个月的 MVP（搜索/IM/会员支付）；次日留存一度约 35%、付费用户过百，仍因天花板与商业",
+      "sector": "AI 社交 / 校园信任本地化",
+      "region": "国内",
+      "src": "round-20260909-06",
+      "story": "AI 社交小程序（「人的搜索引擎」→卡片互选）（连续创业者/全栈作者（人人都是产品经理专栏；非尚书毅抱抱窝））留下了可核查的失败/关停记录。深挖：与 R1 抱抱窝同属 AI 社交尸检，但本条强调「AI 降开发成本后判断成本更稀缺」——适合大学生 OPC 对照。结局：主动暂停（约半年）：团队本有约 30 万高校用户基础、日活两三万；AI 助力单人完成原需 5–6 人 3 个月的 MVP（搜索/IM/会员支付）；次日留存一度约 35%、付费用户过百，仍因天花板与商业闭环不匹配停掉。",
+      "lesson": "生产力跃迁可把产品做出来，却不自动变成生意；纯线上社交的核心是双向意愿，不是搜索效率——「许愿池」供需错配。",
+      "source_url": "https://www.woshipm.com/pd/6455154.html",
+      "tags": [
+        "校园陷阱"
+      ],
+      "country": "中国"
+    },
+    {
+      "name": "汽配老板 AI 获客网站（匿名）",
+      "who": "一人公司实践者（人人都是产品经理）",
+      "outcome": "主动暂停：差点用生成式工具直接上线；真实访谈发现客户要的是平台流量而非官网门面",
+      "sector": "AI 获客 / OPC",
+      "region": "国内",
+      "src": "round-20260909-06",
+      "story": "汽配老板 AI 获客网站（匿名）（一人公司实践者（人人都是产品经理））留下了可核查的失败/关停记录。结局：主动暂停：差点用生成式工具直接上线；真实访谈发现客户要的是平台流量而非官网门面。",
+      "lesson": "AI 降低执行成本，不降低判断成本；原型是止损工具。",
+      "source_url": "https://www.woshipm.com/share/6352880.html",
+      "tags": [
+        "CAC",
+        "平台碾压"
+      ],
+      "country": "中国"
+    },
+    {
+      "name": "家校沟通教育产品（「300 万学费」）",
+      "who": "—",
+      "outcome": "失败（融资约 380 万量级投入语境下项目关闭）",
+      "sector": "教育信息化 / 家校",
+      "region": "国内",
+      "src": "round1",
+      "story": "家校沟通教育产品（「300 万学费」）的时间线约为约 2017–2020；疫情后解散。「零风险」内部孵化麻痹成本意识；情怀抵制向家长收费；大而全产品；现金流撑不住市场验证。结局：失败（融资约 380 万量级投入语境下项目关闭）。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "约 2017–2020；疫情后解散",
+      "source_url": "https://yuedu.biz/300wan-xue-fei-yu3nian-qing-chun-yi-ci-jiao-yu-chu/",
+      "tags": [
+        "现金流",
+        "校园陷阱"
+      ],
+      "capital": "约 380 万量级投入语境下项目关闭）",
+      "lifespan": "2017–2020（约3年）",
+      "cause": "校园路径陷阱（获客/人事/赛品）",
+      "country": "中国"
+    },
+    {
+      "name": "SaaS 客服产品「A」",
+      "who": "—",
+      "outcome": "失败（投资人看不到长期盈利，资金紧张关闭）",
+      "sector": "企业服务 / SaaS",
+      "region": "国内",
+      "src": "round1",
+      "story": "SaaS 客服产品「A」的时间线约为2016–2018，约 3 年。未充分调研进入红海；产品/用户定位扯皮；技术架构缺统一规划；大小客户与部署形态摇摆。结局：失败（投资人看不到长期盈利，资金紧张关闭）。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "2016–2018，约 3 年",
+      "source_url": "https://36kr.com/p/1722534592513",
+      "tags": [
+        "现金流"
+      ],
+      "lifespan": "2016–2018（约2年）",
+      "cause": "现金流断裂 / runway 耗尽",
+      "country": "中国"
+    },
+    {
+      "name": "清华博士四次创业 — 连续失败",
+      "who": "—",
+      "outcome": "四次均失败",
+      "sector": "教育 / 金融 / 消费",
+      "region": "国内",
+      "src": "round1",
+      "story": "清华博士四次创业 — 连续失败的时间线约为约 6 年，累计投入超 3000 万。团队不全员 All-in；平台封杀；股东内讧；疫情冲击线下。结局：四次均失败。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "约 6 年，累计投入超 3000 万 → 关停/失败",
+      "source_url": "https://www.tmtpost.com/4467301.html",
+      "tags": [
+        "平台碾压"
+      ],
+      "cause": "平台/巨头同质化碾压",
+      "country": "中国"
+    },
+    {
+      "name": "教培在线项目（芥末堆「从入门到倒闭」）",
+      "who": "—",
+      "outcome": "失败/关停",
+      "sector": "在线教育",
+      "region": "国内",
+      "src": "round1",
+      "story": "教培在线项目（芥末堆「从入门到倒闭」）的时间线约为约 2010 年代后期资本热潮期。机构融资顺利→算账发现真人在线「规模不经济」；管理层级随师生规模膨胀；结论倾向成为大集团补充业务而非独立盈利。结局：失败/关停。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "约 2010 年代后期资本热潮期 → 关停/失败",
+      "source_url": "https://www.jiemodui.com/N/123269",
+      "tags": [
+        "政策"
+      ],
+      "cause": "政策/监管冲击",
+      "country": "中国"
+    },
+    {
+      "name": "关掉仍在赚钱的事业（台湾）— 主动关闭",
+      "who": "—",
+      "outcome": "主动关闭（业务仍赚钱，因精力无法兼顾另一事业）",
+      "sector": "—",
+      "region": "国内",
+      "src": "round1",
+      "story": "关掉仍在赚钱的事业（台湾）— 主动关闭留下了可核查的失败/关停记录。结局：主动关闭（业务仍赚钱，因精力无法兼顾另一事业）。",
+      "lesson": "专注是敢放掉；机会成本可高于账面利润。",
+      "source_url": "https://terry.zendragon.com.tw/posts/shutting-down-profitable-business",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "中国台湾"
+    },
+    {
+      "name": "LegalNow → GlobalGPT（李焕之）— 先败后成",
+      "who": "—",
+      "outcome": "混合（LegalNow 失败；GlobalGPT 零融资活下来）",
+      "sector": "AI 应用 / 法律→C 端工具",
+      "region": "国内",
+      "src": "round2",
+      "story": "LegalNow → GlobalGPT（李焕之）— 先败后成的时间线约为LegalNow 失败；2024 初几乎没钱时做出 GlobalGPT 造血。LegalNow 有声望但不赚钱；2024 做七八个产品每个都赚钱但无 mission；「赚两块发一块五」滚动；最终锁定服务人群与三五年目标。结局：混合（LegalNow 失败；GlobalGPT 零融资活下来）。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "LegalNow 失败；2024 初几乎没钱时做出 GlobalGPT 造血 → 关停/失败",
+      "source_url": "https://zhuanlan.zhihu.com/p/2049904254278710291",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "中国"
+    },
+    {
+      "name": "ひとり社長 · 4 SaaS 全零用户（Zenn）",
+      "who": "—",
+      "outcome": "2026-02 从 10 事业砍到 3；4 个 SaaS 全关",
+      "sector": "—",
+      "region": "全球",
+      "src": "round-20260909-04",
+      "story": "ひとり社長 · 4 SaaS 全零用户（Zenn）留下了可核查的失败/关停记录。结局：2026-02 从 10 事业砍到 3；4 个 SaaS 全关。",
+      "lesson": "3个月无二位数用户 → 停；营销投不进每周足够时间 → 停。",
+      "timeline": "2026-02",
+      "source_url": "https://zenn.dev/joinclass/articles/4-saas-20260617220004-22895",
+      "tags": [
+        "失败复盘"
+      ],
+      "country": "全球/跨国"
+    },
+    {
+      "name": "影石创新 / 深圳影翎等影翎系",
+      "who": "刘靖康（主业已入库 R1 成功）；无人机线管理层",
+      "outcome": "2026 H1：集团营收 +50% 但归母净利暴跌 94%；影翎系合计亏约 3.67 亿，核心主体技术性资不抵债；美国 FCC Covered List 抬高境外无人机准入",
+      "sector": "消费无人机 / 影像硬件扩张",
+      "region": "国内",
+      "src": "round-20260909-05",
+      "story": "影石创新 / 深圳影翎等影翎系（刘靖康（主业已入库 R1 成功）；无人机线管理层）留下了可核查的失败/关停记录。缺口状态：国内青年具名整机/eVTOL 一手关停信仍缺；本条是龙头子公司失血，非青年一手。结局：2026 H1：集团营收 +50% 但归母净利暴跌 94%；影翎系合计亏约 3.67 亿，核心主体技术性资不抵债；美国 FCC Covered List 抬高境外无人机准入。",
+      "lesson": "主业现金牛 ≠ 第二曲线可无限输血；适航/准入监管（FCC）可瞬间抬高出海成本。",
+      "timeline": "2026",
+      "source_url": "https://m.163.com/dy/article/L5LQG0QC0519RRAD.html",
+      "tags": [
+        "政策",
+        "硬件鸿沟",
+        "现金流",
+        "第二曲线失血"
+      ],
+      "capital": "亏约 3.67 亿，核心主体技术性资不抵债",
+      "cause": "硬件量产与供应链鸿沟",
+      "country": "中国"
+    },
+    {
+      "name": "湖南睿途低空科技等「低空经济」非法集资包装",
+      "who": "操盘团伙（媒体报道；非正规创业团队）",
+      "outcome": "2024「农业无人机租赁」→2025「睿途低空」APP 服务包日收益/层级返利 → 长沙芙蓉区金融事务中心风险提示后注销跑路；同期「学开飞机跑路」「LAE」类 APP 同类",
+      "sector": "低空概念 / 非法金融",
+      "region": "国内",
+      "src": "round-20260909-06",
+      "story": "湖南睿途低空科技等「低空经济」非法集资包装（操盘团伙（媒体报道；非正规创业团队））留下了可核查的失败/关停记录。结局：2024「农业无人机租赁」→2025「睿途低空」APP 服务包日收益/层级返利 → 长沙芙蓉区金融事务中心风险提示后注销跑路；同期「学开飞机跑路」「LAE」类 APP 同类。",
+      "lesson": "真正低空企业砸几千万–上亿苦熬多年仍可能倒在黎明前；固定收益+发展下线 = 热点传销话术。",
+      "timeline": "2024 → 2025",
+      "source_url": "https://news.qq.com/rain/a/20260125A068DN00",
+      "tags": [
+        "硬件鸿沟",
+        "治理崩"
+      ],
+      "lifespan": "2024–2025（约1年）",
+      "cause": "治理崩盘 / 内控失效",
+      "country": "中国"
+    },
+    {
+      "name": "廖然 · AI 文创帆布包 OPC",
+      "who": "廖然（化名，95后前大厂）",
+      "outcome": "Fail/半年注销回巢",
+      "sector": "AI+文创 / 一人公司",
+      "region": "国内",
+      "src": "china/round-20260909-01",
+      "story": "廖然（化名）一人公司仿海外「照片转卡通」思路做语录帆布包，OPC 注册拿补贴叙事热闹，半年左右注销回巢。AI 降低了设计成本，却没解决分发、复购与供应链。",
+      "lesson": "一人公司+AI 不等于生意；先验证复购与渠道，再注册与领补贴。",
+      "timeline": "OPC 启动 → 约半年注销",
+      "source_url": "https://www.woshipm.com/chuangye/6402822.html",
+      "tags": [
+        "伪需求",
+        "政策"
+      ],
+      "cause": "伪需求 / PMF 缺失",
+      "country": "中国"
+    },
+    {
+      "name": "郭琪 · 非遗合香珠 OPC",
+      "who": "郭琪（化名）",
+      "outcome": "Fail/供应链击穿",
+      "sector": "AI+非遗 / 文创供应链",
+      "region": "国内",
+      "src": "china/round-20260909-01",
+      "story": "郭琪 · 非遗合香珠 OPC（郭琪（化名，传统活动策划多年，有高净值客户资源））留下了可核查的失败/关停记录。结局：2025底辞职单干；合香珠配比依赖老师傅经验，AI 调不出合格香料；产地跑断腿仍「按下葫芦浮起瓢」，试错费烧光。",
+      "lesson": "「AI 解决排版与文案，解决不了供应链与手艺」；有行业 Know-how 仍可能死在物理世界方差（湿度、纯度）。",
+      "timeline": "2025",
+      "source_url": "https://www.woshipm.com/chuangye/6402822.html",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "中国"
+    },
+    {
+      "name": "朱峻锋 · 面馆/包子店连续实体",
+      "who": "朱峻锋",
+      "outcome": "Fail/青年线下失败",
+      "sector": "餐饮实体",
+      "region": "国内",
+      "src": "china/round-20260909-00",
+      "story": "朱峻锋 · 面馆/包子店连续实体（朱峻锋（殡葬专业背景，电商转实体））留下了可核查的失败/关停记录。结局：上海店投约 80 万、十余天倒闭，亏近 60 万；再投约 40 万 开包子店；婚姻破裂；2026 前后因「宁愿睡地板也要当老板」登热搜。",
+      "lesson": "「老板梦」≠ 选址/现金流/服务能力验证；实体失败损耗家庭关系，复盘成本远超账面。",
+      "timeline": "2026",
+      "source_url": "https://www.163.com/dy/article/KQLU3ORT0514D3UH.html",
+      "tags": [
+        "现金流"
+      ],
+      "capital": "约 80 万、十余天倒闭，亏近 60 万；约 40 万 开包子店",
+      "cause": "现金流断裂 / runway 耗尽",
+      "country": "中国"
+    },
+    {
+      "name": "苗成 · 校园购物折扣卡",
+      "who": "苗成（大学生）",
+      "outcome": "失败 / 退卡收场",
+      "sector": "校园本地生活",
+      "region": "国内",
+      "src": "cy4.cn 2025-12 · 无契约商户合+体验崩=骗局叙事",
+      "story": "苗成代理销售校园购物优惠卡，靠「无契约」的商户口头合作推进，用户体验崩塌后迅速被写成骗局叙事，最终退卡收场。信任与契约缺失比获客更致命。",
+      "lesson": "商户合作必须书面契约与可核销权益；体验崩=骗局叙事，校园场景尤其脆弱。",
+      "timeline": "代理推广 → 退卡收场",
+      "source_url": "https://cy4.cn/article/2025/12/15/1993.html",
+      "tags": [
+        "治理崩",
+        "校园陷阱",
+        "伪需求"
+      ],
+      "cause": "伪需求 / PMF 缺失",
+      "country": "中国"
+    },
+    {
+      "name": "Zinc",
+      "who": "Jordan Gabriels",
+      "outcome": "失败 / 关停",
+      "sector": "AI HR SaaS",
+      "region": "全球",
+      "src": "Substack 2025-10 · 近六位数单被 SOC2 卡死",
+      "story": "Jordan Gabriels 的 Zinc 做管理 AI/绩效上下文工具，约 5 个月追 PMF，差一点拿到六位数企业单，却被安全团队以缺乏 SOC2 卡死。硬 pivot 打击联合创始人士气，项目最终失败收场。",
+      "lesson": "企业单的隐藏门槛（SOC2/安审）要提前排期；合规墙可以比产品问题更快杀死交易。",
+      "timeline": "5 个月追 PMF → 企业单卡在 SOC2",
+      "source_url": "https://jordangabriels.substack.com/p/failing-to-make-something-people",
+      "tags": [
+        "政策",
+        "治理崩"
+      ],
+      "lifespan": "约5个月",
+      "cause": "治理崩盘 / 内控失效",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "Landing Bakery",
+      "who": "Jacin & David（西班牙）",
+      "outcome": "失败 / 枢转 Baker AI",
+      "sector": "B2B SaaS",
+      "region": "全球",
+      "src": "Substack 2026-04 · €1500 MRR 撑 400 天仍致命",
+      "story": "西班牙 Landing Bakery 做到约 €1500/月 MRR，缓慢上涨撑了约 400 天仍决定关掉。创始人复盘：B2B self-serve 对非技术用户极难，€100/月订阅却可能每周两小时客支，人力时薪荒谬；随后枢转 Baker AI 代理。",
+      "lesson": "慢增长 MRR 也可能致命；先算清支持成本，拒绝「build build build」自我感动。",
+      "timeline": "€1500 MRR 撑约 400 天 → 关停枢转",
+      "source_url": "https://jacin.substack.com/p/aprendizajes-tras-cerrar-landing",
+      "tags": [
+        "CAC",
+        "伪需求"
+      ],
+      "cause": "伪需求 / PMF 缺失",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "relAI",
+      "who": "Aaron Fernández Sánchez（UPF）",
+      "outcome": "失败 / 清算",
+      "sector": "AI 应用",
+      "region": "全球",
+      "src": "个人站 · 团队>点子；机会成本与 ICU 式创业",
+      "story": "relAI（Aaron Fernández Sánchez（UPF ADE 学生））的时间线约为~2025（文中称去年关停）。10 条「写给自己」：颠覆性项目须极早融资；startup 生而在 ICU；团队>点子；与市场竞速非与自己。结局：失败 / 清算。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "~2025（文中称去年关停） → 关停/失败",
+      "source_url": "https://www.aaronfernandez.com/emprender-startup-ia/",
+      "tags": [
+        "现金流"
+      ],
+      "cause": "现金流断裂 / runway 耗尽",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "VarshaKrishi",
+      "who": "Tanmay Sahare",
+      "outcome": "失败 / 停做硬件",
+      "sector": "Agri hardware",
+      "region": "全球",
+      "src": "Why We Stopped Building Hardware · 2026-07",
+      "story": "VarshaKrishi（Tanmay Sahare / VarshaKrishi）留下了可核查的失败/关停记录。放弃自研 PCB/固件/外壳；改用 COTS 仪器；三次架构 pivot 零量产台 = 假设证伪；政府标书用研究级传感器叙事履约，但不重开固件冲刺。结局：失败 / 停做硬件。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "source_url": "https://www.varshakrishi.com/blog/why-we-stopped-building-hardware",
+      "tags": [
+        "硬件鸿沟"
+      ],
+      "cause": "硬件量产与供应链鸿沟",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "Quesma",
+      "who": "Jacek Migdal",
+      "outcome": "失败 / postmortem",
+      "sector": "Devtools",
+      "region": "全球",
+      "src": "$2.5M database gateway postmortem · 2025-11",
+      "story": "Quesma 做数据库网关，融资约 250 万美元后陷入 forever pilot：口头验证很多，客户却不愿跑脚本，产品更像 feature 而非独立产品。「强迫平等联合创始人」被创始人写成最大组织错误，最终 IP 出售换 runway 并写长文尸检。",
+      "lesson": "口头兴趣≠让客户上线；企业试点要设死线，联合创始人股权结构勿为「平等」牺牲决策。",
+      "timeline": "融 $2.5M → pilot 炼狱 → IP 出售",
+      "source_url": "https://quesma.com/blog/database-gateway-postmortem/",
+      "tags": [
+        "伪需求",
+        "治理崩"
+      ],
+      "capital": "约 250 万美元后陷入 forever pilot：",
+      "cause": "伪需求 / PMF 缺失",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "Zinnia",
+      "who": "Lauren Goodell",
+      "outcome": "失败 / 关停",
+      "sector": "AI SaaS",
+      "region": "全球",
+      "src": "LinkedIn 2026-05 · 拒伪收购 + AI 产品位移",
+      "story": "Zinnia（Lauren Goodell）的时间线约为~2026-05。主数据源丢失；LLM 时代市场变；AI 咨询收入是 SaaS 的 10× 仍选择关停而非光学收购。结局：失败 / 关停。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "~2026-05",
+      "source_url": "https://www.linkedin.com/posts/lauren-goodell_ive-written-this-post-100-times-and-kept-activity-7456030337706397697-FZUd",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "Aletheia & Phos",
+      "who": "Alicia Millan",
+      "outcome": "主动关闭 / 仍盈利",
+      "sector": "Lifestyle",
+      "region": "全球",
+      "src": "Why I Closed Thriving Biz · 2026-04",
+      "story": "Aletheia & Phos（Alicia Millan）的时间线约为2026-04-24。「你有权关掉仍在运转的生意」；对照失败叙事库的稀缺对照样本。结局：主动关闭 / 仍盈利。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "2026-04-24",
+      "source_url": "https://www.broadsheet.com.au/national/fashion/article/aletheia-and-phos-founder-closure",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "VAll",
+      "who": "Bindi Dharia",
+      "outcome": "关停 / 体面退出",
+      "sector": "社会企业",
+      "region": "全球",
+      "src": "Not a Goodbye, But an End · 2026-05",
+      "story": "VAll（Bindi Dharia）的时间线约为2026-05-25。系统影响 vs 财务可持续张力；第三方重建团队前选择体面关停；关停≠道德失败；后续有关停流程文。结局：关停 / 体面退出。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "2026-05-25",
+      "source_url": "https://bins.substack.com/p/not-a-goodbyebut-an-end",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "Ankur Warikoo · 盈利课程线自砍",
+      "who": "Ankur Warikoo（WebVeda / 创作者经济）",
+      "outcome": "主动重构 / 盈利 SKU 自砍→订阅制",
+      "region": "全球",
+      "sector": "创作者经济 / 在线教育",
+      "src": "founder-essays/round-20260909-09 · BusinessToday/印地语媒体",
+      "story": "Ankur Warikoo 2026-05 公开关掉约 100 亿卢比营收、约 25 亿利润的课程线：5 年 5 万学生仍称「makes no sense」，指系统问题与 AI 冲击，后澄清转向订阅——是盈利 SKU 被主动杀死，而非公司死亡。",
+      "lesson": "盈利 SKU 也可因系统过时与 AI 冲击被主动杀死；重构不等于失败。",
+      "timeline": "5 年课程线 → 2026-05 自砍转订阅",
+      "tags": [
+        "成功对照",
+        "平台碾压"
+      ],
+      "source_url": "https://www.businesstoday.in/latest/trends/story/makes-no-sense-to-continue-ankur-warikoo-shuts-down-profitable-rs100-crore-courses-business-531869-2026-05-17",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "大创赛/挑战杯获奖落地率（模式）",
+      "who": "中国青年创业就业基金会等综述",
+      "outcome": "模式库：赛后三年商业落地约 8.5%",
+      "region": "国内",
+      "sector": "校园竞赛→市场转化",
+      "src": "china/round-20260909-09",
+      "story": "青年创业报告与学术综述给出模式库数字：大创赛/挑战杯金奖等获奖项目赛后三年商业落地约 8.5%；落地难远高于资金难，赛后一年大量团队解散——为「金奖后治理崩」提供统计底座。",
+      "lesson": "赛品≠产品；评审偏技术炫酷会推高概念项目；资源对接断层是主因之一。",
+      "timeline": "赛后 1 年解散潮 → 3 年落地约 8.5%",
+      "tags": [
+        "校园陷阱",
+        "政策"
+      ],
+      "source_url": "https://www.76hw.com/news/da-xue-sheng-chuang-xin-chuang-ye-da-sai-huo-jiang-xiang-mu-cheng-gong-lv-fen-xi-bao-gao-jie-mi-gao.html",
+      "country": "中国"
+    },
+    {
+      "name": "孵化失败构型 + 石家庄绩效退出",
+      "who": "张宝建等；石家庄市科技局",
+      "outcome": "模式库 / 官方动态退出规则",
+      "region": "国内",
+      "sector": "双创园区制度",
+      "src": "china/round-20260909-08",
+      "story": "张宝建等用 fsQCA 归纳中国孵化失败的 5 条构型：人才供给×金融支持×科技转化缺失并发，而非单因。石家庄科技局绩效办法则规定不合格不奖、连续两年不合格取消市级资格，是官方动态退出文书。",
+      "lesson": "孵化失败常是要素并发；官方绩效退出把「占位不产出」显性化。",
+      "timeline": "学术构型 + 2024 石家庄绩效办法",
+      "tags": [
+        "政策",
+        "校园陷阱"
+      ],
+      "source_url": "http://www.zgkjlt.org.cn/CN/abstract/abstract10535.shtml",
+      "country": "中国"
+    },
+    {
+      "name": "重庆通航",
+      "who": "重整投资人 + 法院五中；总经理龚伟等",
+      "outcome": "清算转重整成功 / 制度挽救样本",
+      "sector": "通航 / 低空运营",
+      "region": "国内",
+      "src": "china/round-20260909-04 · 新华网重庆",
+      "story": "重庆通航（重整投资人 + 法院五中；总经理龚伟等）留下了可核查的失败/关停记录。对照：R3 Lilium / R5 亿航 / 本轮全球 Volocopter — 适航与造血；重庆案是制度挽救样本，不是青年创业模板，但补「国内低空退出路径」缺口。结局：2022 债务约 2.68 亿申请清算 → 转重整成功，投资人首期 2500 万；低空旅游等业务重启叙事。",
+      "lesson": "重资产通航收入盖不住租金与利息；清算 vs 重整路径选择决定「资产包」能否留给新产业叙事。",
+      "timeline": "2022",
+      "source_url": "http://www.cq.xinhuanet.com/20241011/5e6d5c13f76a4178815c787b4b2d426e/c.html",
+      "tags": [
+        "政策",
+        "现金流"
+      ],
+      "capital": "债务约 2.68 亿申请清算 → 转重整成功，投资人首期 2500 万",
+      "cause": "政策/监管冲击",
+      "country": "中国"
+    },
+    {
+      "name": "十盛奶茶",
+      "who": "纪卜心（联创旁证）",
+      "outcome": "失败 / 亏损歇业",
+      "sector": "消费连锁 / 网红品牌",
+      "region": "国内",
+      "src": "china",
+      "story": "十盛奶茶（纪卜心）的时间线约为2026-07。澄清亏损结算；乳源争议后信任不可逆。结局：失败 / 亏损歇业。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "2026-07",
+      "source_url": "https://www.mnews.tw/story/mm-20260713edi034",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "中国"
+    },
+    {
+      "name": "3W 咖啡",
+      "who": "许单单",
+      "outcome": "注销 / 创业文化基建退场",
+      "sector": "创业社群 / 空间",
+      "region": "国内",
+      "src": "china",
+      "story": "许单单创办的北京 3W 咖啡有限公司经营状态由存续变更为注销（媒体随拉勾报道提及）。创业大街符号资产同步退场，与拉勾同属「创业文化基础设施」衰减信号，而非单一产品失败。",
+      "lesson": "创业社群/空间是周期敏感的文化基建；符号资产也会随资本潮退场。",
+      "timeline": "存续 → 注销（随 2020s 创业潮退）",
+      "tags": [
+        "政策",
+        "现金流"
+      ],
+      "source_url": "https://www.ithome.com/0/957/960.htm",
+      "cause": "政策/监管冲击",
+      "country": "中国"
+    },
+    {
+      "name": "飯田祐基 · 娱乐业债务关停",
+      "who": "飯田祐基",
+      "outcome": "失败 / 个人担保击穿",
+      "sector": "娱乐 / 加盟",
+      "region": "全球",
+      "src": "global",
+      "story": "飯田祐基 · 娱乐业债务关停（飯田祐基）留下了可核查的失败/关停记录。结局：2026-05 宣布店舗以外事业撤退；约 2.8 亿日元赤字；个人合计约 1.1 亿债务（个人贷+保证）。",
+      "lesson": "名人联合发布会 ≠ 可持续单位经济；个人垫资与保证放大下行。",
+      "timeline": "2026-05",
+      "source_url": "https://www.sponichi.co.jp/entertainment/news/2026/05/18/kiji/20260518s00041000310000c.html",
+      "tags": [
+        "失败复盘"
+      ],
+      "capital": "1 亿债务",
+      "cause": "综合经营失败",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "北邮小西天孵化器（16 团队）",
+      "who": "孵化负责人口述样本",
+      "outcome": "模式库 / 校园存活率对照",
+      "sector": "校园孵化",
+      "region": "国内",
+      "src": "china",
+      "story": "与「北邮小西天孵化16队」同源：约 2011–2013 小西天 130㎡ 样本，16 队一年存活 4。本条作为校园存活率对照档案保留，强调第一次做项目的队伍存活极低、6 个月内人事变更与失败高度相关。",
+      "lesson": "校园项目要按 6 个月人事风险做预案；第一次创业队更需缩小愿景到可落地核心功能。",
+      "timeline": "约 2011–2013 · 16 队对照",
+      "tags": [
+        "校园陷阱"
+      ],
+      "source_url": "http://www.isi.ac.cn/html/qihuo/2766.html",
+      "country": "中国"
+    },
+    {
+      "name": "众创空间尸检模式库（TrueSight）",
+      "who": "行业合成",
+      "outcome": "模式库 / 政策套利死亡螺旋",
+      "sector": "双创园区制度",
+      "region": "国内",
+      "src": "china",
+      "story": "与「众创空间尸检模式」同源的 TrueSight 模式库条目：政策套利死亡螺旋——虚构入驻吸补贴，退坡后转租赁与双合同，审计穿透后清退。本条强调制度模式而非单园故事。",
+      "lesson": "政策工具三连（补贴中介/OPC 注册即补贴/众创套利）同构；存活靠避险而非吸附最大化。",
+      "timeline": "红利期套利 → 退坡审计清退",
+      "tags": [
+        "政策"
+      ],
+      "source_url": "https://tsight.io/articles/10505705",
+      "country": "中国"
+    },
+    {
+      "name": "InstantDB",
+      "who": "InstantDB 创始团队（YC’22）",
+      "outcome": "失败 / 关云日落",
+      "sector": "Devtools / Sync DB",
+      "region": "全球",
+      "src": "founder-essays/round2 · HN Cloud Sunset",
+      "story": "InstantDB（InstantDB 创始团队）的时间线约为2026（HN 讨论当日曝光；云端最迟 2027-08-31 关停时间表）。结局：失败 / 关云日落。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "2026（HN 讨论当日曝光；云端最迟 2027-08-31 关停时间表）",
+      "source_url": "https://news.ycombinator.com/item?id=49378706",
+      "tags": [
+        "失败复盘"
+      ],
+      "lifespan": "2026–2027（约1年）",
+      "cause": "综合经营失败",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "garnix",
+      "who": "garnix 团队",
+      "outcome": "失败 / 收购后产品日落",
+      "sector": "Devtools / Nix CI",
+      "region": "全球",
+      "src": "founder-essays/round2 · HN shutting down",
+      "story": "garnix（garnix 团队）的时间线约为公布关停日 2026-07-15。结局：失败 / 收购后产品日落。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "公布关停日 2026-07-15",
+      "source_url": "https://news.ycombinator.com/item?id=48309371",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "Pragmatic / Jamie",
+      "who": "Will Hackett",
+      "outcome": "失败 / 主动 wind-down",
+      "sector": "AI 助手",
+      "region": "全球",
+      "src": "founder-essays/round2 · willhackett.com",
+      "story": "Pragmatic / Jamie（Will Hackett）的时间线约为2025-10-17。结局：失败 / 主动 wind-down。",
+      "lesson": "把现金流与单位经济放在叙事前面，并预设明确止损线。",
+      "timeline": "2025-10-17",
+      "source_url": "https://willhackett.com/pragmatic-sunset/",
+      "tags": [
+        "失败复盘"
+      ],
+      "cause": "综合经营失败",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "Banana.dev",
+      "who": "Erik Dunteman",
+      "outcome": "失败 / 主动关停",
+      "sector": "AI infra",
+      "region": "全球",
+      "src": "founder-essays/round1 · erikdunteman.com",
+      "story": "Erik Dunteman 关闭 Banana.dev，并公开写下关停过程中的团队与责任处理。项目未能在 GPU/推理基础设施赛道找到可持续位置，选择主动关停而不是长期僵尸运营。",
+      "lesson": "关停也是产品决策；把对员工与用户的沟通流程当成创始人基本功。",
+      "timeline": "2024-06 主动关停",
+      "source_url": "http://erikdunteman.com/blog/shutting-down-banana/",
+      "tags": [
+        "现金流"
+      ],
+      "cause": "现金流断裂 / runway 耗尽",
+      "country": "全球/跨国"
+    },
+    {
+      "name": "Buffer",
+      "who": "Joel Gascoigne",
+      "outcome": "成功 / 透明文化样本",
+      "sector": "SaaS / 团队文化",
+      "region": "全球",
+      "src": "founder-essays/round1 · Open Salaries",
+      "story": "Joel Gascoigne 在 Buffer 落地「Default to Transparency」：公开薪酬公式与全员个人薪资，受 Stripe 内部邮件公开启发，把信任与反馈做成制度实验而非一次性 PR，成为早期团队透明文化样本。",
+      "lesson": "小团队可用透明制度替代办公室政治；尽早约定薪资/股权规则，减少「不好意思谈钱」。",
+      "timeline": "2013-12 Open Salaries → 公式迭代",
+      "tags": [
+        "成功对照"
+      ],
+      "source_url": "https://buffer.com/resources/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/",
+      "country": "全球/跨国"
+    }
+  ],
+  "total": 219
+}
