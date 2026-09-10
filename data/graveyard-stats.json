@@ -1,7 +1,7 @@
 {
   "total": 350,
   "failed": 315,
-  "success": 25,
+  "success": 26,
   "capital_burned_note": "档案未统一金额，仅模式统计；部分条目从原文抽取了 capital 字段（有依据才写），不可加总为总烧钱额。",
   "top_causes": [
     {
