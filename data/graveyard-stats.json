@@ -1,12 +1,12 @@
 {
-  "total": 277,
-  "failed": 246,
+  "total": 288,
+  "failed": 257,
   "success": 24,
   "capital_burned_note": "档案未统一金额，仅模式统计；部分条目从原文抽取了 capital 字段（有依据才写），不可加总为总烧钱额。",
   "top_causes": [
     {
       "cause": "综合经营失败",
-      "count": 120
+      "count": 130
     },
     {
       "cause": "伪需求 / PMF 缺失",
@@ -56,7 +56,7 @@
   "countries": [
     {
       "name": "中国",
-      "count": 92
+      "count": 93
     },
     {
       "name": "全球/跨国",
