@@ -1,12 +1,12 @@
 {
   "total": 350,
-  "failed": 311,
+  "failed": 313,
   "success": 27,
   "capital_burned_note": "档案未统一金额，仅模式统计；部分条目从原文抽取了 capital 字段（有依据才写），不可加总为总烧钱额。",
   "top_causes": [
     {
       "cause": "综合经营失败",
-      "count": 50
+      "count": 47
     },
     {
       "cause": "伪需求 / PMF 缺失",
@@ -45,11 +45,11 @@
       "count": 2
     },
     {
-      "cause": "合规墙 / 预收款风险",
-      "count": 2
+      "cause": "行业下行 / 扩张失利与治理空心化",
+      "count": 1
     },
     {
-      "cause": "行业下行 / 扩张失利与治理空心化",
+      "cause": "外资安审禁止收购 / 交易被迫撤销",
       "count": 1
     }
   ],
