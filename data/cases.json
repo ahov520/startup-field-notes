@@ -5709,8 +5709,8 @@
       "sector": "Denmark / Romania · education robotics / listed deeptech",
       "region": "Denmark / Romania · education robotics /",
       "src": "global",
-      "story": "Shape Robotics A/S (Denmark · edtech robots · contested insolvency) — VERIFY-HEAVY：Chaotic 2025–2026 path: EIFO financing lost (Nov 2025); Jan 2026 bankruptcy decree later **annulled** (Mar 2026) for improper service; Apr 2026 **compulsory dissolution** by Erhvervsstyrelsen petit",
-      "lesson": "Listed small-cap robotics can die of financing + governance opacity; court procedure can flip “bankrupt” status; primary sources conflict — archive both sides",
+      "story": "Shape Robotics A/S (Denmark · edtech robots · contested insolvency) — VERIFY-HEAVY：Chaotic 2025–2026 path: EIFO financing lost (Nov 2025); Jan 2026 bankruptcy decree later **annulled** (Mar 2026) for improper service; Apr 2026 **compulsory dissolution** by Erhvervsstyrelsen petit Shape Robotics A/S · Mark Abraham et al. (Denmark · edtech robots · UPGRADE)：**R20** logged contested insolvency. **Upgrade 2026-04-17**: Maritime & Commercial High Court puts company into **compulsory dissolution** on ",
+      "lesson": "Erhvervsstyrelsen 申请 → 商事法院强制解散；管理层卸任；董事会称破产撤销后卷宗未归还导致审计师缺位",
       "timeline": "",
       "source_url": "https://attachment.news.eu.nasdaq.com/afd2ff37f771ef65f3934ab1cd19d584f",
       "tags": [
@@ -5853,7 +5853,140 @@
       "lifespan": "",
       "cause": "综合经营失败",
       "country": "Australia / global · drone logistics / d"
+    },
+    {
+      "name": "乐乐茶",
+      "who": "品牌方运营团队；大股东奈雪的茶（2022-12 以约 5.25 亿元拿 43.64%）；各地加盟商（匿名群像）",
+      "outcome": "**2025 全年净关店约 132 家**，在营约 392–399 家（窄门餐眼/媒体口径）。广州市场早已清空；**郑州全部门店在 2026 年初前关停**（客服确认「目前郑州确实没有门店」，官方称「",
+      "sector": "新茶饮 / 加盟 / 轻奢夹心层",
+      "region": "国内",
+      "src": "china",
+      "story": "乐乐茶 · 加盟续命与区域溃退（新茶饮加盟清算）：**2025 全年净关店约 132 家**，在营约 392–399 家（窄门餐眼/媒体口径）。广州市场早已清空；**郑州全部门店在 2026 年初前关停**（客服确认「目前郑州确实没有门店」，官方称「区域调整」）。宣称「20 万开店」加盟模型，业内指落地常达 **40–50 万**（含租金/转让/首批进货）。与奈雪有对赌：若 2025–2027 未达业绩并上市，奈雪或承担最高约 **9.51 亿元**回购义务。行业旁证：2025 茶饮赛道新开 9 万+店、净减约 3.5 万家 → 至少 **12 万家级*",
+      "lesson": "① 直营扛不住就甩加盟费回血，加盟商成最终亏损池；② 「轻奢」低密度门店供应链算不过蜜雪式万店成本；③ 「两个病人拥抱」收购把亏损并表，对赌成现金流雷；④ 二手设备闭环说明行业在清算固定资本而非创造品牌价值",
+      "timeline": "",
+      "source_url": "https://www.huxiu.com/article/4826967.html",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "中国"
+    },
+    {
+      "name": "奈雪的茶",
+      "who": "创始人赵林/彭心；加盟商「王薇」等（西南加盟商大会语境）；多位匿名加盟商/二手设备回收商",
+      "outcome": "**2025** 营收约 **43.31 亿元**（-12%），经调整净亏损约 **2.4 亿元**（仍为上市新茶饮「唯一仍亏」口径之一）；门店总数 **1798→1646**（净减 152），直营 ",
+      "sector": "新茶饮 / 加盟 / 大店第三空间失败",
+      "region": "国内",
+      "src": "china",
+      "story": "奈雪的茶 · 加盟商亏损群像（上市龙头掉队）：**2025** 营收约 **43.31 亿元**（-12%），经调整净亏损约 **2.4 亿元**（仍为上市新茶饮「唯一仍亏」口径之一）；门店总数 **1798→1646**（净减 152），直营 **1453→1288**（净关 165），加盟仅净增约 **13** 至 **358** 家。个案：四线核心商场店一年亏约 **120 万**；开业五六个月亏 **100 万+**；社交平台自述开 4 个月亏约 **140 万**。开放加盟晚（约 2023），初期投资约 **98–100 万**、验资 **15",
+      "lesson": "① 大店第三空间被外卖占比（直营外卖曾破 50%）击穿；② 加盟门槛长期高于蜜雪/古茗，回本承诺失效；③ 物料强制订购把损耗甩给加盟商；④ 对照乐乐茶：同一资本圈「收购+加盟」双线失血",
+      "timeline": "",
+      "source_url": "https://www.jiemian.com/article/14426701.html",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "中国"
+    },
+    {
+      "name": "Neta",
+      "who": "Pablo Lagos (CEO), Nicolás Abad (Growth/cofounder; postmortem author), Diana (Product), Andres (Ops #1)",
+      "outcome": "**Shut ~Oct 2022 after ~15 months**; raised **>$10M** (pre-seed + $4.9M seed Kaszek/Founders Fund et",
+      "sector": "Mexico / LatAm · social e-commerce / B2B2C grocery",
+      "region": "Mexico / LatAm · social e-commerce / B2B",
+      "src": "global",
+      "story": "Neta · Pablo Lagos / Nicolás Abad / Diana (Mexico · social commerce for BoP)：**Shut ~Oct 2022 after ~15 months**; raised **>$10M** (pre-seed + $4.9M seed Kaszek/Founders Fund etc.). Grew **$0→$8M GMV in 9 months**, headcount **4→~80**. Board met 7/9 goals but **no profitable PMF*",
+      "lesson": "Retention flattening ≠ profitable PMF; don’t scale bad unit economics or headcount; “PDD for LatAm” copies solution not problem; extra SMB middleman in low-margin chain is structural",
+      "timeline": "",
+      "source_url": "https://nicolasabad.substack.com/p/startup-post-mortem-neta",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "墨西哥"
+    },
+    {
+      "name": "TalentRank",
+      "who": "Erdem Besler (cofounder/tech lead), Erturk Besler (cofounder/COO)",
+      "outcome": "Built ~**Apr 2025–Jun 2026**; AI sourcing + interview platform, ATS integrations (PeopleBox etc.), C",
+      "sector": "Turkey / US HQ narrative · HRTech / AI recruiting",
+      "region": "Turkey / US HQ narrative · HRTech / AI r",
+      "src": "global",
+      "story": "TalentRank · Erdem Besler / Erturk Besler (Turkey–SF · AI hiring)：Built ~**Apr 2025–Jun 2026**; AI sourcing + interview platform, ATS integrations (PeopleBox etc.), CASA Tier 2 claim. **Closed chapter announced 2026-07-07** on LinkedIn; Erdem joined Hilbert (a16z-backed) as senio",
+      "lesson": "Shipping integrations + security certs ≠ durable GTM; identity attachment makes stop hard; Turkey AI founder cluster continues to write public endings",
+      "timeline": "",
+      "source_url": "https://www.linkedin.com/posts/beslererdem_after-2-years-of-building-talentrank-we-activity-7480229521812746240-Eq8x",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "土耳其"
+    },
+    {
+      "name": "Vulpinia Technology",
+      "who": "Baturhan Gurbuz (“Mr. Fox”) — accelerator operator / game producer turned founder",
+      "outcome": "**Paused Apr 2026** after ~2 years building AI venture-evaluation platform with **no institutional b",
+      "sector": "Turkey · AI for venture evaluation / gaming-deeptech tooling",
+      "region": "Turkey · AI for venture evaluation / gam",
+      "src": "global",
+      "story": "Vulpinia Technology · Baturhan Gurbuz (Turkey · AI venture evaluation)：**Paused Apr 2026** after ~2 years building AI venture-evaluation platform with **no institutional backing**, while teaching + running accelerators. Explicit line: “It wasn’t the idea that ran out. It was the",
+      "lesson": "Side-hustle founder bandwidth + zero institutional capital = pause even with methodology; Turkey ecosystem capital “asleep” (echoes Actins trilogy)",
+      "timeline": "",
+      "source_url": "https://www.linkedin.com/posts/baturhan-gurbuz_giri%C5%9Fimcilik-yapayzeka-oyunekosistemi-activity-7452046262800969728-Ey3Z",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "Turkey · AI for venture evaluation / gam"
+    },
+    {
+      "name": "ClimateAi",
+      "who": "Himanshu Gupta (CEO/cofounder; ex Generation / Al Gore office), Will Kletter (COO)",
+      "outcome": "Founded ~**2017**; “climate resilience platform” for ag/F&B/finance (clients cited: Dole, Suntory, O",
+      "sector": "US · climate adaptation SaaS / agtech analytics",
+      "region": "US · climate adaptation SaaS / agtech an",
+      "src": "global",
+      "story": "ClimateAi · Himanshu Gupta / Will Kletter (US · climate adaptation analytics)：Founded ~**2017**; “climate resilience platform” for ag/F&B/finance (clients cited: Dole, Suntory, Oatly, Nuveen). Raised ~**$38M** (Series B ~$22M in 2023; Footprint Coalition / RDJ among earlier backe",
+      "lesson": "Category creation ≠ durable company; mission + patents ($38M) still die on headwinds; orderly return-capital is a governance skill",
+      "timeline": "",
+      "source_url": "https://www.linkedin.com/posts/himanshu-gupta-83477a17_8-years-ago-we-set-out-to-make-the-world-activity-7491520844960092160-r19c",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "美国"
+    },
+    {
+      "name": "Liki24",
+      "who": "Anton Avrynskyi (CEO/cofounder)",
+      "outcome": "Copied heavy Ukraine model (own logistics/couriers) into Poland during COVID; demand existed but **u",
+      "sector": "Ukraine / Poland · health marketplace + logistics",
+      "region": "Ukraine / Poland · health marketplace + ",
+      "src": "global",
+      "story": "Liki24 · Anton Avrynskyi (Ukraine · pharma marketplace · Poland market autopsy)：Copied heavy Ukraine model (own logistics/couriers) into Poland during COVID; demand existed but **unit economics + CAC** failed. Shut Poland early **2022**, focused Romania lighter model. **2026** fo",
+      "lesson": "Copy-paste domestic heavy ops abroad kills UE; killing a market early can enable later return; write the failure before the comeback narrative hardens",
+      "timeline": "",
+      "source_url": "https://www.linkedin.com/posts/anton-avrynskyi-aaa395171_detailed-failure-analysis-why-we-shut-down-activity-7429518790922530816-4gBw",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "波兰"
     }
   ],
-  "total": 321
+  "total": 328
 }
