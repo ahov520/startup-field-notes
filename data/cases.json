@@ -5720,7 +5720,140 @@
       "lifespan": "",
       "cause": "综合经营失败",
       "country": "Denmark / Romania · education robotics /"
+    },
+    {
+      "name": "小神闲茶馆",
+      "who": "茶颜悦色多品牌矩阵",
+      "outcome": "2022 推出；巅峰 20+ 店（长沙、武汉）；大店租金高、翻台不足；**2026-07-31** 长沙末店关闭，官方「全线撤店、暂无回归」。与昼夜同属「业态模型未能跑通的实验项目」。",
+      "sector": "新茶饮 / 纯茶堂食大店",
+      "region": "国内",
+      "src": "china",
+      "story": "小神闲茶馆 · 茶颜悦色子品牌（慢茶大店 · 已全线撤）：2022 推出；巅峰 20+ 店（长沙、武汉）；大店租金高、翻台不足；**2026-07-31** 长沙末店关闭，官方「全线撤店、暂无回归」。与昼夜同属「业态模型未能跑通的实验项目」。。大空间体验店对翻台与租金极度敏感；主品牌成功难复制到重资产子品牌",
+      "lesson": "大空间体验店对翻台与租金极度敏感；主品牌成功难复制到重资产子品牌",
+      "timeline": "",
+      "source_url": "",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "中国"
+    },
+    {
+      "name": "Schedul",
+      "who": "Stefanos Athanasoulias, Konstantinos Livieratos (Athens; also 42 Minutes of SaaS podcast)",
+      "outcome": "**Official shutdown 2026-05-31**. LinkedIn farewell 2026-04-23: nights/weekends bootstrap, no heavy ",
+      "sector": "Greece · B2C/B2B SaaS / social tooling",
+      "region": "Greece · B2C/B2B SaaS / social tooling",
+      "src": "global",
+      "story": "Schedul · Stefanos Athanasoulias / Konstantinos Livieratos (Greece · social scheduling SaaS)：**Official shutdown 2026-05-31**. LinkedIn farewell 2026-04-23: nights/weekends bootstrap, no heavy AI agents, side gigs to fund; learned building in public. Later blog frames founder–mar",
+      "lesson": "Bootstrap sweat ≠ PMF; Greek indie voice fills prior mother-tongue gap; closing a chapter to rebuild for developers is a valid exit skill",
+      "timeline": "",
+      "source_url": "https://www.linkedin.com/posts/stefanos-athanasoulias_schedul-is-coming-to-an-end-this-post-activity-7453008545777610753-MacH",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "希腊"
+    },
+    {
+      "name": "Lerna AI",
+      "who": "Georgios Depastas (founding PM), Georgios Kellaris (cofounder)",
+      "outcome": "**Winding down announced ~2026-03-20** after years building; Depastas LinkedIn thanks cofounder thro",
+      "sector": "Greece / diaspora · AI product",
+      "region": "Greece / diaspora · AI product",
+      "src": "global",
+      "story": "Lerna AI · Georgios Depastas / Georgios Kellaris (Greek-origin AI · wind-down)：**Winding down announced ~2026-03-20** after years building; Depastas LinkedIn thanks cofounder through hard days, opens to next high-impact build roles. Less forensic detail than Schedul — treat as Gr",
+      "lesson": "Multi-year AI build can still end without a splashy autopsy; cofounder survival narrative matters",
+      "timeline": "",
+      "source_url": "https://www.linkedin.com/posts/gdepastas_startups-enterpreneurs-entrepreneurship-activity-7440827878449012736-P3hL",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "Greece / diaspora · AI product"
+    },
+    {
+      "name": "Zydii",
+      "who": "Joyce Mbaya (Founder/CEO), Rhoda Kingori (Co-founder/COO)",
+      "outcome": "**Creditors' voluntary liquidation**: special resolution **2026-06-16**; creditors' meeting **2026-0",
+      "sector": "Kenya · EdTech / workforce training",
+      "region": "Kenya · EdTech / workforce training",
+      "src": "global",
+      "story": "Zydii · Joyce Mbaya / Rhoda Kingori (Kenya · SME digital upskilling)：**Creditors' voluntary liquidation**: special resolution **2026-06-16**; creditors' meeting **2026-06-30**; liquidator Mohamed Mohamed Al-Maawiy (Maawiy Financial Advisory). 100+ localised courses; pre-seed (DOB",
+      "lesson": "Mission + accelerators ≠ follow-on; impact funds can pivot away (DOB after Sendy/Copia hits); female-led narrative does not immunise vs unit-econ winter",
+      "timeline": "",
+      "source_url": "https://launchbaseafrica.com/2026/07/14/africas-venture-backed-shutdowns-converge-on-two-hotspots-in-2026/",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "肯尼亚"
+    },
+    {
+      "name": "Brass",
+      "who": "Sola Akindolu, Emmanuel Okeke (exited after 2024 rescue)",
+      "outcome": "**2026-06**: cease independent ops; customers migrate to **Paystack MFB by 2026-07-31**. Closes 2-ye",
+      "sector": "Nigeria · fintech / SME banking",
+      "region": "Nigeria · fintech / SME banking",
+      "src": "global",
+      "story": "Brass · Sola Akindolu / Emmanuel Okeke (Nigeria · business banking · brand death after rescue)：**2026-06**: cease independent ops; customers migrate to **Paystack MFB by 2026-07-31**. Closes 2-year saga after 2023 withdrawal freezes and May 2024 Paystack-led consortium rescue (Pi",
+      "lesson": "Rescue can buy time but not brand immortality; deposit-taking stress → consolidation into larger rails; Africa fintech “survive then dissolve” pattern",
+      "timeline": "",
+      "source_url": "https://techcabal.com/2026/06/01/brass-moves-to-paystack-mfb/",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "尼日利亚"
+    },
+    {
+      "name": "POPOPO",
+      "who": "川上量生（私财全额出资/主导）；西村博之、GACKT、庵野秀明等任董事侧",
+      "outcome": "Launch **2026-03-18** → service end **2026-09-17** (~6 months). Company PR Times notice 2026-07-15. ",
+      "sector": "Japan · consumer social / avatar telecom",
+      "region": "Japan · consumer social / avatar telecom",
+      "src": "global",
+      "story": "POPOPO · Nobuo Kawakami / Hiroyuki Nishimura et al. (Japan · avatar call SNS)：Launch **2026-03-18** → service end **2026-09-17** (~6 months). Company PR Times notice 2026-07-15. Kawakami X: 「見事なくらいに大失敗」；自称私财 **¥30亿**，又反思「30亿ぽっちで勝とうとはずうずう」「頭300亿级才够」。Hiroyuki: 「力不足ですいません」。Celebrity",
+      "lesson": "Star capital ≠ habit formation; 「生理的気持ちよさ」需长期使用才显现 → 获客游戏失败；私人金再多也有错误赌注规模；半年止损本身是能力",
+      "timeline": "",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000009.000178219.html",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "日本"
+    },
+    {
+      "name": "Swoop Aero",
+      "who": "Eric Peck (CEO, ex-RAAF), Joshua Tepper (cofounder; quit ~Dec 2023 with investor directors)",
+      "outcome": "VA **2024-10-14** → creditors vote **liquidation ~2024-11-21**. Raised **>$26M** (Main Sequence, Fol",
+      "sector": "Australia / global · drone logistics / dual-use",
+      "region": "Australia / global · drone logistics / d",
+      "src": "global",
+      "story": "Swoop Aero · Eric Peck / Joshua Tepper (Australia · medical drone logistics)：VA **2024-10-14** → creditors vote **liquidation ~2024-11-21**. Raised **>$26M** (Main Sequence, Folklore, Blackbird, In-Q-Tel…). FY2023: revenue A$6.6M / loss A$9.3M. Rejected ~A$100M buyout offer (~202",
+      "lesson": "Impact deliveries ≠ manufacturing ramp capital; board/founder fracture accelerates death; 「差几十万完成量产」死循环；IP salvage ≠ investor recovery",
+      "timeline": "",
+      "source_url": "https://www.startupdaily.net/topic/business/drone-delivery-startup-swoop-aero-lands-in-liquidation/",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "Australia / global · drone logistics / d"
     }
   ],
-  "total": 314
+  "total": 321
 }
