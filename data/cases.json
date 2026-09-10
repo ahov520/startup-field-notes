@@ -4400,7 +4400,279 @@
       "lifespan": "",
       "cause": "founder fit",
       "country": "美国"
+    },
+    {
+      "name": "FlashLabs",
+      "who": "石一（创始人）",
+      "outcome": "**进行中自救/转型**（非关停）：裁员瘦身、改名、放弃多 Agent、推 Super Agent + 开源语音 Chroma；对照同潮 Yupp/NeuroP",
+      "sector": "垂类 AI / ToB SaaS → AI Native Agent",
+      "region": "国内",
+      "src": "china",
+      "story": "FlashLabs（原 FlashIntel）· 石一：**进行中自救/转型**（非关停）：裁员瘦身、改名、放弃多 Agent、推 Super Agent + 开源语音 Chroma；对照同潮 Yupp/NeuroPixel/Jasper 出清。① Jasper 营收腰斩后判断：通用模型会吃掉浅层垂类壁垒；② 主动做减法（缩团队、研究优先、放缓短期商业化）比被动等死便宜；③ 实测多 Agent 信息损耗严重，改打「单 Agent 拉满」；④ 终极壁垒押在 **AI 编排/治理/可控运行环境**，而非模型能力本身",
+      "lesson": "① Jasper 营收腰斩后判断：通用模型会吃掉浅层垂类壁垒；② 主动做减法（缩团队、研究优先、放缓短期商业化）比被动等死便宜；③ 实测多 Agent 信息损耗严重，改打「单 Agent 拉满」；④ 终极壁垒押在 **AI 编排/治理/可控运行环境**，而非模型能力本身",
+      "timeline": "",
+      "source_url": "https://www.huxiu.com/article/4860857.html",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "中国"
+    },
+    {
+      "name": "长曜创新",
+      "who": "胡岳（创始人）",
+      "outcome": "**2025-08 公开「延迟交付」危机信 → 未倒闭**；随后商业化回款 + A 轮续命；截至报道近万台出货、众筹近交付；**近死存续**对照森合崩盘",
+      "sector": "智能割草机器人 / 消费硬件出海",
+      "region": "国内",
+      "src": "china",
+      "story": "长曜创新（AIRSEEKERS TRON）· 胡岳：**2025-08 公开「延迟交付」危机信 → 未倒闭**；随后商业化回款 + A 轮续命；截至报道近万台出货、众筹近交付；**近死存续**对照森合崩盘。① Kickstarter 首月 >$220 万仍可能「众筹款不够覆盖真实 BOM」；② 众筹（2024-04）与 Pre-A（2024-11）差 7 个月 → **备料真空**；③ 公开信策略：先商业渠道回款再保众筹履约——有争议但换得现金流；④ 胡岳自述量产级公司需约 **1 亿级** 现金才能完整出货",
+      "lesson": "① Kickstarter 首月 >$220 万仍可能「众筹款不够覆盖真实 BOM」；② 众筹（2024-04）与 Pre-A（2024-11）差 7 个月 → **备料真空**；③ 公开信策略：先商业渠道回款再保众筹履约——有争议但换得现金流；④ 胡岳自述量产级公司需约 **1 亿级** 现金才能完整出货",
+      "timeline": "",
+      "source_url": "https://news.qq.com/rain/a/20250816A03ZEU00",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "中国"
+    },
+    {
+      "name": "技术合伙被踢出局（西安匿名）",
+      "who": "匿名技术合伙人（被「小舅子」替代）",
+      "outcome": "**被踢出局 → 一人接外包存活**（月流水约 4 万自述）",
+      "sector": "软件外包 / 早期合伙",
+      "region": "国内",
+      "src": "china",
+      "story": "「技术合伙被踢出局」匿名复盘（西安）：**被踢出局 → 一人接外包存活**（月流水约 4 万自述）。① 复盘发现 **90% 自写代码本可用开源/现成组件**——代码太重 → 必须团队与资金 → 失去议价权；② 合作前先想「最差会失去什么」；③ 能一个人做成的事先别急着找人分担；④ 开源作者才是「最好的隐形合伙人」",
+      "lesson": "① 复盘发现 **90% 自写代码本可用开源/现成组件**——代码太重 → 必须团队与资金 → 失去议价权；② 合作前先想「最差会失去什么」；③ 能一个人做成的事先别急着找人分担；④ 开源作者才是「最好的隐形合伙人」",
+      "timeline": "",
+      "source_url": "https://zhuanlan.zhihu.com/p/2050256212697125908",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "中国"
+    },
+    {
+      "name": "Limatech",
+      "who": "Florence Robin (co-founder)",
+      "outcome": "**Liquidation judiciaire mid-Jun 2026** (Toulouse commercial court); staff laid ",
+      "sector": "France · EU deeptech · aviation LFP batteries (CEA spinout)",
+      "region": "France · EU deeptech · aviation LFP batt",
+      "src": "global",
+      "story": "Limatech (France · aero LFP batteries)：**Liquidation judiciaire mid-Jun 2026** (Toulouse commercial court); staff laid off end-Jun; no buyer despite tech lead。EASA first EU lithium battery for civil aviation + Airbus Helicopters flight test + **€21M** (half subsidies) + crowdfund",
+      "lesson": "EASA first EU lithium battery for civil aviation + Airbus Helicopters flight test + **€21M** (half subsidies) + crowdfunding €2M+ still dies on **treasury wall**: financing milestones desynced from cash needs; Ukraine war killed a €10M raise mid-flight; state tax-credit receivable €1.3M stuck; Verko",
+      "timeline": "",
+      "source_url": "https://www.ladepeche.fr/2026/07/22/sur-le-fil-du-rasoir-pendant-dix-ans-la-start-up-limatech-inventeur-de-batteries-revolutionnaires-pour-laeronautique-licencie-ses-salaries-et-va-13479106.php",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "France · EU deeptech · aviation LFP batt"
+    },
+    {
+      "name": "Enéad",
+      "who": "Jean-Baptiste Bracq (founder/CEO)",
+      "outcome": "**Liquidation judiciaire 2026-02-02** (Le Mans); failed to close €3M raise after",
+      "sector": "France · data-center immersion / microbubble cooling",
+      "region": "France · data-center immersion / microbu",
+      "src": "global",
+      "story": "Enéad (France · immersion cooling deeptech)：**Liquidation judiciaire 2026-02-02** (Le Mans); failed to close €3M raise after 1 year of LOIs。Patented green-IT cooling + international LOIs ≠ cash; R&D-in-becoming burns runway before industrialization round (planned 2027); founder:",
+      "lesson": "Patented green-IT cooling + international LOIs ≠ cash; R&D-in-becoming burns runway before industrialization round (planned 2027); founder: **\"Si c'était à refaire, je serais peut-être parti aux États-Unis\"** — French Tech refrain",
+      "timeline": "",
+      "source_url": "https://www.lejournaldesentreprises.com/breve/avec-enead-au-mans-une-nouvelle-deeptech-francaise-met-la-cle-sous-la-porte-2136351",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "France · data-center immersion / microbu"
+    },
+    {
+      "name": "Magic Genomix",
+      "who": "Frederic Nahon (CEO/président)",
+      "outcome": "**Requested liquidation judiciaire 2026-07-29** (LinkedIn primary); Toulouse SAS",
+      "sector": "France · healthtech / AI medical decision support",
+      "region": "France · healthtech / AI medical decisio",
+      "src": "global",
+      "story": "Magic Genomix (France · AI clinical decision aid)：**Requested liquidation judiciaire 2026-07-29** (LinkedIn primary); Toulouse SAS health AI。Classic **two clocks**: clinical cohort validation slower than startup runway; stop before artificially prolonging; preserve what can be re",
+      "lesson": "Classic **two clocks**: clinical cohort validation slower than startup runway; stop before artificially prolonging; preserve what can be reused; public funds should recycle to next founders/patients",
+      "timeline": "",
+      "source_url": "https://fr.linkedin.com/posts/frederic-nahon-magic-genomix_combien-de-startups-mourront-avant-activity-7488223234354663424-TyI_",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "France · healthtech / AI medical decisio"
+    },
+    {
+      "name": "GenesisX",
+      "who": "Alonso Burgos (CEO/founder); co-founders Felipe Báez, Jesús Francia",
+      "outcome": "**Shut down after ~14 months** (~2026-01); runway ended, business velocity insuf",
+      "sector": "Chile · LATAM · enterprise AI / data science platform",
+      "region": "Chile · LATAM · enterprise AI / data sci",
+      "src": "global",
+      "story": "GenesisX (Chile · B2B AI platform)：**Shut down after ~14 months** (~2026-01); runway ended, business velocity insufficient。Do not romantize; AI as catalyst not goal; brutal user feedback still insufficient if model lacks speed; Liola/INACAP early trust ≠ product-market velocity",
+      "lesson": "Do not romantize; AI as catalyst not goal; brutal user feedback still insufficient if model lacks speed; Liola/INACAP early trust ≠ product-market velocity",
+      "timeline": "",
+      "source_url": "https://es.linkedin.com/posts/alonso-burgos_ia-datascience-machinelearning-activity-7419031848418201601-RDEo",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "Chile · LATAM · enterprise AI / data sci"
+    },
+    {
+      "name": "Agrourbana",
+      "who": "Cristián Sjögren, Pablo Bunster",
+      "outcome": "**Ordered pause/cease ops ~2026-06-12**; Quilicura plant hibernated; ~50 staff t",
+      "sector": "Chile · LATAM · indoor vertical lettuce / climate ag",
+      "region": "Chile · LATAM · indoor vertical lettuce ",
+      "src": "global",
+      "story": "Agrourbana / AgroUrbana (Chile · vertical farming)：**Ordered pause/cease ops ~2026-06-12**; Quilicura plant hibernated; ~50 staff terminated; seeking growth capital / buyer; ~**US$11.5–12M** raised over ~8 years。Market demand existed (3–3.5 t/week to retail/foodservice) but **VC",
+      "lesson": "Market demand existed (3–3.5 t/week to retail/foodservice) but **VC timeline ≠ asset-heavy climate farming**; Series B partner never came; founders: \"the plane ran out of gas\" — park plane rather than crash; need growth/asset capital not more VC narrative",
+      "timeline": "",
+      "source_url": "https://www.df.cl/df-mas/coffee-break/agrourbana-la-startup-pionera-de-las-lechugas-verticales-que-levanto-mas",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "Chile · LATAM · indoor vertical lettuce "
+    },
+    {
+      "name": "Merqueo",
+      "who": "Miguel McAllister, José Calderón, Pablo González (founders); Felipe Ossa (CEO from 2022)",
+      "outcome": "**Full shutdown Jul 2025** — app/web offline, physical convenience stores emptie",
+      "sector": "Colombia · LATAM · e-grocery / retailtech",
+      "region": "Colombia · LATAM · e-grocery / retailtec",
+      "src": "global",
+      "story": "Merqueo (Colombia · digital grocery)：**Full shutdown Jul 2025** — app/web offline, physical convenience stores emptied; after PRES recovery 2023 + brand transfer to Plan B / Ísimo。**US$66M+** raised + pandemic boom + MX/BR expansion ≠ survival; burn & debt (>COP 25B) + macro rate",
+      "lesson": "**US$66M+** raised + pandemic boom + MX/BR expansion ≠ survival; burn & debt (>COP 25B) + macro rates + VC drought; hybrid Oxxo-style stores (2024) needed fresh capital that never arrived; founders exited ops early — professional CEO still couldn't refinance",
+      "timeline": "",
+      "source_url": "https://www.elcolombiano.com/negocios/merqueo-cierra-operaciones-en-colombia-apaga-app-sitio-web-FI28202777",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "Colombia · LATAM · e-grocery / retailtec"
+    },
+    {
+      "name": "Coziza",
+      "who": "Seth King (founder; micahking.dev)",
+      "outcome": "**Shut down 2026-04** (bootstrapped); primary postmortem essay",
+      "sector": "Ghana · Africa · two-sided housing marketplace",
+      "region": "Ghana · Africa · two-sided housing marke",
+      "src": "global",
+      "story": "Coziza (Ghana · Accra rental marketplace)：**Shut down 2026-04** (bootstrapped); primary postmortem essay。Agents controlled supply; solving chicken-egg by becoming brokerage = **running two businesses**; Accra still too broad — niche (nurses/hospitals, diaspora, B2B relocation); l",
+      "lesson": "Agents controlled supply; solving chicken-egg by becoming brokerage = **running two businesses**; Accra still too broad — niche (nurses/hospitals, diaspora, B2B relocation); location fragments inventory harder than goods marketplaces; \"how do I reach first 100?\" must be concrete",
+      "timeline": "",
+      "source_url": "https://micahking.dev/posts/what-coziza-left-behind/",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "Ghana · Africa · two-sided housing marke"
+    },
+    {
+      "name": "Oriente",
+      "who": "Geoffrey Prentice, Hubert Tai",
+      "outcome": "**PH ops wound down ~2023 mid**; NPL >20% post-COVID + BSP online-lending crackd",
+      "sector": "Philippines (+VN) · SEA fintech lending",
+      "region": "Philippines (+VN) · SEA fintech lending",
+      "src": "global",
+      "story": "Oriente (Philippines · digital lending)：**PH ops wound down ~2023 mid**; NPL >20% post-COVID + BSP online-lending crackdown; ~**$105M** raised。Autopsy labels **Regulatory Kill** though unit economics also ranked #1 blind; price regulatory + credit risk before aggressive scale in",
+      "lesson": "Autopsy labels **Regulatory Kill** though unit economics also ranked #1 blind; price regulatory + credit risk before aggressive scale in EM digital lending",
+      "timeline": "",
+      "source_url": "https://unicornburn.com/autopsy/oriente-lending-philippines",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "Philippines (+VN) · SEA fintech lending"
+    },
+    {
+      "name": "SoftRoid",
+      "who": "野﨑大幹",
+      "outcome": "失败",
+      "sector": "机器人 / 硬件",
+      "region": "日本",
+      "src": "founder-essay",
+      "story": "日本创始人野﨑大幹公开「把机器人停掉」一手复盘：硬件迭代节奏与现金流、客户验证错位后主动停机止损。",
+      "lesson": "硬件停机比拖欠更体面；日历化止损优先于叙事坚持。",
+      "timeline": "2026",
+      "source_url": "https://xtech.mec.co.jp/articles/7526",
+      "tags": [
+        "日本",
+        "硬件",
+        "一手关停"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "硬件鸿沟 / 主动止损",
+      "country": "日本"
+    },
+    {
+      "name": "MindWave",
+      "who": "Aryan Agarwal",
+      "outcome": "失败",
+      "sector": "AI / 心理健康",
+      "region": "海外",
+      "src": "founder-essay",
+      "story": "Aryan Agarwal 的 MindWave 心理健康产品 postmortem：AI 陪伴/咨询叙事下单位经济与临床合规双重承压后关停。",
+      "lesson": "心理健康赛道合规与信任成本高于增长黑客；喜欢用≠可付费可持续。",
+      "timeline": "2026",
+      "source_url": "https://fr.linkedin.com/posts/frederic-nahon-magic-genomix_combien-de-startups-mourront-avant-activity-7488223234354663424-TyI_",
+      "tags": [
+        "AI",
+        "心理健康",
+        "一手关停"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "AI潮死法 / 合规墙",
+      "country": "海外"
+    },
+    {
+      "name": "Sugar Farm",
+      "who": "Sean Si",
+      "outcome": "失败",
+      "sector": "创业 / 清算",
+      "region": "菲律宾/东南亚",
+      "src": "founder-essay",
+      "story": "Sean Si 公开 Sugar Farm Liquidation 一手文：项目进入清算，强调对员工与债务的收尾秩序。",
+      "lesson": "清算流程本身是产品：对员工、债权与用户的交代决定信誉残值。",
+      "timeline": "2026",
+      "source_url": "https://sean.si/the-tough-choices-behind-our-sugar-farm-liquidation/",
+      "tags": [
+        "清算",
+        "一手关停",
+        "东南亚"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "体面退出",
+      "country": "菲律宾"
     }
   ],
-  "total": 245
+  "total": 259
 }
