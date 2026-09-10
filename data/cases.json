@@ -5434,7 +5434,122 @@
       "lifespan": "",
       "cause": "综合经营失败",
       "country": "US · campus robotics logistics"
+    },
+    {
+      "name": "中智行",
+      "who": "王劲（前百度高管、文远知行早期创始人；中智行董事长/创始人）",
+      "outcome": "**2025-08/09 南京栖霞法院受理破产清算（执转破）**：无力支付约 **1.5 万元** 劳动仲裁款；法院认定资不抵债、经营场所不明、失联。历史被执行额约 **4733 万**；终本未履行约",
+      "sector": "自动驾驶 / 车路协同 Robotaxi",
+      "region": "国内",
+      "src": "china",
+      "story": "中智行 · 王劲（L4 自动驾驶 / 车路协同）：**2025-08/09 南京栖霞法院受理破产清算（执转破）**：无力支付约 **1.5 万元** 劳动仲裁款；法院认定资不抵债、经营场所不明、失联。历史被执行额约 **4733 万**；终本未履行约 **2193 万**。官网/电话失效，北/福/深分公司已注销；公众号约 2024-02 停更。2024-08 王劲卸任法代，由此前无公开履历的「张水生」接任。成立于 2018，主打 5G+车路协同 L4；末轮融资约 2023-03，估值曾报数十亿量级。。① **路线依赖公共基建**：车路协同短期商业模型不清",
+      "lesson": "① **路线依赖公共基建**：车路协同短期商业模型不清，企业难独自完成路侧投入与数据打通；② 明星履历与估值≠现金流；③ 1.5 万劳动款即可触发执转破——现金枯竭可极端到「付不起小额工资」；④ 法代更换临近被执行，退出叙事需对照法律文书而非 PR；⑤ 对照极越/毫末：智驾叙事退潮后「失联式」终局复发",
+      "timeline": "",
+      "source_url": "https://m.nbd.com.cn/articles/2025-09-06/4051255.html",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "中国"
+    },
+    {
+      "name": "WitsPer 智选家",
+      "who": "李恒 Heng Lee（创办人；2025 年底回任 CEO）",
+      "outcome": "**非关停**：集团称年营收约 **7 亿新台币**、近百人；但 2023 底–2025 交棒董事长阶段「未达预期」。2026-05 师大分享长文自曝：**在公司尚未长出「驾驶舱」（统一仪表、可传递决",
+      "sector": "消费电子代理 / 品牌 / 内容",
+      "region": "国内",
+      "src": "china",
+      "story": "WitsPer 智选家 / 第一天集团 · 李恒 Heng Lee（台湾 · 近死治理复盘，公司仍存续）：**非关停**：集团称年营收约 **7 亿新台币**、近百人；但 2023 底–2025 交棒董事长阶段「未达预期」。2026-05 师大分享长文自曝：**在公司尚未长出「驾驶舱」（统一仪表、可传递决策机制、成文 know-how）时放权**，导致价值观真空与失控感；主动回任并承诺先建系统再谈抽离。早期校园网拍曾因无 BSMI 被商品检验局警告下架——「商业有规则」。。① **放权是能力门槛不是意愿决定**；② 创始人直觉未产品化前交棒≈换一种失控；",
+      "lesson": "① **放权是能力门槛不是意愿决定**；② 创始人直觉未产品化前交棒≈换一种失控；③ 校园副业→打工补课→All-in 的路径可对照大陆 OPC/青年；④ 「三次放下」：歌手梦 / 安全感 / 「放权幻想」；⑤ 对照 FlashLabs/长曜：存续不等于治理课已上完",
+      "timeline": "",
+      "source_url": "https://www.henglee.com/ntnu-founder-talk/",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "中国"
+    },
+    {
+      "name": "SEOLint",
+      "who": "Daniel Smidstrup (solo founder; D. Smidstrup Holding ApS, Odense)",
+      "outcome": "**Shut Jul 2026 at 0 MRR / 0 revenue ever**: agent scanned sites, opened GitHub PRs, graded fixes vs",
+      "sector": "Denmark · developer SEO tooling / AI agent",
+      "region": "Denmark · developer SEO tooling / AI age",
+      "src": "global",
+      "story": "SEOLint · Daniel Smidstrup (Denmark · SEO agent / MCP)：**Shut Jul 2026 at 0 MRR / 0 revenue ever**: agent scanned sites, opened GitHub PRs, graded fixes vs Search Console at 14/28/90 days; MCP for Cursor/Claude; tech worked in production. X-launch ~200 signups, **no paying users*",
+      "lesson": "Hard eng problem ≠ distribution; data moat needs volume first; 14-day grading loop > 7-day trial → best proof invisible inside pay window; repricing without traction is rearranging empty shop",
+      "timeline": "",
+      "source_url": "https://seolint.dev/post-mortem",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "Denmark · developer SEO tooling / AI age"
+    },
+    {
+      "name": "Banuli",
+      "who": "Nguyen Van Hoang (b.1990 Bình Định; architecture student → founder/CEO)",
+      "outcome": "**Ceased mid-2026 after ~10 years**: student-era pivot from fashion store search → shoe workshop; dr",
+      "sector": "Vietnam · manufacturing / footwear brand",
+      "region": "Vietnam · manufacturing / footwear brand",
+      "src": "global",
+      "story": "Banuli · Nguyen Van Hoang (Vietnam · footwear D2C / student start)：**Ceased mid-2026 after ~10 years**: student-era pivot from fashion store search → shoe workshop; dropped thesis to full-time; 2017 Hoc Mon factory; 2020 bought out family partners; before close: 300 m² plant + 4",
+      "lesson": "Decade of real ops can still end in scrap liquidation; student all-in without soft landing; franchise + factory fixed costs vs soft export dreams; founder dignity path = return to craft, not another raise",
+      "timeline": "",
+      "source_url": "https://xe.today/2026/09/10/vietnamese-shoe-brand-announces-closure-after-10-years-ceo-turns-to-construction-work/",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "Vietnam · manufacturing / footwear brand"
+    },
+    {
+      "name": "Esgrid",
+      "who": "Jevgeni Bogatyrjov (founder voice); liquidators Ott Ilves / Oksana Tolmatšova from 2026-04-17",
+      "outcome": "**Closed Apr 2026** after ~2.5–3 yrs: raised nearly **€1M**; built LLM data pipelines, SOC2, enterpr",
+      "sector": "Estonia · climate/ESG compliance SaaS",
+      "region": "Estonia · climate/ESG compliance SaaS",
+      "src": "global",
+      "story": "Esgrid · Jevgeni Bogatyrjov (Estonia · ESG data SaaS)：**Closed Apr 2026** after ~2.5–3 yrs: raised nearly **€1M**; built LLM data pipelines, SOC2, enterprise customers — **demand still insufficient**. Estonian press: **still had ~6 months cash** when choosing to stop. Revenue 202",
+      "lesson": "Enterprise logos ≠ scalable demand; stopping with runway left is rational capital stewardship; repeated pivots burn learning without compounding ARR; Baltics native primary",
+      "timeline": "",
+      "source_url": "https://www.linkedin.com/posts/bogatyrjov_were-closing-esgrid-3-years-of-building-activity-7449425545190318080-nERB",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "Estonia · climate/ESG compliance SaaS"
+    },
+    {
+      "name": "GoLemon",
+      "who": "Ex-Paystack quartet: Yinka Adewuyi (CEO), Gbadegbo Gbade-Oyelakin (CTO), Abdulrahman Jogbojogbo (growth), Abiola Showemimo (ops)",
+      "outcome": "失败",
+      "sector": "消费/本地生活",
+      "region": "尼日利亚",
+      "src": "global",
+      "story": "GoLemon：**Wound down Jul 2026** (~2 yrs): Lagos bulk/planned grocery (avg basket ~₦43,700); tens of thousands of deliveries; claimed ~₦2.5B groceries delivered; 33 staff (~20% placed). Investors (BYLD, HoaQ, Uncovered, Voltron, Honeybadger, etc.) interest ≠ closed next round; cap",
+      "lesson": "Pedigree + traction still die at capital-intensive Series cliff; partnership distribution ≠ unit-econ fix; clean shutdown is itself a founder skill (contrast FoodCourt chaos)",
+      "timeline": "",
+      "source_url": "https://techcabal.com/2026/07/29/golemon-shutdown/",
+      "tags": [
+        "通宵探索",
+        "非洲"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "尼日利亚"
     }
   ],
-  "total": 299
+  "total": 305
 }
