@@ -5986,7 +5986,121 @@
       "lifespan": "",
       "cause": "综合经营失败",
       "country": "波兰"
+    },
+    {
+      "name": "锅圈食汇",
+      "who": "杨明超；加盟商「张磊」等（媒体访谈化名/具名群像）；总部招商体系",
+      "outcome": "门店规模仍在万店级（2026H1 约 **12198** 家口径；窄门餐眼曾录 2025Q1 单季锐减 **1600+**）。**2024–2025 每年关店约 900 家**量级；大开大合常态。单店",
+      "sector": "社区冻品零售 / 火锅烧烤食材 / S2B2C 加盟",
+      "region": "国内",
+      "src": "china",
+      "story": "锅圈食汇 · 万店加盟商溃退与「新店填坑」（火锅食材加盟）：门店规模仍在万店级（2026H1 约 **12198** 家口径；窄门餐眼曾录 2025Q1 单季锐减 **1600+**）。**2024–2025 每年关店约 900 家**量级；大开大合常态。单店年收入从 2022 高峰约 **70.3 万**跌至 2023 **52.1 万**、2024 约 **53.7 万**。加盟商侧：日营业额腰斩至约 **800–1000 元**个案；保护半径从约 3 公里压到 **500 米**级加密；二手设备转让无人接盘。总部叙事：2026 下调净增店目标、推「",
+      "lesson": "① 疫情居家红利消退后，万店规模≠单店单位经济；② 「新店拉动」掩盖老店失血，加盟商是真正资产负债表；③ 加密插店=品牌向加盟商收割密度；④ 对照乐乐茶/奈雪：同一「加盟坟场」结构，品类从茶饮换到冻品",
+      "timeline": "",
+      "source_url": "https://www.tmtpost.com/8133405.html",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "中国"
+    },
+    {
+      "name": "舌尖英雄",
+      "who": "陆正耀（战略/资本背书语境）；加盟商/区域代理（秦萌、顾杰等媒体采访对象）；经销商群像",
+      "outcome": "北京常营首店约 **7 个月**关停；郑州/深圳/广州等多城门店「休息中」或撤城。加盟商投入约 **20 万+**仍持续亏损；深圳有加盟商 **3 个月内**止损关店；北方某区域代理十余店、加盟费近 ",
+      "sector": "预制菜 C 端 / 加盟自提店",
+      "region": "国内",
+      "src": "china",
+      "story": "舌尖英雄 · 预制菜 C 端加盟关店潮（陆正耀系）：北京常营首店约 **7 个月**关停；郑州/深圳/广州等多城门店「休息中」或撤城。加盟商投入约 **20 万+**仍持续亏损；深圳有加盟商 **3 个月内**止损关店；北方某区域代理十余店、加盟费近 **100 万**打水漂的报道口径。线上订单可缩水约 **90%**，日流水不足数百、客单价被引流品拖低。品牌方曾用「重金营销+补贴+裂变+快速拓店」瑞幸式打法做 C 端预制菜，后声量被库迪咖啡等后续项目淹没。。① C 端预制菜信任与复购未立，补贴一停即塌；② 供应链与单店模型未跑通就全国招商；③ 加盟商储",
+      "lesson": "① C 端预制菜信任与复购未立，补贴一停即塌；② 供应链与单店模型未跑通就全国招商；③ 加盟商储蓄再次成为「实验经费」；④ 与锅圈同属「开店叙事」对加盟商不友好",
+      "timeline": "",
+      "source_url": "https://www.36kr.com/p/1882553309102977",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "中国"
+    },
+    {
+      "name": "Alle",
+      "who": "Prateek Agarwal (cofounder; ex-Meesho); Harshit Madan; Pavan Patil (exited Oct 2025 → Meesho)",
+      "outcome": "Founded **Jan 2023**; seed **~$3M** (Elevation Capital, Bharat Founders Fund, Singhal Children). Cla",
+      "sector": "India (Bengaluru) · Consumer AI × fashion",
+      "region": "India (Bengaluru) · Consumer AI × fashio",
+      "src": "global",
+      "story": "Alle (heyalle) · Prateek Agarwal / Harshit Madan / Pavan Patil (India · consumer AI fashion)：Founded **Jan 2023**; seed **~$3M** (Elevation Capital, Bharat Founders Fund, Singhal Children). Claimed **~1.5M** Gen Z shoppers. **Shut Oct 2025** after **six pivots / ~2.5 years**; app",
+      "lesson": "10× product love ≠ viable business model; frequency caps LTV; horizontals (Google/OpenAI shopping) erase vertical 10×; opportunity cost of another pivot can dominate",
+      "timeline": "",
+      "source_url": "https://prtkagwl.substack.com/p/learnings-from-consumer-ai-fashion",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "印度"
+    },
+    {
+      "name": "FynCut",
+      "who": "Yash Chauhan (solo founder; later Backend Engineer at Flam)",
+      "outcome": "~1 year building commercial SaaS: long podcasts/interviews → viral **9:16** clips (WhisperX + Gemini",
+      "sector": "India · Indie AI creator tooling / video",
+      "region": "India · Indie AI creator tooling / video",
+      "src": "global",
+      "story": "FynCut · Yash Chauhan (India · indie AI video SaaS → OSS)：~1 year building commercial SaaS: long podcasts/interviews → viral **9:16** clips (WhisperX + Gemini highlights + active-speaker reframe on Modal GPUs; Next.js/Inngest). **Commercially failed**; **open-sourced MIT** ~**202",
+      "lesson": "Video AI unit economics punish solo SaaS; OSS can be the clean exit when commercial path dies; infra complexity ≠ moat if CAC/margins don't close",
+      "timeline": "",
+      "source_url": "https://codingyash.medium.com/fyncut-building-an-ai-video-saas-failing-commercially-and-open-sourcing-everything-3fab21cbd19d",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "海外"
+    },
+    {
+      "name": "Poppy",
+      "who": "Sai Kambampati (founder; ex-Humane/HP IQ)",
+      "outcome": "Soft-launched ~**May 2026**; proactive phone assistant (calendar/life seams, not Slack-ticket agent)",
+      "sector": "US · Consumer proactive AI / ambient computing",
+      "region": "US · Consumer proactive AI / ambient com",
+      "src": "global",
+      "story": "Poppy / Second Nature Computing · Sai Kambampati (US · proactive consumer AI)：Soft-launched ~**May 2026**; proactive phone assistant (calendar/life seams, not Slack-ticket agent). Users loved craft; **wound down Aug 2026** (App Store stop; service end **2026-08-31**; data deleted",
+      "lesson": "Demo-able proactivity ≠ scalable consumer COGS; craft differentiates but doesn't pay frontier bills; narrow one high-value job first",
+      "timeline": "",
+      "source_url": "https://saikambampati.com/blog/what-i-learned-building-poppy",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "美国"
+    },
+    {
+      "name": "Cuenca",
+      "who": "Ignacio Estrada, José Rodríguez (founders, ex-Uber engineers per autopsy sites); analyzed by Carlos Valderrama (fintech counsel)",
+      "outcome": "**2018** hype twin of Albo under FinTech Law. Quietly lost growth race to Nubank/BBVA Spark; **2024-",
+      "sector": "Mexico · Fintech / IFPE neobank",
+      "region": "Mexico · Fintech / IFPE neobank",
+      "src": "global",
+      "story": "Cuenca · Ignacio Estrada / José Rodríguez et al. (Mexico · IFPE neobank → Kavak license deal)：**2018** hype twin of Albo under FinTech Law. Quietly lost growth race to Nubank/BBVA Spark; **2024-06** peak monthly profit then signed option with **Uvi Tech (Kavak vehicle)** — shifte",
+      "lesson": "License ≠ business; governance & platformization (Albo) beat product-final IFPE; selling at peak can freeze the company into a zombie",
+      "timeline": "",
+      "source_url": "https://es.linkedin.com/posts/carlos-valderrama_fintech-neobancos-cnbv-activity-7460720646264741888-JDol",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "墨西哥"
     }
   ],
-  "total": 328
+  "total": 334
 }
