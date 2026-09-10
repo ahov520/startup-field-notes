@@ -1,7 +1,65 @@
 {
   "updated": "2026-09-10",
-  "total": 16,
+  "total": 20,
   "highlights": [
+    {
+      "name": "自嗨锅",
+      "story": "百草味创始人蔡红亮二次创业做自嗨锅，顶流带货、半个娱乐圈代言，3年融资超5.5亿、估值一度75亿。营销占比超40%、研发不足1.3%，复购长期低于15%；全国砸15座工厂、SKU扩至上百后有厂无单。莲花健康尽调弃购后断血，2026年3月破产清算落槌，债务人连公章证照都交不出。",
+      "lesson": "资本催熟品牌≠催熟组织；流量买得来首购买不来复购与供应链基本功。",
+      "outcome": "失败",
+      "sector": "新消费 / 自热火锅",
+      "tags": [
+        "消费品牌关店潮",
+        "二次创业",
+        "现金流",
+        "重资产"
+      ],
+      "source_url": "https://www.tmtpost.com/7981159.html"
+    },
+    {
+      "name": "Fantasy.top",
+      "story": "一手文《Fantasy 落幕手记：SocialFi 试错两年半，我们学到了什么?》（2026-05-21）：先金融化再游戏只会招投机者；Blast空投月吃掉70%生命周期收入；运营未动用融资款故能全额退还投资人；未PMF前发币绑定币价扼杀试错。",
+      "lesson": "先金融化招投机者；空投月制造虚假峰值；未PMF发币扼杀试错；有底气全额退资。",
+      "outcome": "失败",
+      "sector": "SocialFi card game",
+      "tags": [
+        "失败",
+        "SocialFi",
+        "全额退资",
+        "中文一手"
+      ],
+      "source_url": "https://www.techflowpost.com/article/31695"
+    },
+    {
+      "name": "Vibe AI",
+      "story": "一手文《Vibe AI Postmortem: Lessons from Building an \"AI Friend\"》（2026-05-06）：第1周真爱用、第3周留存撞算力成本；任何定价都无法90天内打正；喜欢≠生意；应在第3月设cost-per-user杀线；负单位经济下增长只会加深亏损。",
+      "lesson": "周1留存强、周3撞算力成本；负单位经济下增长加深亏损；设日历化 kill threshold。",
+      "outcome": "失败",
+      "sector": "AI companion / consumer chat",
+      "tags": [
+        "失败",
+        "AI companion",
+        "单位经济",
+        "一手关停"
+      ],
+      "source_url": "https://gravity.fast/blog/vibe-ai-postmortem/"
+    },
+    {
+      "name": "Gigbanc",
+      "story": "Gigbanc 为非洲数字劳动力（自由职业者、远程员工、创作者）提供跨境收款与兑奈拉服务。2026年7月宣布有序关停：无法获得维持与扩张所需融资；客户须在7月31日前免费提现。CEO Paul Okundaye：为所建感到骄傲，但当前融资环境难以独立运营；同时接触未具名尼日利亚金融基础设施公司洽谈收购。",
+      "lesson": "非洲金融科技需求真实，但跟投资本向少数头部集中时，利基跨境轨也会死；独立扩张失败时，并购/并入基础设施成默认出路。产品有用户≠可融资路径。",
+      "outcome": "orderly wind-down 2026-07; withdrawals until 2026-07-31; acquisition talks",
+      "sector": "fintech / cross-border payments for freelancers & creators",
+      "tags": [
+        "africa",
+        "fintech",
+        "nigeria",
+        "creator-payments",
+        "funding-winter",
+        "wind-down"
+      ],
+      "source_url": "https://businessday.ng/technology/article/gigbanc-to-wind-down-operations-as-funding-challenges-persist-for-nigerian-fintechs/"
+    },
     {
       "name": "抱抱窝",
       "story": "尚书毅从大厂辞职做情侣 AI 社交「抱抱窝」：问卷反馈「看起来有需求」，团队却把时间耗在 UI 与功能堆砌上，付费验证始终偏弱。APP 最终做出来了，但无力持续迭代推广，约 45 万自有资金耗尽后关停。",
