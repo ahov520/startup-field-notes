@@ -4672,7 +4672,178 @@
       "lifespan": "",
       "cause": "体面退出",
       "country": "菲律宾"
+    },
+    {
+      "name": "来飞智能",
+      "who": "（团队背景：宾夕法尼亚大学 GRASP 实验室系；行业侧名多为唐穆等旁证）",
+      "outcome": "**2024 悄然退出**：完成欧洲亚马逊约 1500 台交付后资金链断裂离场",
+      "sector": "智能割草机器人 / 消费硬件出海",
+      "region": "国内",
+      "src": "china",
+      "story": "来飞智能 · 宾大 GRASP 系割草机：**2024 悄然退出**：完成欧洲亚马逊约 1500 台交付后资金链断裂离场。① 三轮近 **2 亿元**融资、估值近 **8 亿**仍死于 0→1 研发失控；② 图像标注成本被同行称「是森合的 30–50 倍」——实验室标准当量产预算烧；③ 高估值≠量产与渠道能力；④ 对照长曜「近死存续」与森合「公开信崩盘」：金汤匙背景也可在交付后立刻断粮",
+      "lesson": "① 三轮近 **2 亿元**融资、估值近 **8 亿**仍死于 0→1 研发失控；② 图像标注成本被同行称「是森合的 30–50 倍」——实验室标准当量产预算烧；③ 高估值≠量产与渠道能力；④ 对照长曜「近死存续」与森合「公开信崩盘」：金汤匙背景也可在交付后立刻断粮",
+      "timeline": "",
+      "source_url": "https://www.leiphone.com/category/robot/6k6O5OkGhqEXIEpg.html",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "中国"
+    },
+    {
+      "name": "虎鲸智能",
+      "who": "匿名县域无人机制造 / 产业园运营侧",
+      "outcome": "**模式出清进行中**：补贴占利润常 >70%；六成产业园空置率 >60%；2025 年低空领域注销/吊销量级报道达万家级（需交叉验证）",
+      "sector": "低空经济 / eVTOL·无人机物流·观光",
+      "region": "国内",
+      "src": "china",
+      "story": "虎鲸智能 / 虎鲸科技 · 激光雷达割草：**模式出清进行中**：补贴占利润常 >70%；六成产业园空置率 >60%；2025 年低空领域注销/吊销量级报道达万家级（需交叉验证）。① 对接补贴与示范飞行 ≠ 商业闭环；② 编队表演等低端价格战毛利可压至 5% 内；③ 投资人筛选项变为：有证？有真实订单？有营收流水？",
+      "lesson": "① 对接补贴与示范飞行 ≠ 商业闭环；② 编队表演等低端价格战毛利可压至 5% 内；③ 投资人筛选项变为：有证？有真实订单？有营收流水？",
+      "timeline": "",
+      "source_url": "https://www.whipcy.com/sys-nd/830.html",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "中国"
+    },
+    {
+      "name": "Hike",
+      "who": "Kavin Mittal (founder/CEO)",
+      "outcome": "**Full wind-down Sep 2025** after India RMG ban shortened runway 7→4 months; US business (~9 months)",
+      "sector": "India · consumer messaging → real-money gaming",
+      "region": "India · consumer messaging → real-money ",
+      "src": "global",
+      "story": "Hike (India · messenger → Rush RMG → wind-down)：**Full wind-down Sep 2025** after India RMG ban shortened runway 7→4 months; US business (~9 months) also closed。Raised **$250M+** historically; peak 40M MAU messenger + Rush ~10M users / $500M+ CEA GMV still dies on **regulatory un",
+      "lesson": "Raised **$250M+** historically; peak 40M MAU messenger + Rush ~10M users / $500M+ CEA GMV still dies on **regulatory uncertainty** not product; \"Risk is fine; uncertainty is not\"; winner-take-all local markets without global path lock you into policy cliffs; temporary RMG wedge became permanent trap",
+      "timeline": "",
+      "source_url": "https://kavinbm.substack.com/p/closing-a-chapter-opening-a-new-one",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "India · consumer messaging → real-money "
+    },
+    {
+      "name": "NeuroPixel.AI",
+      "who": "Arvind Venugopal Nair (CEO); Amritendu Mukherjee (CTO)",
+      "outcome": "**Service ops shuttered ~2026-04** after ~5–6 years; exploring IP monetisation / white-label",
+      "sector": "India · GenAI for fashion e-commerce (try-on, synthetic models, cataloguing)",
+      "region": "India · GenAI for fashion e-commerce (tr",
+      "src": "global",
+      "story": "NeuroPixel.AI (India · fashion GenAI)：**Service ops shuttered ~2026-04** after ~5–6 years; exploring IP monetisation / white-label。Thesis right early (2021) but **outgunned overnight late 2025** by Google-scale image models (NanoBanana Pro cited); competed vs startups for years t",
+      "lesson": "Thesis right early (2021) but **outgunned overnight late 2025** by Google-scale image models (NanoBanana Pro cited); competed vs startups for years then Big Tech erased edge; major client unpaid >6 months drained buffer; ~**$1.2–1.28M** raised (Flipkart Ventures et al.) insufficient vs platform grav",
+      "timeline": "",
+      "source_url": "https://www.thehindubusinessline.com/info-tech/flipkart-backed-neuropixelai-shuts-down-as-big-tech-competition-intensifies/article70819631.ece",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "India · GenAI for fashion e-commerce (tr"
+    },
+    {
+      "name": "PerfectBot",
+      "who": "Łukasz Lewandowski (CEO/co-founder)",
+      "outcome": "**Ops end announced 2025-09**; liquidation completed / KRS strike **2026-08** (Fabrity SA disclosure",
+      "sector": "Poland · CEE · conversational chatbots for e-commerce / CX platforms",
+      "region": "Poland · CEE · conversational chatbots f",
+      "src": "global",
+      "story": "PerfectBot (Poland · e-commerce chatbots)：**Ops end announced 2025-09**; liquidation completed / KRS strike **2026-08** (Fabrity SA disclosure)。Built strong pre-GPT chatbots and served ~20M conversations for big brands; LLMs made **integration partners build in-house AI** → partn",
+      "lesson": "Built strong pre-GPT chatbots and served ~20M conversations for big brands; LLMs made **integration partners build in-house AI** → partners became competitors overnight; refused va-banque platform build (focus philosophy); too small to sell, sale window closed too fast — classic **platform-swallow /",
+      "timeline": "",
+      "source_url": "https://pl.linkedin.com/posts/lewandowski-lukasz_zamykamy-perfectbota-nie%C5%82atwo-to-napisa%C4%87-activity-7371429307371577344-kHs_",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "Poland · CEE · conversational chatbots f"
+    },
+    {
+      "name": "Colper.ai",
+      "who": "Róbert Klimant, Lukáš Horváth",
+      "outcome": "**Stopped new development 2025-10** (~7 months after founding); product left live as PoC; founders r",
+      "sector": "Slovakia · CEE · no-code AI assistant on Webflow",
+      "region": "Slovakia · CEE · no-code AI assistant on",
+      "src": "global",
+      "story": "Colper.ai (Slovakia · Webflow AI copilot)：**Stopped new development 2025-10** (~7 months after founding); product left live as PoC; founders return to client Webflow studio Roelu。Platform shipped native AI assistant → third-party copilot thesis died; fast kill is rational; **plat",
+      "lesson": "Platform shipped native AI assistant → third-party copilot thesis died; fast kill is rational; **platform feature risk** for tool startups on single host; journey still \"worth it\" then back to services cashflow",
+      "timeline": "",
+      "source_url": "https://www.linkedin.com/posts/robertklimant_we-are-stopping-new-development-on-colperai-activity-7384210444766511104-Tpzs",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "Slovakia · CEE · no-code AI assistant on"
+    },
+    {
+      "name": "Watcha",
+      "who": "Park Tae-hoon (CEO, KAIST), Won Ji-hyun, Kang Seok-hoon",
+      "outcome": "**Court receivership Aug 2025**; CJ ENM last bidder withdrew Apr 2026 — survival hanging; MAU peak 1",
+      "sector": "South Korea · AI personalisation SVOD",
+      "region": "South Korea · AI personalisation SVOD",
+      "src": "global",
+      "story": "Watcha (Korea · AI recommendation OTT)：**Court receivership Aug 2025**; CJ ENM last bidder withdrew Apr 2026 — survival hanging; MAU peak 1.33M → ~470k。Product/taste/data real (~750M ratings) but **₩49B convertible bonds at ₩338B peak** became permanent floor every rescuer must c",
+      "lesson": "Product/taste/data real (~750M ratings) but **₩49B convertible bonds at ₩338B peak** became permanent floor every rescuer must clear; personalisation ≠ moat vs content library arms race (Netflix/Tving/Wavve/Coupang); frothy CB + scope expansion into winter = trap",
+      "timeline": "",
+      "source_url": "https://www.therunway.ventures/p/watcha",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "South Korea · AI personalisation SVOD"
+    },
+    {
+      "name": "Green Lover Perú",
+      "who": "Martin Razuri Sato",
+      "outcome": "**Shut down** (founder LinkedIn primary ~2026-03); later reframed as university learning",
+      "sector": "Peru · Andes · eco D2C / MercadoLibre",
+      "region": "Peru · Andes · eco D2C / MercadoLibre",
+      "src": "global",
+      "story": "Green Lover Perú (Peru · bamboo toothbrush D2C)：**Shut down** (founder LinkedIn primary ~2026-03); later reframed as university learning。Sold to \"all of Peru\" = sold to no one; assumed hygiene routine change + premium WTP without research; founder did own Lima deliveries → ops at",
+      "lesson": "Sold to \"all of Peru\" = sold to no one; assumed hygiene routine change + premium WTP without research; founder did own Lima deliveries → ops ate strategy; no wholesale mapping; redo would be **B2B eco hotels amenities** not ML mass retail",
+      "timeline": "",
+      "source_url": "https://es.linkedin.com/posts/mrazurisa_marketing-ecommerce-emprendimiento-activity-7444477762297462784-RXfJ",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "Peru · Andes · eco D2C / MercadoLibre"
+    },
+    {
+      "name": "FoodPE",
+      "who": "(foodtech team; autopsy library)",
+      "outcome": "**Shut ~2023** after ~€2.5M raised / ~3y; cultural rejection slow death",
+      "sector": "Peru · LATAM foodtech / plant-based",
+      "region": "Peru · LATAM foodtech / plant-based",
+      "src": "global",
+      "story": "FoodPE (Peru · plant-based Peruvian food)：**Shut ~2023** after ~€2.5M raised / ~3y; cultural rejection slow death。UNESCO-proud gastronomy as national identity → plant-based substitutes for ceviche/lomo saltado culturally rejected; premium TAM ~2% of Lima; work **within** culinary",
+      "lesson": "UNESCO-proud gastronomy as national identity → plant-based substitutes for ceviche/lomo saltado culturally rejected; premium TAM ~2% of Lima; work **within** culinary tradition (healthier anticuchos) not against it",
+      "timeline": "",
+      "source_url": "",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "Peru · LATAM foodtech / plant-based"
     }
   ],
-  "total": 259
+  "total": 268
 }
