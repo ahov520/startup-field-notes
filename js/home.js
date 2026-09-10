@@ -7,30 +7,96 @@
       .replace(/</g, "&lt;")
       .replace(/>/g, "&gt;")
       .replace(/"/g, "&quot;");
-
   const asList = (v) => {
     if (Array.isArray(v)) return v;
     if (v == null || v === "") return [];
-    return String(v).split(/[·|,，、]/).map((s) => s.trim()).filter(Boolean);
+    return String(v)
+      .split(/[·|,，、]/)
+      .map((s) => s.trim())
+      .filter(Boolean);
   };
   const joinList = (v, sep = " · ") => asList(v).join(sep);
-
+  const ls = {
+    get(k, fb) {
+      try {
+        const v = localStorage.getItem(k);
+        return v == null ? fb : JSON.parse(v);
+      } catch {
+        return fb;
+      }
+    },
+    set(k, v) {
+      try {
+        localStorage.setItem(k, JSON.stringify(v));
+      } catch {}
+    },
+  };
 
   const boot = JSON.parse($("#boot").textContent);
   const stats = boot.meta?.stats || {};
 
-  // KPIs
-  const kpiEl = $("#kpis");
-  const kpis = [
-    { n: stats.cases ?? "219", l: "案例" },
-    { n: stats.failed ?? "166", l: "关停" },
-    { n: stats.success ?? "23", l: "存活" },
-  ];
-  kpiEl.innerHTML = kpis
-    .map((k) => `<div class="kpi"><span class="kpi__n">${esc(k.n)}</span><span class="kpi__l">${esc(k.l)}</span></div>`)
-    .join("");
+  // reading progress
+  const bar = $("#progress");
+  const onScroll = () => {
+    const h = document.documentElement;
+    const max = h.scrollHeight - h.clientHeight;
+    const p = max > 0 ? (h.scrollTop / max) * 100 : 0;
+    if (bar) bar.style.width = p + "%";
+    const top = $("#toTop");
+    if (top) top.classList.toggle("is-show", h.scrollTop > 480);
+  };
+  window.addEventListener("scroll", onScroll, { passive: true });
+  onScroll();
+  $("#toTop")?.addEventListener("click", () => window.scrollTo({ top: 0, behavior: "smooth" }));
 
-  // pills
+  // font size
+  const FS_KEY = "sfn-fs";
+  let fs = ls.get(FS_KEY, 16);
+  const applyFs = () => {
+    document.documentElement.style.setProperty("--fs", fs + "px");
+    ls.set(FS_KEY, fs);
+  };
+  applyFs();
+  $("#fsDown")?.addEventListener("click", () => {
+    fs = Math.max(14, fs - 1);
+    applyFs();
+  });
+  $("#fsUp")?.addEventListener("click", () => {
+    fs = Math.min(20, fs + 1);
+    applyFs();
+  });
+
+  // KPIs (+ top cause async)
+  const kpiEl = $("#kpis");
+  const paintKpis = (extra = []) => {
+    const kpis = [
+      { n: stats.cases ?? "219", l: "案例" },
+      { n: stats.failed ?? "166", l: "关停" },
+      { n: stats.success ?? "23", l: "存活" },
+      ...extra,
+    ];
+    kpiEl.innerHTML = kpis
+      .map(
+        (k) =>
+          `<div class="kpi"><span class="kpi__n">${esc(k.n)}</span><span class="kpi__l">${esc(k.l)}</span></div>`
+      )
+      .join("");
+  };
+  paintKpis();
+  fetch("data/graveyard-stats.json")
+    .then((r) => r.json())
+    .then((g) => {
+      const top = (g.top_causes && g.top_causes[0]) || null;
+      if (!top) return;
+      // keep 3-col on mobile: replace nothing, add note under kpis
+      const note = document.createElement("p");
+      note.className = "muted mono";
+      note.style.margin = "10px 0 0";
+      note.textContent = `高频死因 · ${top.cause}（${top.count}）`;
+      kpiEl.after(note);
+    })
+    .catch(() => {});
+
   $$("#homePills .pill").forEach((btn) => {
     btn.addEventListener("click", () => {
       const go = btn.dataset.go;
@@ -40,52 +106,75 @@
     });
   });
 
+  const goSearch = () => {
+    const q = ($("#homeSearch")?.value || "").trim();
+    location.href = q ? `cases.html?q=${encodeURIComponent(q)}` : "cases.html";
+  };
   $("#homeSearch")?.addEventListener("keydown", (e) => {
-    if (e.key === "Enter") {
-      const q = e.target.value.trim();
-      location.href = q ? `cases.html?q=${encodeURIComponent(q)}` : "cases.html";
-    }
+    if (e.key === "Enter") goSearch();
   });
+  $("#homeSearchGo")?.addEventListener("click", goSearch);
 
-  // weekly
+  // weekly + checkboxes
+  const WEEK_KEY = "sfn-week-done";
   fetch("data/weekly.json")
     .then((r) => r.json())
     .then((w) => {
       $("#weeklyMeta").textContent = `${w.week || ""} · 更新 ${String(w.updated_at || "").slice(0, 16)}`;
       const items = w.suggestions || [];
-      $("#weeklyFeed").innerHTML = items
-        .map(
-          (it, i) => `
-        <article class="week-card">
+      const doneMap = ls.get(WEEK_KEY, {});
+      const weekId = w.week || "w";
+      const done = new Set(doneMap[weekId] || []);
+      const paint = () => {
+        $("#weeklyFeed").innerHTML = items
+          .map((it, i) => {
+            const id = String(i);
+            const is = done.has(id);
+            return `
+        <article class="week-card${is ? " is-done" : ""}" data-i="${id}">
+          <button type="button" class="week-card__check" aria-label="勾选完成">${is ? "✓" : ""}</button>
           <span class="week-card__n">0${i + 1}</span>
           <h3>${esc(it.title)}</h3>
           <p>${esc(it.why)}</p>
           <p><strong>行动</strong> ${esc(it.action)}</p>
           ${it.link ? `<a href="${esc(it.link)}" target="_blank" rel="noopener">来源 →</a>` : ""}
           ${it.href ? `<a href="${esc(it.href)}">对照档案 →</a>` : ""}
-        </article>`
-        )
-        .join("");
+        </article>`;
+          })
+          .join("");
+        $$("#weeklyFeed .week-card__check").forEach((btn) => {
+          btn.addEventListener("click", (e) => {
+            e.preventDefault();
+            const card = btn.closest(".week-card");
+            const id = card.dataset.i;
+            if (done.has(id)) done.delete(id);
+            else done.add(id);
+            doneMap[weekId] = [...done];
+            ls.set(WEEK_KEY, doneMap);
+            paint();
+          });
+        });
+      };
+      paint();
     })
     .catch(() => {
       $("#weeklyFeed").innerHTML = `<p class="muted">周刊暂未加载</p>`;
     });
 
-  // fail highlights rail
+  // fail highlights
   fetch("data/failures-highlight.json")
     .then((r) => r.json())
     .then((d) => {
       const items = d.highlights || [];
       $("#failRail").innerHTML = items
         .map((c) => {
-          const badge =
-            c.outcome === "成功"
-              ? "ok"
-              : c.outcome === "转型"
-                ? "pivot"
-                : "fail";
+          const badge = /成功|Success/i.test(c.outcome || "")
+            ? "ok"
+            : /转型|pivot/i.test(c.outcome || "")
+              ? "pivot"
+              : "fail";
           return `
-          <button type="button" class="tomb" data-name="${esc(c.name)}" data-href="cases.html?q=${encodeURIComponent(c.name)}">
+          <button type="button" class="tomb is-${badge}" data-href="cases.html?q=${encodeURIComponent(c.name)}">
             <div class="tomb__head">
               <span class="tomb__icon is-fail">🪦</span>
               <span class="tomb__badge ${badge}">${esc(c.outcome || "失败")}</span>
@@ -103,7 +192,6 @@
       });
     });
 
-  // conclusions
   $("#conclGrid").innerHTML = (boot.conclusions || [])
     .map(
       (c) => `
@@ -116,7 +204,6 @@
     )
     .join("");
 
-  // failure modes
   $("#failBoard").innerHTML = (boot.failures || [])
     .map(
       (f) => `
@@ -128,12 +215,22 @@
     )
     .join("");
 
-  // lexicon
+  // lexicon + read state
+  const LEX_KEY = "sfn-lex-read";
+  const readSet = new Set(ls.get(LEX_KEY, []));
+  const updateLexProgress = (n) => {
+    const el = $("#lexProgress");
+    if (!el) return;
+    el.textContent = `已识 ${readSet.size} / ${n}`;
+  };
   const paintLex = (items) => {
-    $("#lexGrid").innerHTML = (items || [])
-      .map(
-        (L) => `
-        <article class="lex">
+    const list = items || [];
+    updateLexProgress(list.length);
+    $("#lexGrid").innerHTML = list
+      .map((L) => {
+        const on = readSet.has(L.id);
+        return `
+        <article class="lex${on ? " is-read" : ""}" data-id="${esc(L.id)}">
           <div class="lex__head">
             <span class="lex__id">${esc(L.id)}</span>
             <span class="lex__tag">${esc(L.tag)}</span>
@@ -142,21 +239,35 @@
             <div class="lex__row"><strong>症状</strong>${esc(L.symptom)}</div>
             <div class="lex__row"><strong>尸检</strong>${esc(L.autopsy)}</div>
             <div class="lex__row"><strong>解药</strong>${esc(L.cure)}</div>
-            <div class="lex__cases">${asList(L.cases).map((x) => `<span>${esc(x)}</span>`).join("")}</div>
+            <div class="lex__cases">${asList(L.cases)
+              .map((x) => `<a href="cases.html?q=${encodeURIComponent(x)}">${esc(x)}</a>`)
+              .join("")}</div>
+            <div class="lex__foot">
+              <button type="button" class="btn" data-read>${on ? "取消已识" : "标为已识"}</button>
+            </div>
           </div>
-        </article>`
-      )
+        </article>`;
+      })
       .join("");
+    $$("#lexGrid [data-read]").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const id = btn.closest(".lex").dataset.id;
+        if (readSet.has(id)) readSet.delete(id);
+        else readSet.add(id);
+        ls.set(LEX_KEY, [...readSet]);
+        paintLex(list);
+      });
+    });
   };
   if (boot.lexicon?.length) paintLex(boot.lexicon);
   fetch("data/lexicon.json")
     .then((r) => r.json())
     .then((d) => paintLex(d.items || []))
     .catch(() => {
-      if (!$("#lexGrid").innerHTML) $("#lexGrid").innerHTML = `<p class="muted">词典暂未加载</p>`;
+      if (!$("#lexGrid").querySelector(".lex"))
+        $("#lexGrid").innerHTML = `<p class="muted">词典暂未加载</p>`;
     });
 
-  // hot
   $("#hotList").innerHTML = (boot.hot || [])
     .map(
       (h) => `
@@ -168,7 +279,9 @@
     )
     .join("");
 
-  // actions
+  // actions with checkboxes
+  const ACT_KEY = "sfn-actions";
+  const actDone = new Set(ls.get(ACT_KEY, []));
   const actions = boot.actions || {};
   const tabs = Object.keys(actions);
   const tabsEl = $("#actionTabs");
@@ -176,7 +289,13 @@
   let active = tabs[0];
   const renderActions = () => {
     $$(".pill", tabsEl).forEach((p) => p.classList.toggle("is-on", p.dataset.k === active));
-    panel.innerHTML = (actions[active] || []).map((t) => `<li>${esc(t)}</li>`).join("");
+    panel.innerHTML = (actions[active] || [])
+      .map((t, i) => {
+        const id = `${active}:${i}`;
+        const on = actDone.has(id);
+        return `<li class="${on ? "is-done" : ""}" data-id="${esc(id)}"><input type="checkbox" ${on ? "checked" : ""}/><span>${esc(t)}</span></li>`;
+      })
+      .join("");
   };
   tabsEl.innerHTML = tabs
     .map((k) => `<button type="button" class="pill" data-k="${esc(k)}">${esc(k)}</button>`)
@@ -187,9 +306,17 @@
     active = b.dataset.k;
     renderActions();
   });
+  panel.addEventListener("click", (e) => {
+    const li = e.target.closest("li[data-id]");
+    if (!li) return;
+    const id = li.dataset.id;
+    if (actDone.has(id)) actDone.delete(id);
+    else actDone.add(id);
+    ls.set(ACT_KEY, [...actDone]);
+    renderActions();
+  });
   renderActions();
 
-  // reads
   $("#readsList").innerHTML = (boot.reads || [])
     .map(
       (r) => `

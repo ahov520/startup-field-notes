@@ -12,13 +12,18 @@
   <link rel="stylesheet" href="css/app.css" />
 </head>
 <body>
+  <div class="progress" id="progress" aria-hidden="true"></div>
   <div class="ticker" aria-hidden="true">
     <div class="ticker__track">🪦 FAIL ARCHIVE · 伪需求 · CAC · 单一LP · 政策β · 硬件鸿沟 · 范式迁移 · 体面退出 · 先证明有人反复付钱 · 🪦 FAIL ARCHIVE · 伪需求 · CAC · 单一LP · 政策β · 硬件鸿沟 · 范式迁移 · 体面退出 · </div>
   </div>
 
   <header class="top">
     <a class="brand" href="#top"><span class="brand__mark">🪦</span><span class="brand__text">创业坟场笔记</span></a>
-    <a class="top__link" href="cases.html">档案 219</a>
+    <div class="top__tools">
+      <button type="button" class="iconbtn" id="fsDown" aria-label="缩小字号">A-</button>
+      <button type="button" class="iconbtn" id="fsUp" aria-label="放大字号">A+</button>
+      <a class="top__link" href="cases.html">档案 219</a>
+    </div>
   </header>
 
   <main id="top">
@@ -40,6 +45,7 @@
       <label class="search">
         <span aria-hidden="true">⌕</span>
         <input id="homeSearch" type="search" placeholder="SEARCH THE GRAVEYARD…" autocomplete="off" />
+        <button type="button" class="search__go" id="homeSearchGo">搜</button>
       </label>
       <div class="pills" id="homePills">
         <button type="button" class="pill is-on" data-go="cases.html">全部档案</button>
@@ -55,7 +61,7 @@
         <h2>本周田野三件事</h2>
         <p id="weeklyMeta" class="muted"></p>
       </div>
-      <div class="stack" id="weeklyFeed"></div>
+      <div class="stack" id="weeklyFeed"><div class="skel"></div><div class="skel"></div></div>
     </section>
 
     <section class="section section--bleed" id="corpses">
@@ -92,8 +98,9 @@
         <span class="kicker">LEXICON</span>
         <h2>死法词典</h2>
         <p class="muted">症状 · 尸检 · 解药 · 对照案例</p>
+        <p class="lex-progress" id="lexProgress"></p>
       </div>
-      <div class="stack" id="lexGrid"></div>
+      <div class="stack" id="lexGrid"><div class="skel" aria-hidden="true"></div></div>
     </section>
 
     <section class="section section--bleed" id="hot">
@@ -134,10 +141,12 @@
   <footer class="foot">
     <div>
       <strong>创业坟场笔记</strong>
-      <p>仿 loot-drop 粗野主义 · 全量重建 v24</p>
+      <p>仿 loot-drop 粗野主义 · 体验优化 v25</p>
     </div>
-    <p class="mono">build v24</p>
+    <p class="mono">build v25</p>
   </footer>
+
+  <button type="button" class="fab-top" id="toTop" aria-label="回到顶部">↑</button>
 
   <nav class="tabbar" aria-label="主导航">
     <a class="is-on" href="#top"><span>⌂</span>首页</a>
