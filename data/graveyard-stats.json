@@ -1,12 +1,12 @@
 {
   "total": 350,
-  "failed": 313,
-  "success": 26,
+  "failed": 312,
+  "success": 27,
   "capital_burned_note": "档案未统一金额，仅模式统计；部分条目从原文抽取了 capital 字段（有依据才写），不可加总为总烧钱额。",
   "top_causes": [
     {
       "cause": "综合经营失败",
-      "count": 110
+      "count": 99
     },
     {
       "cause": "伪需求 / PMF 缺失",
@@ -14,7 +14,7 @@
     },
     {
       "cause": "现金流断裂 / runway 耗尽",
-      "count": 11
+      "count": 10
     },
     {
       "cause": "治理崩盘 / 内控失效",
@@ -34,7 +34,7 @@
     },
     {
       "cause": "平台/巨头同质化碾压",
-      "count": 5
+      "count": 4
     },
     {
       "cause": "校园路径陷阱（获客/人事/赛品）",

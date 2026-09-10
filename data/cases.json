@@ -1132,19 +1132,22 @@
     },
     {
       "name": "Supabase",
-      "who": "NZ/global",
-      "outcome": "Success",
-      "sector": "Devtools",
+      "who": "Paul Copplestone、Ant Wilson",
+      "outcome": "成功",
+      "sector": "全球 · 开源后端/开发者工具",
       "region": "全球",
       "src": "global",
-      "story": "Paul Copplestone 等把定位改成「开源 Firebase 替代」后次日意外登顶 HN；Demo Day 前先出荷 Auth，再用 launch week 节奏增长，并赶上 pgvector→AI 应用后端三波尾风。创始人强调：尽管融到钱，仍按账上只剩 10 万美元来运营。",
-      "lesson": "PMF 常常是定位契合；先找到 PMF 再 blitzscale；融资手艺与建造要分开。",
-      "timeline": "2020 YC → HN 定位爆发 → AI 尾风",
+      "story": "保罗与安东尼二零二零年创办开源后端平台，把定位改成「开源火基地替代」次日意外登顶黑客新闻，托管库三天从八个扩到约八百个。先出荷认证再以发布周节奏增长，并赶上向量检索与人工智能应用后端三波尾风；虽累计融资超十亿美元，创始人仍强调按账上只剩约十万美元来运营，坚持先找到产品市场契合再扩张。",
+      "lesson": "产品市场契合常常只是定位话术契合；必须先找到契合再闪电扩张；融资手艺与建造一定要分开来做。",
+      "timeline": "2020创立YC→HN定位爆发→Auth与Launch Week→AI尾风→持续融资",
       "tags": [
         "成功对照"
       ],
       "source_url": "https://review.firstround.com/how-supabase-became-the-essential-infrastructure-for-the-ai-era-paul-copplestone-co-founder-ceo/",
-      "country": "新西兰"
+      "country": "新西兰",
+      "cause": "定位契合 / 产品主导增长 / 赶上人工智能后端浪潮",
+      "capital": "累计约10.4亿美元（至约2026 Series F）",
+      "lifespan": "持续运营（2020–）"
     },
     {
       "name": "Gusto",
@@ -1181,19 +1184,22 @@
     },
     {
       "name": "Grab",
-      "who": "海",
-      "outcome": "Success",
-      "sector": "超级应用程序",
+      "who": "Anthony Tan、Tan Hooi Ling",
+      "outcome": "成功",
+      "sector": "东南亚 · 超级应用/出行外卖支付",
       "region": "全球",
       "src": "global",
-      "story": "Anthony Tan / Tan Hooi Ling 做 Grab：Series A 融得极惨（Tan 在投资人会面间晕倒），GrabPay 源自司机被抢现金的运营痛点，GrabFood 源自闲时运力利用；创始人把家搬到雅加达做本地沉浸，按问题链路扩成超级应用。",
-      "lesson": "扩张要问题联动而非战略 PPT 联动；本地沉浸胜过总部抽象。",
-      "timeline": "2012 创立 → 支付/外卖问题联动 → 上市路径",
+      "story": "陈炳耀与陈慧玲二零一二年从吉隆坡车库做安全叫车，甲轮融资极苦、陈曾在投资人会面间隙晕倒。支付钱包源自司机被抢现金的运营痛点，外卖源自闲时运力利用；他把家搬到雅加达做本地沉浸，按问题链路扩成出行外卖支付超级应用，后收购优步东南亚业务并于二零二一年在纳斯达克公开上市。",
+      "lesson": "扩张要靠真实问题联动而非战略幻灯片联动；本地沉浸远远胜过总部坐办公室式抽象远控指挥。",
+      "timeline": "2012 MyTeksi→2014痛苦A轮→支付/外卖问题联动→2018收购Uber SEA→2021上市",
       "tags": [
         "成功对照"
       ],
       "source_url": "https://www.businesstimes.com.sg/companies-markets/ceo-anthony-tan-podcast-inside-grab",
-      "country": "东南亚"
+      "country": "东南亚",
+      "cause": "问题联动扩张 / 本地沉浸 / 超级应用网络效应",
+      "capital": "未披露（上市路径；早期含竞赛奖金与亲友种子）",
+      "lifespan": "持续运营（2012–）"
     },
     {
       "name": "Gojek / GoTo",
@@ -1964,20 +1970,22 @@
     },
     {
       "name": "AI Market",
-      "who": "Japan",
-      "outcome": "失败",
-      "sector": "LTD software marketplace",
+      "who": "Tyson Batino 等联创",
+      "outcome": "关停",
+      "sector": "日本 · 人工智能/软件终身买断市场",
       "region": "全球",
       "src": "global",
-      "story": "AI Market最终关停或失败。结果写作「Shut Feb 2026; ~¥700,000 sales in ~4 months; co-founder exit + Batino chose not to solo alongside other businesses; JFC loan repayments loom」。",
-      "lesson": "可执行点：Strong team ≠ do-or-die founder love; second-time founders are time-sensitive; western LTD model transfer still needs long JP PMF verification.",
-      "timeline": "2026",
+      "story": "泰森·巴蒂诺等把西方软件终身买断模式搬到日本，面向中小企业与创业者售卖人工智能与软件工具，上线约四个月销售额约七十万日元、广告投放渐有起色。联创退出后他不愿在另两家生意旁独撑，叠加日本政策金融公库贷款还款临近与产品市场验证周期长于预期，二零二六年二月正式宣布关停。",
+      "lesson": "强团队不等于誓死热爱事业；二次创业者对时间窗口极敏感；西式终身买断仍需长周期本地验证。",
+      "timeline": "约2025上线→4个月约¥70万销售→联创退出→2026.02关停",
       "source_url": "https://www.linkedin.com/posts/tysonbatino_buildinginpublic-foreignfounders-japanstartup-activity-7458394928495112192-lHtx",
       "tags": [
         "失败复盘"
       ],
-      "cause": "综合经营失败",
-      "country": "日本"
+      "cause": "联创退出 / 机会成本过高 / 本地验证周期过长",
+      "country": "日本",
+      "capital": "含日本政策金融公库贷款等（大额风险投资未披露）",
+      "lifespan": "约数月–1年（至2026.02）"
     },
     {
       "name": "SunCulture",
@@ -2071,20 +2079,22 @@
     },
     {
       "name": "Publy",
-      "who": "Korea",
-      "outcome": "Fail→book",
-      "sector": "Content",
+      "who": "朴素菱（Park Soryeong）",
+      "outcome": "先成后败/拆售退出",
+      "sector": "韩国 · 知识内容/职场社群",
       "region": "全球",
       "src": "global",
-      "story": "Publy（朴素菱（前首席执行官））「2024-07 内容 → Newnic，08 社交 → 出售 Seesaw 后辞职； 《穿越失败》一书出版； B系列陷阱（支出↑增长≠）→个人卡轮换→3次裁员”。",
-      "lesson": "可执行点：펀드레이징 늘어도 현금 없으면 끝; 「실패 기록」이 요가원·한의원 등 비테크 사장님 공명 허브가 됨 — 실패담의 범용성。",
-      "timeline": "2024-07",
+      "story": "朴素菱二零一五年创办韩国知识内容会员制，累计融资约二百亿韩元、付费读者峰值超十万，一度证明数字内容可以付费。乙轮后押注类领英社群「职业里」，支出膨胀却增长脱节，三次裁员并刷个人卡周转现金；二零二四年七月内容售予纽尼克、八月社群法人售予西索后辞职，并出书系统复盘失败全过程。",
+      "lesson": "融资账面变厚绝不等于账上现金安全；乙轮陷阱往往是支出先涨而增长却长期跟不上融资目标。",
+      "timeline": "2015创立→2021约135亿韩元B轮→三次裁员→2024.07–08拆售→辞职出书",
       "source_url": "https://www.sisain.co.kr/news/articleView.html?idxno=56739",
       "tags": [
         "失败复盘"
       ],
-      "cause": "综合经营失败",
-      "country": "韩国"
+      "cause": "乙轮陷阱 / 现金断裂 / 战略重心偏离内容初心",
+      "country": "韩国",
+      "capital": "累计约200亿韩元（含约135亿韩元乙轮）",
+      "lifespan": "约9年（2015–2024）"
     },
     {
       "name": "mirrorboard",
@@ -2183,88 +2193,98 @@
     },
     {
       "name": "متون / Matoun",
-      "who": "KSA",
-      "outcome": "失败",
-      "sector": "道具数据 SaaS",
+      "who": "Desert Jungle Man（创始人阿拉伯语复盘笔名）",
+      "outcome": "关停",
+      "sector": "沙特 · 房地产数据/商业智能",
       "region": "全球",
       "src": "global",
-      "story": "متون / Matoun（Desert Jungle Man（아랍어 Substack 一手））最终关停或失败。结果写作「2018 물결 창업; 법무부 raw open data 의존; 2023-09 데이터 공개 중단→유료·대기업만 감당 가능 가격; اعتماد 정부조달 데이터로 피벗 검토 후 「같은 구멍에 두 번 물리지 않는다」 로 폐업; 2026-08 「النهاية」에」。",
-      "lesson": "可执行点：정부 open data = 공공재처럼 보이지만 정책 스위치 단점; 아랍어 원문 폐업 성찰 — 아카이브 장기 갭 메움。",
-      "timeline": "2018 → 2026-08",
+      "story": "沙特创业者约二零一八年创办技术公司「穆通」，靠司法部开放的房地产原始成交数据做清洗、卫星影像质检与企业订阅商业智能。二零二三年九月数据突然停更并改收费，百万里亚尔量级门槛只有大企业可承受；他拒绝再赌政府采购数据源，二零二六年八月以「信士不两次被同一个洞咬」公开宣布关停。",
+      "lesson": "政府开放数据看似公共品却藏着政策开关；把商业押在单一外部数据源上往往是致命单点风险。",
+      "timeline": "约2018创立→依赖司法部开放数据→2023.09停更收费→2026.08公开关停",
       "source_url": "https://desertjungle.substack.com/p/95c",
       "tags": [
         "失败复盘"
       ],
-      "lifespan": "2018–2026（约8年）",
-      "cause": "综合经营失败",
-      "country": "全球/跨国"
+      "lifespan": "约8年（2018–2026）",
+      "cause": "政府开放数据中断 / 数据改收费 / 拒绝二次依赖政策源",
+      "country": "全球/跨国",
+      "capital": "未披露"
     },
     {
       "name": "شقردي / Shgardi",
-      "who": "KSA",
-      "outcome": "失败",
-      "sector": "Food delivery",
+      "who": "Safri Trading and Marketing Co.（Khobar）",
+      "outcome": "关停",
+      "sector": "沙特 · 外卖配送",
       "region": "全球",
       "src": "global",
-      "story": "شقردي / Shgardi（회사 X 성명（아랍 미디어 전재））最终关停或失败。结果写作「6년 후 종료; 7M+ 주문, 3M+ users, 35 도시; 「경쟁 심화+가격 소각」; Nomu 상장 플랜 미완」。",
-      "lesson": "可执行点：로컬 앱은 글로벌/대형 플레이어 약탈 가격에 취약; 규모 지표≠지속 가능 마진。",
-      "source_url": "https://arabfounders.net/shgardi-saudi-app-shuts-down-2025/",
+      "story": "沙特本地外卖「舒加尔迪」二零二零年初以约一千二百万里亚尔资本起步，六年完成超七百万单、服务超三百万用户并覆盖约三十五个城市，二零二一年末曾委任顾问筹划平行市场增资上市却从未兑现。在激烈竞争与对手烧价政策之下难以维持利润，二零二五年十月经官方账号宣布永久关停全部业务。",
+      "lesson": "本地外卖很难扛住全球巨头烧价掠夺；订单与用户规模绝不等于可持续健康毛利，份额会先死掉。",
+      "source_url": "https://arabfounders.net/en/shgardi-app-shutdown-saudi-2025/",
       "tags": [
         "失败复盘"
       ],
-      "cause": "综合经营失败",
-      "country": "全球/跨国"
+      "cause": "价格战与烧价 / 竞争加剧 / 上市计划未兑现",
+      "country": "全球/跨国",
+      "timeline": "2020初上线→2021筹划Nomu→7M+单/3M+用户→2025.10永久关停",
+      "capital": "约1200万里亚尔注册资本（大额风险投资未披露）",
+      "lifespan": "约6年（2020–2025）"
     },
     {
       "name": "Kader",
-      "who": "Jordan",
-      "outcome": "失败",
-      "sector": "Services/AI",
+      "who": "Rad Radaideh（首席执行官）",
+      "outcome": "关停",
+      "sector": "约旦/中东 · 按需用工平台",
       "region": "全球",
       "src": "global",
-      "story": "Kader（Rad Radaideh（CEO））最终关停或失败。结果写作「2026-01 LinkedIn 폐업; AI/자동화 가속이 기존 서비스 경로를 무의미화; Village Capital / ISSFJO 등 투자자 감사+전적 책임 선언」。",
-      "lesson": "可执行点：Never over-engineer; 돈으로 문제 덮기=실패 지름길; 수동→통증 이해→자동화; 감정으로 끌면 비용 큼。",
-      "timeline": "2026-01",
+      "story": "约旦拉德创办按需用工平台「卡德尔」，连接酒店零售服务业预审小时工，疫情后起量、年增约八成并服务超一百家企业，种子轮约四十万美元、累计融资超一百万美元。他判断人工智能与自动化正从根本上改写原服务路径，二零二六年一月主动关停，向村资本与约旦创新基金等致谢并自承全部经营责任。",
+      "lesson": "市场被自动化浪潮改写时要敢于及时停手；切勿用融资掩盖错误产品路径，更不要去做过度工程化。",
+      "timeline": "约2019–2020创立→2022种子轮→服务100+企业→2026.01关停",
       "source_url": "https://www.linkedin.com/posts/rradaideh_after-much-thought-and-reflection-i-have-activity-7421179875958382592-WpNN",
       "tags": [
         "失败复盘"
       ],
-      "cause": "综合经营失败",
-      "country": "全球/跨国"
+      "cause": "人工智能自动化改写路径 / 主动战略退出",
+      "country": "全球/跨国",
+      "capital": "累计超约100万美元（含约40万美元种子轮）",
+      "lifespan": "约6年（约2020–2026）"
     },
     {
       "name": "Oola",
-      "who": "Egypt",
-      "outcome": "失败",
-      "sector": "Tech",
+      "who": "Amr Darwish、Abdelrahman Ghareeb",
+      "outcome": "关停",
+      "sector": "埃及 · 保险科技软件服务",
       "region": "全球",
       "src": "global",
-      "story": "Oola最终关停或失败。结果写作「2026-03 LinkedIn 공식 종료; 감사 중심 짧은 페어웰（상세 재무 비공개）」。",
-      "lesson": "可执行点：MENA 페어웰 템플릿의 짧은 형태; 문화/파트너십 서사가 수치보다 앞섬。",
-      "timeline": "2026-03",
+      "story": "埃及阿姆与阿卜杜勒拉赫曼约二零二零年创办保险科技，先以询问品牌再更名「乌拉」，面向个人与企业保险的软件服务平台，公开资料称累计融资约四十万美元、团队规模很小。二零二六年三月联合创始人于领英致谢伙伴与早期员工后正式关停，未披露详细财务数字与单位经济真相，告别信偏重感恩叙事。",
+      "lesson": "告别辞可以写得很短很体面，但复盘仍应说清单位经济与现金真相，否则后来者很难真正去学习。",
+      "timeline": "2020创立→2024更名Oola→2026.03正式关停",
       "source_url": "https://www.linkedin.com/posts/aghareeb_today-is-a-difficult-day-but-one-filled-activity-7444005519473668096-O-yE",
       "tags": [
         "失败复盘"
       ],
-      "cause": "综合经营失败",
-      "country": "全球/跨国"
+      "cause": "经营难以为继（细节未公开） / 主动关停",
+      "country": "全球/跨国",
+      "capital": "约40万美元（公开目录口径）",
+      "lifespan": "约5–6年（2020–2026）"
     },
     {
       "name": "QDE",
-      "who": "Sweden",
-      "outcome": "失败",
-      "sector": "手机游戏",
+      "who": "Sebastian Knutsson、Stephane Kurgan",
+      "outcome": "关停",
+      "sector": "瑞典 · 手机游戏益智工作室",
       "region": "全球",
       "src": "global",
-      "story": "QDE（Sebastian Knutsson（联合创始人致辞））「2026-06 暂停运营；去年秋天退出了数亿瑞典克朗的采购； 「扩大手机游戏规模没有经济意义」。",
-      "lesson": "可执行点：카테고리 경험+대형 자본 ≠ 단위경제 성립; 경력 창업도 구조적 시장 수학 앞에 무력。",
-      "timeline": "2026-06",
-      "source_url": "https://eustartups.news/swedish-mobile-gaming-studio-qde-shuts-down-despite-raising-hundreds-of-millions/",
+      "story": "糖果传奇联合创始人克努松与前首席运营官库尔甘二零二二年创办女王数字娱乐，冲刺类国王手机益智游戏，约二十五人、多年未正式发售仅有软启动试水。尽管二零二五年秋季融到数亿瑞典克朗量级资金，他仍对媒体称今日获客成本极端、扩大手机游戏规模没有经济意义，约二零二六年六月关停。",
+      "lesson": "品类老将经验加上大额资本仍不敌单位经济；极端获客成本足以击垮手机游戏工作室扩张幻想。",
+      "timeline": "2022创立→多年未发售→2025秋大额融资→2026.06关停",
+      "source_url": "https://mobilegamer.biz/the-new-studio-from-two-former-king-execs-queen-digital-entertainment-has-closed/",
       "tags": [
         "失败复盘"
       ],
-      "cause": "综合经营失败",
-      "country": "欧洲"
+      "cause": "获客成本过高 / 手机游戏规模化单位经济不成立",
+      "country": "欧洲",
+      "capital": "报道约数千万至约五千万美元量级（口径不一；完整表未披露）",
+      "lifespan": "约4年（2022–2026）"
     },
     {
       "name": "Favro",
@@ -2565,76 +2585,79 @@
     },
     {
       "name": "Sendo / Sendo Farm",
-      "who": "FPT / Sen Đỏ（越南）",
+      "who": "Sen Đỏ / FPT 体系（总经理 Trần Hải Linh 等）",
       "outcome": "关停",
-      "sector": "电商/生鲜",
+      "sector": "越南 · 电商市集/生鲜履约",
       "region": "全球",
       "src": "global",
-      "story": "越南本土电商曾募约1.3亿美元、峰值GMV近10亿，却在Shopee/Lazada/TikTok Shop挤压下份额跌破1%。2025年4月关市集改押Sendo Farm；邻里冷链伙伴撑不起24/7生鲜履约，2026年7月10日Farm亦停运，FPT退出约14年B2C电商。",
-      "lesson": "勿用有限弹药打补贴战；市集失败后再切生鲜，若冷链伙伴无法7×24运转，枢纽叙事也会塌。",
-      "timeline": "2012起步→2025.4关市集→2026.7.10 Farm停运",
-      "source_url": "https://www.therunway.ventures/p/sendo",
+      "story": "越南森红电商二零一二年从父公司内部起步，累计融资约一点三亿美元、峰值年化成交额近十亿美元，却在虾皮、来赞达与抖音小店挤压下份额跌破百分之一。二零二五年四月关闭市集改押生鲜农场，邻里冷链伙伴难撑全天候履约，二零二六年七月十日农场亦停运，标志约十四年乙对丙电商彻底退出。",
+      "lesson": "切勿用有限弹药去打平台补贴大战；市集失败后再切生鲜，履约链一旦塌掉枢纽叙事也会跟着塌。",
+      "timeline": "2012起步→峰值GMV约$1B→2025.04关市集→2026.07.10 Farm停运",
+      "source_url": "https://vir.com.vn/sendo-farm-to-shut-down-as-part-of-restructuring-155978.html",
       "tags": [
         "失败复盘"
       ],
-      "capital": "累计约$130M；峰值GMV约$1B",
+      "capital": "累计约1.3亿美元；峰值年化成交额约10亿美元",
       "lifespan": "约14年（2012–2026）",
-      "cause": "补贴战失败 / 生鲜履约不成立",
+      "cause": "补贴战失败 / 份额被挤压 / 生鲜履约不成立",
       "country": "越南"
     },
     {
       "name": "Telio",
-      "who": "越南",
-      "outcome": "失败",
-      "sector": "B2B ecommerce",
+      "who": "Bùi Sỹ Phong",
+      "outcome": "解散/关停",
+      "sector": "越南 · 乙对乙电商批发",
       "region": "全球",
       "src": "global",
-      "story": "Telio（Vietnam）最终关停或失败。结果写作「Dissolved ~2024-12; peak burn $1.4M/mo; still ~$2.5–3M/mo revenue at death」。",
-      "lesson": "执行点：无需备份即可燃烧；下一轮然后冻结；看起来有利可图的顶线≠跑道。",
-      "timeline": "2024-12",
+      "story": "裴氏丰创办越南乙对乙电商「泰利奥」，连接小店与品牌供应商，五轮累计约五千二百五十万美元并有老虎全球与本土巨头背书。峰值每月亏损约一百四十万美元，后砍至约二十八万美元；关停时每月收入仍约二百五十至三百万美元却现金枯竭，二零二四年十一月停业、十二月正式解散，约四百人一夜失业。",
+      "lesson": "顶线收入好看绝不等于真实现金跑道；烧钱扩量之后若融资冻结，公司就再也没有任何安全备胎。",
+      "timeline": "2019创立→五轮约$52.5M→峰值月亏$1.4M→2024.11停业→2024.12解散",
       "source_url": "https://www.therunway.ventures/p/telio",
       "tags": [
         "现金流"
       ],
-      "capital": "$1.4M/mo；still ~$2.5–3M/mo revenue at death」",
-      "cause": "现金流断裂 / runway 耗尽",
-      "country": "越南"
+      "capital": "累计约5250万美元",
+      "cause": "单位经济亏损扩量 / 融资窗口关闭 / 现金耗尽",
+      "country": "越南",
+      "lifespan": "约5年（2019–2024）"
     },
     {
       "name": "Gojek Vietnam",
-      "who": "越南",
-      "outcome": "失败",
-      "sector": "超级应用程序",
+      "who": "GoTo / Gojek（越南市场）",
+      "outcome": "退出市场/关停",
+      "sector": "越南 · 超级应用/出行外卖",
       "region": "全球",
       "src": "global",
-      "story": "Gojek Vietnam（Vietnam）最终关停或失败。结果写作「Shut 2024-09-16; ~$230M accumulated losses; Xanh SM EV taxi shock」。",
-      "lesson": "可执行点：Subsidies buy share not lock-in; leadership churn kills ecosystem build; HQ cuts markets below GTV threshold。",
-      "timeline": "2024-09",
+      "story": "印尼集团旗下叫车平台二零一八年以本地品牌进入越南，六年累计亏损约二点一至二点三亿美元、换过四任首席执行官，四轮出行晚约三年才上线且自有电子钱包从未落地。电动出租车新秀抢走份额后越南总交易额贡献不足百分之零点五，总部为冲利润于二零二四年九月十六日全面退出越南市场。",
+      "lesson": "补贴能买份额却买不来用户锁定；领导层动荡毁掉生态建设，总部终会砍掉那些低贡献的边缘市场。",
+      "timeline": "2018 GoViet→四任CEO→Xanh SM冲击→2024.09.16退出越南",
       "source_url": "https://www.therunway.ventures/p/gojek-vietnam",
       "tags": [
         "失败复盘"
       ],
-      "capital": "$230M accumulated losses；Xanh SM EV taxi shock」",
-      "cause": "综合经营失败",
-      "country": "越南"
+      "capital": "累计亏损约2.1–2.3亿美元（越南市场口径）",
+      "cause": "领导层动荡 / 产品落地过慢 / 总部利润压力 / 竞争失份额",
+      "country": "越南",
+      "lifespan": "约6年（2018–2024）"
     },
     {
       "name": "Trela",
-      "who": "Brazil",
-      "outcome": "失败",
-      "sector": "Foodtech",
+      "who": "Guilherme Nazareth、João Jonk、Felipe Araújo",
+      "outcome": "关停",
+      "sector": "巴西 · 食品团购/生鲜零售",
       "region": "全球",
       "src": "global",
-      "story": "Trela（Brazil）最终关停或失败。结果写作「Closed 2026-04-02; ~100k clients, 400 suppliers; Series A $25M SoftBank + YC; ARR path ~R$85M cited in Valor」。",
-      "lesson": "执行点：微利零售需要源源不断的资金；找不到条款；如果没有下一次检查，边际贡献+增长仍然会消亡； 「honrar compromissos」退出取景。",
-      "timeline": "2026-04",
+      "story": "巴西特雷拉用社群连接消费者与食品供应商，二零二一年种子轮约一千六百万雷亚尔，二零二二年软银领投约两千五百万美元甲轮并有孵化器参与，服务约十万客户与四百供应商，年化收入曾约八千五百万雷亚尔且贡献边际为正。微利零售需要持续注资，找不到合适条款，二零二六年四月二日关停。",
+      "lesson": "微利零售一旦缺少下一轮融资仍会饿死；即便增长与正边际贡献同在，也救不了断粮式生存危机。",
+      "timeline": "2020创立→2021种子→2022 SoftBank A轮$25M→2026.04.02关停",
       "source_url": "https://exame.com/negocios/trela-encerra-operacoes-apos-cinco-anos-nao-encontramos-os-parceiros-ideais/",
       "tags": [
         "失败复盘"
       ],
-      "capital": "$25M SoftBank + YC；ARR path ~R$85M cited in Valor」",
-      "cause": "综合经营失败",
-      "country": "巴西"
+      "capital": "种子约1600万雷亚尔 + 甲轮约2500万美元",
+      "cause": "融资失败 / 微利零售资本依赖 / 投资人撤离赛道",
+      "country": "巴西",
+      "lifespan": "约5–6年（2020–2026）"
     },
     {
       "name": "Stormy",
@@ -2657,53 +2680,59 @@
     },
     {
       "name": "viktor.com",
-      "who": "Poland",
-      "outcome": "失败",
-      "sector": "AI product",
+      "who": "Fryderyk Wiatrowski 等",
+      "outcome": "存活/对抗巨头",
+      "sector": "波兰/全球 · 办公人工智能员工",
       "region": "全球",
       "src": "global",
-      "story": "viktor.com（Poland）最终关停或失败。结果写作「Post-mortem after Anthropic launched competing product into their wedge」。",
-      "lesson": "执行点：作为现有竞争对手的基础模型供应商；小楔子防御性与实验室路线图。",
+      "story": "波兰弗莱德等创办的办公人工智能「维克托」嵌进聊天协作并交付成品，数月做到约两千万美元年化经常性收入，并获顶级基金领投约七千五百万美元甲轮。二零二六年六月基础模型公司上线竞品直撞楔子，他写「验尸报告」实则并未死亡，当天反成最大增长日，强调工作流与成品交付差异化并继续对抗实验室路线图。",
+      "lesson": "基础模型厂可随时闯进你的狭窄楔子；差异化必须落在工作流与交付物上，而绝不能只靠模型本身。",
       "source_url": "https://www.linkedin.com/posts/fryderyk-wiatrowski_anthropic-killed-viktorcom-a-post-mortem-activity-7475917881424121856-JNIS",
       "tags": [
         "平台碾压"
       ],
-      "cause": "平台/巨头同质化碾压",
-      "country": "全球/跨国"
+      "cause": "巨头同质化威胁（未关停） / 工作流差异化防守",
+      "country": "全球/跨国",
+      "timeline": "约2026.02上线→数月约$20M ARR→Accel A轮约$75M→2026.06竞品冲击后仍增长",
+      "capital": "甲轮约7500万美元（Accel领投）",
+      "lifespan": "持续运营（约2026–）"
     },
     {
       "name": "Rilo",
-      "who": "Poland",
-      "outcome": "失败",
-      "sector": "招聘技术人员",
+      "who": "Mateusz Sławiński、Tomasz Rychter、Szymon Staniszkis、Wiktor Sobolak",
+      "outcome": "关停",
+      "sector": "波兰 · 招聘技术/人工智能筛招",
       "region": "全球",
       "src": "global",
-      "story": "Rilo（Poland）最终关停或失败。结果写作「Pulled plug after ~1y; wrote post-mortem」。",
-      "lesson": "可执行点：Too slow to ship; scoping rookies; great team ≠ right team for early product。",
+      "story": "波兰马泰乌什与几位合伙人约花一年时间做招聘技术「里洛」，想用人工智能筛简历与面试提速降本。范围铺得太宽、欧盟人工智能合规拖慢交付、过久地下开发缺少原型反馈，团队很强却不适配早期产品；他判断按现有节奏会烧穿至少两倍现金跑道后主动拔插头，二零二六年一月于领英公开完整复盘。",
+      "lesson": "交付太慢与范围过大是早期致命毒药；优秀团队绝不等于适合早期产品打磨与快速验证的正确组合。",
       "source_url": "https://www.linkedin.com/posts/mateuszslawinski_fail-fast-they-say-so-we-did-a-few-activity-7413956030730100736-TJ0k",
       "tags": [
         "失败复盘"
       ],
-      "cause": "综合经营失败",
-      "country": "全球/跨国"
+      "cause": "交付过慢 / 范围过大 / 团队不适配早期 / 合规拖累",
+      "country": "全球/跨国",
+      "timeline": "约2025组建→近一年开发→主动关停→2026.01公开复盘",
+      "capital": "未披露",
+      "lifespan": "约1年（约2025–2026）"
     },
     {
       "name": "Ula",
-      "who": "Indonesia",
-      "outcome": "Fail/solvent return",
-      "sector": "B2B wholesale",
+      "who": "Nipun Mehra、Alan Wong、Derry Sakti、Riky Tenggara",
+      "outcome": "清盘/部分返还资本",
+      "sector": "印尼 · 乙对乙批发/小店数字化",
       "region": "全球",
       "src": "global",
-      "story": "Ula（Indonesia）最终关停或失败。结果写作「Core ops shut ~late 2023; formal wind-down Feb 2025 returning ~30% capital; last investors exit Jul 2025; ~$50M still on balance sheet」。",
-      "lesson": "可执行点：① Solving sourcing+logistics+inventory+credit at once = 3–4 hard businesses glued; ② Capex-heavy model assumes capital stays easy; ③ Dominate a wedge before the…。",
-      "timeline": "2023 → 2025",
+      "story": "尼庞等二零二零年做印尼小店乙对乙批发「乌拉」，帮杂货店订货、信贷与库存管理，累计融资超一亿四千万美元并含贝索斯远征等名投。薄利重物流在融资寒冬崩裂，核心业务约二零二三年末关停；二零二五年二月正式清盘约返还三成资本，账上仍约五千万美元时选择退还而非烧光，七月末外部投资人退出股本表。",
+      "lesson": "采购物流库存信贷粘成一团等于同时打硬仗；切勿假设廉价资本会永远存在，更不要烧光再想退路。",
+      "timeline": "2020创立→大额融资→2023末核心停运→2025.02清盘返还约30%→2025.07投资人退出",
       "source_url": "https://www.therunway.ventures/p/ula",
       "tags": [
         "失败复盘"
       ],
-      "capital": "$50M still on balance sheet」",
-      "lifespan": "2023–2025（约2年）",
-      "cause": "综合经营失败",
+      "capital": "累计超约1.41亿美元；清盘时账上约5000万美元、约返还三成",
+      "lifespan": "核心约4年（2020–2023/2025清盘）",
+      "cause": "重资产薄利模型 / 融资寒冬 / 主动返还剩余资本",
       "country": "印度尼西亚"
     },
     {
