@@ -6100,7 +6100,121 @@
       "lifespan": "",
       "cause": "综合经营失败",
       "country": "墨西哥"
+    },
+    {
+      "name": "CineGame",
+      "who": "《恶校游戏》&《与美女合租的99种死法》制作人（公告署名）；核心成员背景：阿里/网易/三七互娱/北京娱乐互影等",
+      "outcome": "2026-08-14 Steam 发售《恶校游戏》；**上线约 6–7 天**（8/20）发布解散公告。成本约 **750 万**（影视拍摄+后期约 450 万；后期团队月薪约 27 万）；立项到上线",
+      "sector": "真人互动影游 / 独立游戏",
+      "region": "国内",
+      "src": "china",
+      "story": "CineGame Interactive / 《恶校游戏》 · 上线一周解散影游制作组（广州）：2026-08-14 Steam 发售《恶校游戏》；**上线约 6–7 天**（8/20）发布解散公告。成本约 **750 万**（影视拍摄+后期约 450 万；后期团队月薪约 27 万）；立项到上线约 **1.5 年**；剧组 100+、拍摄约 25 天。48h 销量约 **1.2 万套**，到手收入 **不足 50 万**；预估长尾总收入 ≤200 万 → 账面亏损约 **550 万+**。前作《合租》479 评 96% 好评。承诺服务器续费 **20 年",
+      "lesson": "① 小赛道萎缩：2023《完蛋》昙花后用户池不够支撑「像样作品」；② 影游「开拍即定死」不可迭代，软件创业式 pivot 失效；③ 心愿单海外 75% 但转化倒挂（销量国内 75%）→ 分发/时区陷阱；④ 直播=免费枪版，圈内营销边际极低；⑤ 刷量自欺欺人。大学生对照：高制作成本+不可迭代品类=青年团队高风险",
+      "timeline": "",
+      "source_url": "https://zhuanlan.zhihu.com/p/2073869977002811738",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "中国"
+    },
+    {
+      "name": "同程生活",
+      "who": "何鹏宇（CEO，同程旅游出身）；尹祥（千鲜汇并购后华南负责人）；唐光亮（考拉精选→后创爱零食）",
+      "outcome": "2018 起步，并购千鲜汇/考拉精选/邻邻壹拼盘扩张；2020 峰值日营业额超 **2500 万**、估值约 **10 亿美元**、8 轮融资数亿美元。巨头补贴战后：广东单月应战烧约 **1 亿+**",
+      "sector": "社区团购 / 生鲜履约",
+      "region": "国内",
+      "src": "china",
+      "story": "同程生活 → 蜜橙生活 · 何鹏宇 · 社区团购第一大破产案（升格入库）：2018 起步，并购千鲜汇/考拉精选/邻邻壹拼盘扩张；2020 峰值日营业额超 **2500 万**、估值约 **10 亿美元**、8 轮融资数亿美元。巨头补贴战后：广东单月应战烧约 **1 亿+**；履约成本优势区约 **12%** vs 兴盛湖南约 **6%**。京东拟收购近签字却转投兴盛；字节可转债+抖音本地导流烧约 **1 亿+** 转化差。订单从峰值约 **220 万/日** 跌至破产前约 **20 万/日**。负债约 **13.89 亿**；何个人负债口径上亿元。更名转",
+      "lesson": "① 欲望>能力：拼盘并购+自建仓+跟补贴，护城河不够；② 「上清华还是北大」收购幻觉拖死供应商与现金流；③ 内部问题权重可高于外部（中层自述 80/20）；④ 对照 R23 锅圈/舌尖：储蓄池从加盟商换成供应商账期；⑤ 对照兴盛：能收缩三省活下来的才是幸存者",
+      "timeline": "",
+      "source_url": "https://m.huxiu.com/article/456138.html",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "中国"
+    },
+    {
+      "name": "Adaily",
+      "who": "Piotr Bombol (cofounder; ex-Gameset exit); Mateusz Kaszyk; Jakub Osika",
+      "outcome": "Bootstrapped ~**3 years** from early 2023; claimed **~54k** users / **145** countries, **~1.2k** MAU",
+      "sector": "Poland (Warsaw) · B2B AI for advertising strategists",
+      "region": "Poland (Warsaw) · B2B AI for advertising",
+      "src": "global",
+      "story": "Adaily · Piotr Bombol / Mateusz Kaszyk / Jakub Osika (Poland · AI marketing research SaaS)：Bootstrapped ~**3 years** from early 2023; claimed **~54k** users / **145** countries, **~1.2k** MAU near end; campaign DB **4800+** in 17 languages; Google for Startups / Web Summit ALPHA.",
+      "lesson": "Global AI SaaS from CEE: distribution/credibility gap vs US/West capital; usage≠sustainable bootstrap; adoption > tech",
+      "timeline": "",
+      "source_url": "https://www.linkedin.com/posts/piotrbombol_adaily-is-closing-after-3-years-of-building-activity-7429448674763489283-9L3k",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "波兰"
+    },
+    {
+      "name": "Kriptomat",
+      "who": "Dejan Davidović (founder); peak ~**120** employees; hundreds of thousands of users claimed",
+      "outcome": "Founded **2018**; operated under legacy Estonian VASP/AML licence. Spent years preparing MiCA; filed",
+      "sector": "Estonia / EU · Crypto CASP",
+      "region": "Estonia / EU · Crypto CASP",
+      "src": "global",
+      "story": "Kriptomat · Dejan Davidović (Estonia · crypto exchange · MiCA wind-down)：Founded **2018**; operated under legacy Estonian VASP/AML licence. Spent years preparing MiCA; filed with Finantsinspektsioon ~Sep 2025. Process described as long/unpredictable (leadership change, hundreds o",
+      "lesson": "Compliance-first builders can still die on **process uncertainty**; orderly wind-down + trusted migration partner is a distinct exit genre; compare Cuenca (license zombie sale) and Brass (soft fold into Paystack)",
+      "timeline": "",
+      "source_url": "https://kriptomat.io/kriptomat-to-wind-down-operations-by-30-june-2026-and-what-comes-next-for-our-customers/",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "爱沙尼亚"
+    },
+    {
+      "name": "Communiti Labs",
+      "who": "Dan Ferguson (cofounder & CEO); Steven (cofounder); team Finn/Jarryd/Laura/Becky; Antler-backed",
+      "outcome": "~**3 years**; cold-called ~100 practitioners; co-designed 2024; launched Analysis 2025 — claimed **>",
+      "sector": "Australia (Victoria) · GovTech / community engagement AI",
+      "region": "Australia (Victoria) · GovTech / communi",
+      "src": "global",
+      "story": "Communiti Labs · Dan Ferguson / Steven (Australia · civic engagement AI)：~**3 years**; cold-called ~100 practitioners; co-designed 2024; launched Analysis 2025 — claimed **>2.5M** contributions processed, ~**5000** hours saved, auditable AI principle (“never ‘the platform told me",
+      "lesson": "Mission + strong product ≠ company; enthusiasm≠purchase conditions; health is a hard stop; compare Lived (Sally Metelerkamp health close) and Aletheia (choose to close while thriving — already archived)",
+      "timeline": "",
+      "source_url": "https://www.communitilabs.com/blogs/2026-07-13-closing-a-chapter-thank-you-from-communiti-labs",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "澳大利亚"
+    },
+    {
+      "name": "Qlode LTD",
+      "who": "Eleanora K. (founder; later Head of Global Marketing at LeverX); YC-network cofounder exited after ~1 year; later new partner",
+      "outcome": "~**2 years** bootstrapped; pivot after cofounder left; rebuilt in “silent mode”; claimed **1200+** w",
+      "sector": "Poland · B2B AI / digital solutions",
+      "region": "Poland · B2B AI / digital solutions",
+      "src": "global",
+      "story": "Qlode LTD · Eleanora K. (Poland · bootstrapped B2B AI solutions)：~**2 years** bootstrapped; pivot after cofounder left; rebuilt in “silent mode”; claimed **1200+** waitlist, **8 LOIs** (2 top-tier brands), **3 contracts** while MVP unfinished. **Officially shutting down** (Linked",
+      "lesson": "LOIs≠runway; early cofounder exit + rebuild tax; soft “life priority” exits still instructional for students",
+      "timeline": "",
+      "source_url": "https://www.linkedin.com/posts/eleanorakalinina-barkun_foundermode-startupjourney-activity-7468658666011877378-crV-",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "Poland · B2B AI / digital solutions"
     }
   ],
-  "total": 334
+  "total": 340
 }
