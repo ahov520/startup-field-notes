@@ -4843,7 +4843,178 @@
       "lifespan": "",
       "cause": "综合经营失败",
       "country": "Peru · LATAM foodtech / plant-based"
+    },
+    {
+      "name": "赛博炼金所",
+      "who": "赛博炼金所（数据分析出身；广州注册）",
+      "outcome": "**2025-12-08 正式解散**：约 **30 人**团队，约 **5 个月**烧掉约 **400 万**；私域近 **4500** 用户但收入近零；投资人资金链断裂后瞬间死亡",
+      "sector": "AI 内容工具 / 自动剪辑 Agent",
+      "region": "国内",
+      "src": "china",
+      "story": "赛博炼金所 · AI 自动剪辑公司：**2025-12-08 正式解散**：约 **30 人**团队，约 **5 个月**烧掉约 **400 万**；私域近 **4500** 用户但收入近零；投资人资金链断裂后瞬间死亡。① **自上而下找风口**（Gemini→社媒剪辑）而非自身痛点，变现周期长+算力烧钱；② **过度工程**：Java+Python 双栈、未验证前追求企业级架构，演示与迭代慢「三拍」；③ 创始人陷入算法细节、单核驱动，忘了找钱找人定战略；④ **拒接其他机构**（「背后有人不差钱」）→ 单一 LP 断供即死；⑤ 「不敢收钱的优化都是自嗨",
+      "lesson": "① **自上而下找风口**（Gemini→社媒剪辑）而非自身痛点，变现周期长+算力烧钱；② **过度工程**：Java+Python 双栈、未验证前追求企业级架构，演示与迭代慢「三拍」；③ 创始人陷入算法细节、单核驱动，忘了找钱找人定战略；④ **拒接其他机构**（「背后有人不差钱」）→ 单一 LP 断供即死；⑤ 「不敢收钱的优化都是自嗨」——有用户≠生意；⑥ 对照景恩：同属 AI 剪辑+单源融资猝死簇",
+      "timeline": "",
+      "source_url": "https://www.dtsola.com/archives/f05df5a6-0a46-42ac-8103-a9efb7e91b24",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "中国"
+    },
+    {
+      "name": "Superface",
+      "who": "Zdeněk \"Z\" Němec (CTO/co-founder); Radek Novotný (co-founder)",
+      "outcome": "**Shut down 2026** after ~5 years; **>$4M** raised; never meaningful PMF",
+      "sector": "Czechia / CEE · API integration → agents → agentic payments",
+      "region": "Czechia / CEE · API integration → agents",
+      "src": "global",
+      "story": "Superface (Czechia · autonomous API / agentic)：**Shut down 2026** after ~5 years; **>$4M** raised; never meaningful PMF。Serial \"too early\": Apiary→Good API→Superface; bottom-up to developers ≠ money; **hiring too big too early** then layoffs; asking vendors to commoditize their i",
+      "lesson": "Serial \"too early\": Apiary→Good API→Superface; bottom-up to developers ≠ money; **hiring too big too early** then layoffs; asking vendors to commoditize their integration moat; agent demos loved, production reliability & buyer readiness lagged; final agentic wallet (x402/UCP/ACP) still early while c",
+      "timeline": "",
+      "source_url": "https://zdne.org/articles/the-superface-story",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "Czechia / CEE · API integration → agents"
+    },
+    {
+      "name": "Hitchat",
+      "who": "Tomáš Podrazil, Radek Lunda (college classmates); angel Marek Štangl",
+      "outcome": "**Insolvency chaos ~2025**; founders removed Sep; planned optimistic Q4'24 revenue **~11.9M CZK** vs",
+      "sector": "Czechia · GenAI chat avatars / education narrative",
+      "region": "Czechia · GenAI chat avatars / education",
+      "src": "global",
+      "story": "Hitchat / RTM Labs (Czechia · AI celebrity avatars)：**Insolvency chaos ~2025**; founders removed Sep; planned optimistic Q4'24 revenue **~11.9M CZK** vs actual **4,000 CZK**。Campus-to-startup + single large angel (~€1M planned tranches) without VC co-invest; marketing stars vs un",
+      "lesson": "Campus-to-startup + single large angel (~€1M planned tranches) without VC co-invest; marketing stars vs unit economics; founder–investor mutual accusations (invoices via related cos, Mercedes lease); **\"no fund joined = signal\"** (Presto partner quote)",
+      "timeline": "",
+      "source_url": "https://cc.cz/mirili-na-100-tisic-uzivatelu-z-velkych-planu-nic-neni-kolem-ceskeho-ai-startupu-vypukl-insolvencni-chaos/",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "Czechia · GenAI chat avatars / education"
+    },
+    {
+      "name": "Marb.ai",
+      "who": "Vaclav Urbanek (co-founder)",
+      "outcome": "**Shut down end-2025** after ~6 months building AI assistant for Costa del Sol agents",
+      "sector": "Spain · real-estate AI SaaS",
+      "region": "Spain · real-estate AI SaaS",
+      "src": "global",
+      "story": "Marb.ai (Spain / Czech founder · PropTech AI)：**Shut down end-2025** after ~6 months building AI assistant for Costa del Sol agents。Model could outperform agents on clean listings (~90%) but **trust + incomplete market data** blocked adoption; capability ≠ willingness to rely; ve",
+      "lesson": "Model could outperform agents on clean listings (~90%) but **trust + incomplete market data** blocked adoption; capability ≠ willingness to rely; vertical professional markets need data completeness before AI edge matters",
+      "timeline": "",
+      "source_url": "https://www.linkedin.com/posts/vaclavurbanek_at-the-end-of-2025-we-shut-down-our-saas-activity-7437095500258029568-MvfE",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "Spain · real-estate AI SaaS"
+    },
+    {
+      "name": "feexers",
+      "who": "Founding team (ex-execs; ~25yo / \"30yrs experience\" self-irony)",
+      "outcome": "**Closed ~2025-08** despite App Store **4.7★**, NPS **73**, 91% five-star jobs",
+      "sector": "Romania · on-demand home services / PropTech",
+      "region": "Romania · on-demand home services / Prop",
+      "src": "global",
+      "story": "feexers (Romania · home services marketplace)：**Closed ~2025-08** despite App Store **4.7★**, NPS **73**, 91% five-star jobs。Built \"perfect\" transparent cashless platform into **~95% grey/cash market**; multihoming across 12–15 apps; disintermediation after first contact; IKEA ne",
+      "lesson": "Built \"perfect\" transparent cashless platform into **~95% grey/cash market**; multihoming across 12–15 apps; disintermediation after first contact; IKEA near-deal killed by EU HQ build-in-house; **culture & informality beat strategy**; VOC≠JTBD",
+      "timeline": "",
+      "source_url": "https://www.the-network.ro/single-post/feexers-autopsia-unui-startup-perfect-care-a-e%C8%99uat-spectaculos-%C8%99i-a-crezut-c%C4%83-poate-hackui-li",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "Romania · on-demand home services / Prop"
+    },
+    {
+      "name": "BRINOS",
+      "who": "Georgia Bucea (student founder; Computational Physics / CV)",
+      "outcome": "**Stopped** after EIT Digital (28DIGITAL) investment + therapy-center MVP; founder closed chapter po",
+      "sector": "Romania · impact deeptech / autism therapy documentation AI",
+      "region": "Romania · impact deeptech / autism thera",
+      "src": "global",
+      "story": "BRINOS (Romania · neurodivergence / CV healthtech)：**Stopped** after EIT Digital (28DIGITAL) investment + therapy-center MVP; founder closed chapter post **psychosis episode / month in institution** (fully recovered)。CEE healthcare fundraising aversion + academia–industry gap; **",
+      "lesson": "CEE healthcare fundraising aversion + academia–industry gap; **founder mental health as terminal constraint** even when tech thesis holds; \"you can just do things\" vs education-system authority mindset; needs patient capital",
+      "timeline": "",
+      "source_url": "https://seedcue.webflow.io/post/mental-health-is-a-huge-part-of-a-founders-journey-and-because-of-the-nature-of-our-work-it-is-also-the-most-fragile---georgia-bucea-ex-brinos-founder",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "Romania · impact deeptech / autism thera"
+    },
+    {
+      "name": "Allyourtime",
+      "who": "András Farkas; partners Lorand Fulop, Réka Kisgyörgy",
+      "outcome": "**Company closed from 2025-06-30**; missed market; five-figure € personal loss framed as tuition",
+      "sector": "Cluj / Romania · handwriting×digital planner",
+      "region": "Cluj / Romania · handwriting×digital pla",
+      "src": "global",
+      "story": "Allyourtime / Nu Am TImp SRL (Romania · hybrid planner)：**Company closed from 2025-06-30**; missed market; five-figure € personal loss framed as tuition。Vision + theory + partners ≠ market; hybrid analog-digital may be wrong timing vs paper decline; grateful failure narrative; co",
+      "lesson": "Vision + theory + partners ≠ market; hybrid analog-digital may be wrong timing vs paper decline; grateful failure narrative; company name irony (\"I Have No Time\")",
+      "timeline": "",
+      "source_url": "https://www.linkedin.com/posts/farkasandras_allyourtime-my-startup-failed-but-i-am-activity-7339900625968586753--Mb-",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "Cluj / Romania · handwriting×digital pla"
+    },
+    {
+      "name": "Crear Digital",
+      "who": "Bryan Cañón (COO) et al.",
+      "outcome": "**Not full shutdown** but severe hit: peak **24 people** on Builder.ai work, **$40–50k/mo**; payment",
+      "sector": "Colombia · digital design/UX outsourcing",
+      "region": "Colombia · digital design/UX outsourcing",
+      "src": "global",
+      "story": "Crear Digital × Builder.ai contagion (Colombia)：**Not full shutdown** but severe hit: peak **24 people** on Builder.ai work, **$40–50k/mo**; payments stopped after Aug 2024; forced peso debt to cover USD costs; rebuilding with local clients + unpaid-invoice insurance。Single mega-",
+      "lesson": "Single mega-client / hyped unicorn vendor = concentration risk; \"promised new round\" delay theater; fraud at buyer cascades to EM suppliers",
+      "timeline": "",
+      "source_url": "https://diariodelcauca.com.co/de-startup-sonada-a-leccion-millonaria-como-la-caida-de-builder-ai-golpeo-a-una-empresa-colombiana-que-aposto-por-la-ia/",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "Colombia · digital design/UX outsourcing"
+    },
+    {
+      "name": "subtl.ai",
+      "who": "Vishnu Ramesh (CEO); Manish Srivastava (IIIT-H); Sarath Chandra (left Dec 2023)",
+      "outcome": "**Shut ~2025-07**; ~**$200K / ₹1.8Cr** raised; ~**₹55L** revenue vs $500K FY25 target; site expired",
+      "sector": "India · enterprise GenAI search / internal Q&A automation",
+      "region": "India · enterprise GenAI search / intern",
+      "src": "global",
+      "story": "subtl.ai (India · enterprise GenAI \"private Google\")：**Shut ~2025-07**; ~**$200K / ₹1.8Cr** raised; ~**₹55L** revenue vs $500K FY25 target; site expired。Assumed verbal VC interest = money (\"reality check\"); angels helped, most VCs \"don't value founder time\"; even in AI funding bo",
+      "lesson": "Assumed verbal VC interest = money (\"reality check\"); angels helped, most VCs \"don't value founder time\"; even in AI funding boom, **narrative + traction mismatch** kills seed follow-on",
+      "timeline": "",
+      "source_url": "https://www.zeebiz.com/hindi/small-business/startup-shutdown-genai-startup-subtlai-shuts-business-after-failing-to-raise-enough-funds-know-all-about-it-223366",
+      "tags": [
+        "通宵探索"
+      ],
+      "capital": "",
+      "lifespan": "",
+      "cause": "综合经营失败",
+      "country": "India · enterprise GenAI search / intern"
     }
   ],
-  "total": 268
+  "total": 277
 }
