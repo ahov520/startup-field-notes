@@ -1,24 +1,24 @@
 {
   "total": 350,
-  "failed": 312,
+  "failed": 311,
   "success": 27,
   "capital_burned_note": "档案未统一金额，仅模式统计；部分条目从原文抽取了 capital 字段（有依据才写），不可加总为总烧钱额。",
   "top_causes": [
     {
       "cause": "综合经营失败",
-      "count": 88
+      "count": 70
     },
     {
       "cause": "伪需求 / PMF 缺失",
       "count": 11
     },
     {
-      "cause": "现金流断裂 / runway 耗尽",
-      "count": 9
+      "cause": "治理崩盘 / 内控失效",
+      "count": 7
     },
     {
-      "cause": "治理崩盘 / 内控失效",
-      "count": 8
+      "cause": "现金流断裂 / runway 耗尽",
+      "count": 7
     },
     {
       "cause": "政策/监管冲击",
@@ -26,7 +26,7 @@
     },
     {
       "cause": "硬件量产与供应链鸿沟",
-      "count": 7
+      "count": 6
     },
     {
       "cause": "获客成本不可持续",
