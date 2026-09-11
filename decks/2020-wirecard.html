@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"/>
+<title>Wirecard 复盘</title>
+<style>
+  :root { --bg:#0b0b0b; --fg:#f2f2f2; --muted:#9a9a9a; --accent:#7CFF6B; --card:#161616; --line:#2a2a2a; }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Noto Sans SC", sans-serif;
+    background:var(--bg); color:var(--fg); }
+  .wrap { max-width: 480px; margin: 0 auto; padding: 16px 16px 80px; }
+  .badge { display:inline-block; font-size:11px; letter-spacing:.08em; text-transform:uppercase;
+    color:#111; background:var(--accent); padding:4px 8px; font-weight:700; }
+  h1 { font-size: 1.55rem; line-height:1.25; margin:12px 0 8px; }
+  .sub { color:var(--muted); font-size:.92rem; line-height:1.5; margin-bottom:20px; }
+  .slide { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:18px 16px; margin:12px 0; }
+  .slide h2 { font-size:1.05rem; margin:0 0 10px; color:var(--accent); }
+  .slide p, .slide li { font-size:.95rem; line-height:1.65; color:#e8e8e8; }
+  .slide ul { padding-left: 1.1em; margin:8px 0; }
+  .kill { font-size:1.05rem; font-weight:650; line-height:1.55; border-left:3px solid var(--accent); padding-left:12px; margin:8px 0; }
+  table { width:100%; border-collapse:collapse; font-size:.82rem; }
+  th, td { border-bottom:1px solid var(--line); padding:8px 4px; text-align:left; vertical-align:top; }
+  th { color:var(--muted); font-weight:600; }
+  .foot { color:var(--muted); font-size:.75rem; margin-top:24px; line-height:1.5; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <span class="badge">CASE CUT</span>
+  <h1>Wirecard 复盘</h1>
+  <p class="sub">Markus Braun / Jan Marsalek · 德国支付科技<br/>核心命题：蓝筹身份救不了不可核验的现金</p>
+
+  <section class="slide" id="s1">
+    <h2>01 · 一句话要害</h2>
+    <p class="kill">Wirecard 证明欧洲支付科技能挤进 DAX、市值一度约 240 亿欧元；没证明第三方收单外包利润与托管现金能在审计拒签后仍被当成资产。约 19 亿欧元「失踪」后一周破产。</p>
+  </section>
+
+  <section class="slide" id="s2">
+    <h2>02 · 它做成了什么</h2>
+    <ul>
+      <li>2018.09 入 DAX → 峰值市值约 240 亿欧元量级</li>
+      <li>2019 FT 连曝 → KPMG 专项无法核实核心利润 → 2020.06.18 EY 拒签</li>
+      <li>2020.06.25 申请破产：DAX 成分股史上首例此类崩塌</li>
+    </ul>
+  </section>
+  <section class="slide" id="w1">
+    <h2>03 · 伤口① 现金不可核验</h2>
+    <p>TPA 利润与托管账户无法银行直连验真；伪造确认函一破，市值归零。</p>
+  </section>
+  <section class="slide" id="w2">
+    <h2>04 · 伤口② 五道防线失灵</h2>
+    <p>管理层、监事会、审计、财报执法与监管几乎同时失守；质疑者曾被当成敌人。</p>
+  </section>
+  <section class="slide" id="w3">
+    <h2>05 · 伤口③ 蓝筹信任补贴</h2>
+    <p>指数席位降低怀疑成本，放大欺诈外部性。</p>
+  </section>
+  <section class="slide" id="w4">
+    <h2>06 · 伤口④ 社会账在二级市场</h2>
+    <p>投资者与债权人承接主冲击；支付商户侧相对次之。</p>
+  </section>
+  <section class="slide" id="cmp">
+    <h2>对照</h2>
+    <table>
+      <tr><th>案例</th><th>要点</th></tr>
+<tr><td>瑞幸等</td><td>虚增被戳破 → 退市/重整</td></tr>
+<tr><td>Wirecard</td><td>虚假 TPA + 伪造现金 → DAX 破产</td></tr>
+<tr><td>健康支付公司</td><td>慢，但现金在银行账户里</td></tr>
+    </table>
+  </section>
+
+  <section class="slide" id="tips">
+    <h2>刀口建议</h2>
+    <ul>
+<li>托管现金必须银行直连验真</li>
+<li>别用诉讼替代开放数据室</li>
+<li>监事会要问清账号与查账权</li>
+<li>跨境外包利润降权</li>
+<li>蓝筹身份要配更严内控</li>
+    </ul>
+  </section>
+
+  <section class="slide" id="end">
+    <h2>结论</h2>
+    <p class="kill">增长叙事、指数席位与审计签字，替代不了银行账户里的真实余额。</p>
+  </section>
+
+  <p class="foot">大学生创业指南 · 2026-09-11 · 仅公开报道 · 详见 2020-wirecard.md</p>
+</div>
+</body>
+</html>

@@ -1,0 +1,1674 @@
+{
+  "updated": "2026-09-11",
+  "decks": [
+    {
+      "name": "波形智能 / 蛙蛙写作",
+      "case_name": null,
+      "slug": "2024-wawa-writing-oppo",
+      "file": "2024-wawa-writing-oppo.html",
+      "angle": "好看的产品指标 ≠ 能独立活下去的生意",
+      "status": "done"
+    },
+    {
+      "name": "ofo",
+      "case_name": "ofo",
+      "slug": "2017-ofo",
+      "file": "2017-ofo.html",
+      "angle": "风口上的规模 ≠ 可治理、可结算的生意；押金是信任负债不是燃料",
+      "status": "done"
+    },
+    {
+      "name": "泡否",
+      "case_name": "泡否",
+      "slug": "泡否",
+      "file": "泡否.html",
+      "angle": "个人品牌流量 ≠ 可复制的门店与供应链生意",
+      "status": "done"
+    },
+    {
+      "name": "景恩 AI 剪辑",
+      "case_name": "景恩 AI 剪辑",
+      "slug": "jingen-ai-edit",
+      "file": "jingen-ai-edit.html",
+      "angle": "产品有早期信号 ≠ 融资结构扛得住意外；口头续投不算 runway",
+      "status": "done"
+    },
+    {
+      "name": "Byju's",
+      "case_name": "Byju's",
+      "slug": "2024-byjus",
+      "file": "2024-byjus.html",
+      "angle": "疫情红利与并购帝国 ≠ 可审计可结算的公司；治理先于现金崩塌",
+      "status": "done"
+    },
+    {
+      "name": "Northvolt",
+      "case_name": "Northvolt",
+      "slug": "2025-northvolt",
+      "file": "2025-northvolt.html",
+      "angle": "产业政策与订单簿 ≠ 可交付量产；一周现金击穿欧洲电池希望",
+      "status": "done"
+    },
+    {
+      "name": "乐乐茶",
+      "case_name": "乐乐茶",
+      "slug": "2025-lelecha",
+      "file": "2025-lelecha.html",
+      "angle": "爆品网红 ≠ 夹心层万店成本曲线；加盟续命把风险池甩给加盟商",
+      "status": "done"
+    },
+    {
+      "name": "自嗨锅",
+      "case_name": "自嗨锅",
+      "slug": "2026-zihaiguo",
+      "file": "2026-zihaiguo.html",
+      "angle": "资本催熟的首购神话 ≠ 可复购的组织与供应链；营销买不来第二次",
+      "status": "done"
+    },
+    {
+      "name": "blank me / 半分一",
+      "case_name": "blank me",
+      "slug": "2026-blank-me",
+      "file": "2026-blank-me.html",
+      "angle": "直播杠杆与PE意向 ≠ 信用与现金；隐瞒未决法律程序是信用死刑",
+      "status": "done"
+    },
+    {
+      "name": "库迪咖啡",
+      "case_name": "库迪咖啡",
+      "slug": "2026-cotti-coffee",
+      "file": "2026-cotti-coffee.html",
+      "angle": "补贴期万店规模 ≠ 无补贴单店利润；联营把波动外置给末梢",
+      "status": "done"
+    },
+    {
+      "name": "Hokodo",
+      "case_name": "Hokodo",
+      "slug": "2025-hokodo",
+      "file": "2025-hokodo.html",
+      "angle": "放款量与牌照 ≠ 可承受资金成本的平台；ICP 过宽+误判 PMF 后清盘转咨询",
+      "status": "done"
+    },
+    {
+      "name": "Attabotics",
+      "case_name": "Attabotics",
+      "slug": "2025-attabotics",
+      "file": "2025-attabotics.html",
+      "angle": "2.2 亿加元叙事资本 ≠ 可投保收入曲线；NOI 后资产出售而非原主体高歌",
+      "status": "done"
+    },
+    {
+      "name": "奈雪的茶",
+      "case_name": "奈雪的茶",
+      "slug": "2025-nayuki",
+      "file": "2025-nayuki.html",
+      "angle": "第一股与大店第三空间 ≠ 外卖化后的单店自由；仍在运营的缩店+加盟承压",
+      "status": "done"
+    },
+    {
+      "name": "霸王茶姬",
+      "case_name": "霸王茶姬",
+      "slug": "2025-chagee",
+      "file": "2025-chagee.html",
+      "angle": "美股第一股与大单品加盟狂奔 ≠ 加盟商可兑现的回本表；仍在运营的分成重构+直营承压",
+      "status": "done"
+    },
+    {
+      "name": "Favro",
+      "case_name": "Favro",
+      "slug": "2026-favro",
+      "file": "2026-favro.html",
+      "angle": "标杆客户与 Seed 销售扩张 ≠ 可扛 AI 军备赛的利润表；减值后破产、创始人拟回购",
+      "status": "done"
+    },
+    {
+      "name": "Phind",
+      "case_name": "Phind",
+      "slug": "2026-phind",
+      "file": "2026-phind.html",
+      "angle": "开发者答案引擎先发口碑 ≠ 可防御分发；Bessemer 新钱约六周后关停（非希腊设计案）",
+      "status": "done"
+    },
+    {
+      "name": "Kintsugi",
+      "case_name": "Kintsugi",
+      "slug": "2026-kintsugi",
+      "file": "2026-kintsugi.html",
+      "angle": "约3000万美元与四年FDA ≠ VC的ARR时钟；商业关停后开源是止损不是胜利",
+      "status": "done"
+    },
+    {
+      "name": "Poppy",
+      "case_name": "Poppy",
+      "slug": "2026-poppy",
+      "file": "2026-poppy.html",
+      "angle": "被爱的主动助手体验 ≠ 消费级可付的推理空转账单；日落删数据",
+      "status": "done"
+    },
+    {
+      "name": "Embodied / Moxie",
+      "case_name": null,
+      "slug": "2024-embodied-moxie",
+      "file": "2024-embodied-moxie.html",
+      "angle": "云端人格的儿童机器人：融资断供=同伴死亡；OTA/开源只是损害控制",
+      "status": "done"
+    },
+    {
+      "name": "拉勾网",
+      "case_name": "拉勾网",
+      "slug": "2026-lagou",
+      "file": "2026-lagou.html",
+      "angle": "垂直招聘入口与1.2亿美元控股 ≠ 换挡期可结算平台；主动破产重整",
+      "status": "done"
+    },
+    {
+      "name": "Good Glamm / Glam",
+      "case_name": "Glam",
+      "slug": "2025-good-glamm",
+      "file": "2025-good-glamm.html",
+      "angle": "House-of-brands与约3.42亿美元动量 ≠ 可整合单位经济；债权人按品牌拆卖",
+      "status": "done"
+    },
+    {
+      "name": "Volocopter",
+      "case_name": "Volocopter",
+      "slug": "2024-volocopter",
+      "file": "2024-volocopter.html",
+      "angle": "DOA与数亿美元股权 ≠ 合格证前现金；破产后约千万欧元资产包接力",
+      "status": "done"
+    },
+    {
+      "name": "Merqueo",
+      "case_name": "Merqueo",
+      "slug": "2025-merqueo",
+      "file": "2025-merqueo.html",
+      "angle": "疫情GMV与线上硬折扣 ≠ 可结算最后一公里；月烧约450–500万美元后全面关停",
+      "status": "done"
+    },
+    {
+      "name": "ClimateAi",
+      "case_name": "ClimateAi",
+      "slug": "2026-climateai",
+      "file": "2026-climateai.html",
+      "angle": "开创气候适应品类 ≠ 可重复软件预算；约3800万美元后有序退资关停",
+      "status": "done"
+    },
+    {
+      "name": "Cydoc",
+      "case_name": "Cydoc",
+      "slug": "2025-cydoc",
+      "file": "2025-cydoc.html",
+      "angle": "专利与省时十分钟 ≠ 诊所可付单位经济；对接税与独创分发绞杀后关停",
+      "status": "done"
+    },
+    {
+      "name": "Arch Finance",
+      "case_name": "Arch Finance",
+      "slug": "2026-arch-finance",
+      "file": "2026-arch-finance.html",
+      "angle": "SoftBank系Seed与峰值约800万美元AUM ≠ 能覆盖编制的管理费；FTX后续轮断供，关停提现",
+      "status": "done"
+    },
+    {
+      "name": "Liquid Wind",
+      "case_name": "Liquid Wind",
+      "slug": "2026-liquid-wind",
+      "file": "2026-liquid-wind.html",
+      "angle": "约6400万欧元与产业股东 ≠ 可银行化长期offtake；参考项目取消后开发商股权烧穿",
+      "status": "done"
+    },
+    {
+      "name": "Ringan",
+      "case_name": "Ringan",
+      "slug": "2025-ringan",
+      "file": "2025-ringan.html",
+      "angle": "平安系全牌照与百万waitlist ≠ 可摊销合规成本的贷款余额；账上约168亿印尼盾现金时主动交牌",
+      "status": "done"
+    },
+    {
+      "name": "Spoony",
+      "case_name": "Spoony",
+      "slug": "2026-spoony",
+      "file": "2026-spoony.html",
+      "angle": "社区真爱与设计奖 ≠ AI窗口下可续命变现；拒AI陪伴后融资失败关停",
+      "status": "done"
+    },
+    {
+      "name": "One Small Step",
+      "case_name": "One Small Step",
+      "slug": "2026-one-small-step",
+      "file": "2026-one-small-step.html",
+      "angle": "吨级减排与苹果精选 ≠ 可复利单位经济；小市场单人结构后注销",
+      "status": "done"
+    },
+    {
+      "name": "Myssyfarmi",
+      "case_name": "Myssyfarmi",
+      "slug": "2026-myssyfarmi",
+      "file": "2026-myssyfarmi.html",
+      "angle": "十万顶与Vogue ≠ 服装量价数学；手织固本+季节性后清仓破产",
+      "status": "done"
+    },
+    {
+      "name": "Glam（沙特 Zid）",
+      "case_name": "Glam",
+      "slug": "2026-glam-zid",
+      "file": "2026-glam-zid.html",
+      "angle": "月净利约3.5–5万SAR的平台缝隙 ≠ 宿主免费化+短信监管后仍可防御；MRR≈8000后关停",
+      "status": "done"
+    },
+    {
+      "name": "AirVitalize",
+      "case_name": "AirVitalize",
+      "slug": "2026-airvitalize",
+      "file": "2026-airvitalize.html",
+      "angle": "两地实测与20万+触达 ≠ 可发薪编制；一人全职+融资空窗后关停",
+      "status": "done"
+    },
+    {
+      "name": "Atalanta Climate",
+      "case_name": "Atalanta Climate",
+      "slug": "2026-atalanta-climate",
+      "file": "2026-atalanta-climate.html",
+      "angle": "气候周与千级预订单 ≠ 可量产权利链；IP授权破裂后约15万美元退款退资停工",
+      "status": "done"
+    },
+    {
+      "name": "Chimoney",
+      "case_name": "Chimoney",
+      "slug": "2026-chimoney",
+      "file": "2026-chimoney.html",
+      "angle": "产品与早牌照 ≠ 可覆盖多司法辖区的分发；四年不足约100万美元后有序退款关停",
+      "status": "done"
+    },
+    {
+      "name": "FoodCourt",
+      "case_name": "FoodCourt",
+      "slug": "2026-foodcourt",
+      "file": "2026-foodcourt.html",
+      "angle": "宣称盈利与约430万美元ARR ≠ 能发薪的营运资金；欠薪罢工后暂停重整",
+      "status": "done"
+    },
+    {
+      "name": "Edukoya",
+      "case_name": "Edukoya",
+      "slug": "2025-edukoya",
+      "file": "2025-edukoya.html",
+      "angle": "创纪录约350万美元pre-seed与活跃口径 ≠ 市场就绪；战略关停并退还剩余资本",
+      "status": "done"
+    },
+    {
+      "name": "Log9 Materials",
+      "case_name": "Log9 Materials",
+      "slug": "2025-log9-materials",
+      "file": "2025-log9-materials.html",
+      "angle": "逾6000万美元与LTO/建厂叙事 ≠ 车队愿付；约6.7亿卢比违约后NCLT CIRP",
+      "status": "done"
+    },
+    {
+      "name": "Esperanto Technologies",
+      "case_name": "Esperanto Technologies",
+      "slug": "2025-esperanto",
+      "file": "2025-esperanto.html",
+      "angle": "千核能效硅片 ≠ hyperscaler采购；2025.07关停硅业务、10月IP开源收走",
+      "status": "done"
+    },
+    {
+      "name": "Ula",
+      "case_name": "Ula",
+      "slug": "2025-ula",
+      "file": "2025-ula.html",
+      "angle": "逾1.4亿美元与峰值GMV ≠ 寒冬全栈单位经济；账上约5000万美元时返还约三成",
+      "status": "done"
+    },
+    {
+      "name": "Tract",
+      "case_name": "Tract",
+      "slug": "2025-tract",
+      "file": "2025-tract.html",
+      "angle": "住房危机叙事与规划 AI ≠ 可支付 ARR；约£74.4万后零收入退资",
+      "status": "done"
+    },
+    {
+      "name": "Sendo",
+      "case_name": "Sendo / Sendo Farm",
+      "slug": "2025-sendo",
+      "file": "2025-sendo.html",
+      "angle": "本土#2与约10亿美元GMV ≠ 资本耐力；学对手补贴后主站清零、Farm停运",
+      "status": "done"
+    },
+    {
+      "name": "InfographsAI",
+      "case_name": "InfographsAI",
+      "slug": "2025-infographsai",
+      "file": "2025-infographsai.html",
+      "angle": "约2万美元与300天完美原型 ≠ 分发；首发自述0用户0收入",
+      "status": "done"
+    },
+    {
+      "name": "NocNoc",
+      "case_name": "NocNoc",
+      "slug": "2026-nocnoc",
+      "file": "2026-nocnoc.html",
+      "angle": "产业资本与国家级叙事 ≠ 补贴战十年耐心；SCC约18亿泰铢非现金亏损后有序关停",
+      "status": "done"
+    },
+    {
+      "name": "ETLR",
+      "case_name": "ETLR",
+      "slug": "2026-etlr",
+      "file": "2026-etlr.html",
+      "angle": "约200注册与温和好评 ≠ 可付费痛点；关停无人挽留即无PMF",
+      "status": "done"
+    },
+    {
+      "name": "Montara",
+      "case_name": "Montara",
+      "slug": "2026-montara",
+      "file": "2026-montara.html",
+      "angle": "铁粉客户与540万美元种子轮 ≠ 可扩展销售；赋能分析师撞上工程权力结构",
+      "status": "done"
+    },
+    {
+      "name": "eFishery",
+      "case_name": "eFishery",
+      "slug": "2025-efishery",
+      "file": "2025-efishery.html",
+      "angle": "独角兽估值与影响力叙事 ≠ 可审计收入；治理崩在现金崩之前",
+      "status": "done"
+    },
+    {
+      "name": "Watcha",
+      "case_name": "Watcha",
+      "slug": "2025-watcha",
+      "file": "2025-watcha.html",
+      "angle": "峰值估值可转债 = 永久接盘地板；个性化推荐 ≠ 片库军备赛护城河",
+      "status": "done"
+    },
+    {
+      "name": "Trela",
+      "case_name": "Trela",
+      "slug": "2026-trela",
+      "file": "2026-trela.html",
+      "angle": "正贡献边际与增长 ≠ 可断粮生存；微利零售缺下一轮仍会饿死",
+      "status": "done"
+    },
+    {
+      "name": "Minimus",
+      "case_name": "Minimus",
+      "slug": "2026-minimus",
+      "file": "2026-minimus.html",
+      "angle": "明星履历与约5100万美元种子轮 ≠ 可扩展商业动能；账上仍有现金时主动退约1000万美元",
+      "status": "done"
+    },
+    {
+      "name": "Snaphunt",
+      "case_name": "Snaphunt",
+      "slug": "2026-snaphunt",
+      "file": "2026-snaphunt.html",
+      "angle": "投资人承诺 ≠ 现金到账；约280万美元延迟后，1.5万雇主叙事也换不成发薪日",
+      "status": "done"
+    },
+    {
+      "name": "QiOVA",
+      "case_name": "QiOVA",
+      "slug": "2026-qiova",
+      "file": "2026-qiova.html",
+      "angle": "近盈亏平衡与工业动量 ≠ 抗订单冰冻；2025骤冷后司法清算、无接手",
+      "status": "done"
+    },
+    {
+      "name": "Coordinal",
+      "case_name": "Coordinal",
+      "slug": "2026-coordinal",
+      "file": "2026-coordinal.html",
+      "angle": "12.5万美元SAFE够活不够做成；外部可验证里程碑晚于平台幻想后休眠",
+      "status": "done"
+    },
+    {
+      "name": "RendeRex",
+      "case_name": "RendeRex",
+      "slug": "2026-renderex",
+      "file": "2026-renderex.html",
+      "angle": "独家GPU货源与十万美元级水冷爆款≠护城河；砍稳定合同后管制九个月击穿",
+      "status": "done"
+    },
+    {
+      "name": "Kalulu Hatcheries",
+      "case_name": "Kalulu Hatcheries",
+      "slug": "2026-kalulu-hatcheries",
+      "file": "2026-kalulu-hatcheries.html",
+      "angle": "周产约1.5万雏≠生意；无品种无链条无价格地板时设备只是亏损加速器",
+      "status": "done"
+    },
+    {
+      "name": "BionicHIVE",
+      "case_name": "BionicHIVE",
+      "slug": "2024-bionichive",
+      "file": "2024-bionichive.html",
+      "angle": "亚马逊背书与马斯克推文 ≠ 战时可续航；总部成军事区后外资断供清算",
+      "status": "done"
+    },
+    {
+      "name": "Polyfos",
+      "case_name": "Polyfos",
+      "slug": "2025-polyfos",
+      "file": "2025-polyfos.html",
+      "angle": "约80–85万美元孵化器路径 ≠ 采购承诺与跟投；战争打断PoC后冰期关停",
+      "status": "done"
+    },
+    {
+      "name": "Qtrove",
+      "case_name": "Qtrove",
+      "slug": "2026-qtrove",
+      "file": "2026-qtrove.html",
+      "angle": "广告换股权堆分发 ≠ 复购数学；印度大众不付Etsy式独特性溢价后关停",
+      "status": "done"
+    },
+    {
+      "name": "Tallarna",
+      "case_name": "Tallarna",
+      "slug": "2025-tallarna",
+      "file": "2025-tallarna.html",
+      "angle": "监管与净零叙事 ≠ 可结算改造流水；ABB/AmTrust背书仍在2025.12进入administration",
+      "status": "done"
+    },
+    {
+      "name": "Chickin Worx（利雅得店）",
+      "case_name": null,
+      "slug": "2026-chickin-worx-riyadh",
+      "file": "2026-chickin-worx-riyadh.html",
+      "angle": "近2000条4.8星好评与能撑 ≠ 该撑；促销三角与全成本未重验后主动关店",
+      "status": "done"
+    },
+    {
+      "name": "Strait Grains",
+      "case_name": "Strait Grains",
+      "slug": "2026-strait-grains",
+      "file": "2026-strait-grains.html",
+      "angle": "峰值近200碗与利基选址 ≠ 开业缓冲；促销悬崖与偿债顺序错置后关停",
+      "status": "done"
+    },
+    {
+      "name": "Actins AI",
+      "case_name": "Actins AI",
+      "slug": "2026-actins-ai",
+      "file": "2026-actins-ai.html",
+      "angle": "五位数营收与六位数意向 ≠ 分发窗口；市场快于融资、深口袋先占安装位后关停",
+      "status": "done"
+    },
+    {
+      "name": "Exhale Aerosystems",
+      "case_name": "Exhale Aerosystems",
+      "slug": "2026-exhale-aerosystems",
+      "file": "2026-exhale-aerosystems.html",
+      "angle": "移动 DAC 概念有趣 ≠ 可执行；甄别死胡同本身耗尽跑道后 placed on ice",
+      "status": "done"
+    },
+    {
+      "name": "Condor Computing",
+      "case_name": "Condor Computing",
+      "slug": "2026-condor-computing",
+      "file": "2026-condor-computing.html",
+      "angle": "Hot Chips 与仿真跑 Linux ≠ 订单簿；母公司降本关闭无关键客户的奥斯汀旗舰",
+      "status": "done"
+    },
+    {
+      "name": "Vibe AI",
+      "case_name": "Vibe AI",
+      "slug": "2026-vibe-ai",
+      "file": "2026-vibe-ai.html",
+      "angle": "周1真爱用 ≠ 生意；长上下文算力成本压过愿付价，负单位经济下增长加深亏损后关停",
+      "status": "done"
+    },
+    {
+      "name": "Ravah",
+      "case_name": "Ravah",
+      "slug": "2026-ravah",
+      "file": "2026-ravah.html",
+      "angle": "约100人候补与论坛叫好 ≠ PMF；兴趣当验证后持续扩愿景、联创权责未前置后关停",
+      "status": "done"
+    },
+    {
+      "name": "MonitorIntent",
+      "case_name": "MonitorIntent",
+      "slug": "2026-monitorintent",
+      "file": "2026-monitorintent.html",
+      "angle": "7付费客户与单位毛利为正 ≠ 可活；固定成本+爬虫护城河商品化+平台拆基后关停",
+      "status": "done"
+    },
+    {
+      "name": "Zinc",
+      "case_name": "Zinc",
+      "slug": "2025-zinc",
+      "file": "2025-zinc.html",
+      "angle": "痛点真实与近六位数企业单 ≠ 可采购；不紧迫+买家错位+无SOC2后跑道尽",
+      "status": "done"
+    },
+    {
+      "name": "Vivra",
+      "case_name": "Vivra",
+      "slug": "2025-vivra",
+      "file": "2025-vivra.html",
+      "angle": "约10万美元ARR ≠ 护城河；长链精度地狱+AI钩子过期+渠道锁死后关停",
+      "status": "done"
+    },
+    {
+      "name": "Content Goblin",
+      "case_name": "Content Goblin",
+      "slug": "2025-content-goblin",
+      "file": "2025-content-goblin.html",
+      "angle": "约1.5万美元MRR ≠ 可防守；单网红渠道+广告网政策+薄AI毛利后关停",
+      "status": "done"
+    },
+    {
+      "name": "Pragmatic / Jamie",
+      "case_name": "Pragmatic / Jamie",
+      "slug": "2025-pragmatic-jamie",
+      "file": "2025-pragmatic-jamie.html",
+      "angle": "技术惊艳与真爱用户 ≠ 付费留存达靶；预设杀线后全额退款清盘",
+      "status": "done"
+    },
+    {
+      "name": "Zinnia",
+      "case_name": "Zinnia",
+      "slug": "2026-zinnia",
+      "file": "2026-zinnia.html",
+      "angle": "主数据源丢失+咨询10×SaaS后，拒绝光学收购、诚实关停",
+      "status": "done"
+    },
+    {
+      "name": "Aletheia & Phos",
+      "case_name": "Aletheia & Phos",
+      "slug": "2026-aletheia-phos",
+      "file": "2026-aletheia-phos.html",
+      "angle": "仍赚钱的十三年品牌可主动关闭；胜任力闭环与沉默税才是刀口",
+      "status": "done"
+    },
+    {
+      "name": "Wildland",
+      "case_name": "Wildland",
+      "slug": "2025-wildland",
+      "file": "2025-wildland.html",
+      "angle": "毒橡护肤「更好产品」≠生意；冷漠竞品+小客单季节库存+0→1硬扛2→10",
+      "status": "done"
+    },
+    {
+      "name": "Limatech",
+      "case_name": "Limatech",
+      "slug": "2026-limatech",
+      "file": "2026-limatech.html",
+      "angle": "EASA认证+空客试飞≠订单；工厂与地缘MoU把深科技钉上现金流墙",
+      "status": "done"
+    },
+    {
+      "name": "Curnon",
+      "case_name": "Curnon",
+      "slug": "2026-curnon",
+      "file": "2026-curnon.html",
+      "angle": "Shark Tank声量≠中档利润表；夹心手表在行业仍增时静默收束",
+      "status": "done"
+    },
+    {
+      "name": "Superface",
+      "case_name": "Superface",
+      "slug": "2026-superface",
+      "file": "2026-superface.html",
+      "angle": "太早与开发者热爱≠PMF；逾400万美元后仍无实质契合，别逼厂商拆集成护城河",
+      "status": "done"
+    },
+    {
+      "name": "feexers",
+      "case_name": "feexers",
+      "slug": "2025-feexers",
+      "file": "2025-feexers.html",
+      "angle": "4.7★与NPS73≠生意；约95%灰市+多栖脱媒后，完美合规成烧钱加速器",
+      "status": "done"
+    },
+    {
+      "name": "Hitchat",
+      "case_name": "Hitchat",
+      "slug": "2025-hitchat",
+      "file": "2025-hitchat.html",
+      "angle": "计划约1188万克朗vs实际约4000；单一大天使无机构共投后治理与破产程序齐爆",
+      "status": "done"
+    },
+    {
+      "name": "subtl.ai",
+      "case_name": "subtl.ai",
+      "slug": "2025-subtl-ai",
+      "file": "2025-subtl-ai.html",
+      "angle": "大客户Logo与实验室血统≠种子轮；口头感兴趣折现为零，API无SDK只是联系我们",
+      "status": "done"
+    },
+    {
+      "name": "Wahine Capital",
+      "case_name": "Wahine Capital",
+      "slug": "2026-wahine-capital",
+      "file": "2026-wahine-capital.html",
+      "angle": "联合国奖与加速器入围≠PMF；社会痛点真换不来低频保险箱的月月续费",
+      "status": "done"
+    },
+    {
+      "name": "Enéad",
+      "case_name": "Enéad",
+      "slug": "2026-enead",
+      "file": "2026-enead.html",
+      "angle": "TRL6与百万欧元LOI≠现金；约300万欧元工业化轮融不满一年后司法清算",
+      "status": "done"
+    },
+    {
+      "name": "The Ayurveda Co.",
+      "case_name": "The Ayurveda Co.",
+      "slug": "2025-the-ayurveda-co",
+      "file": "2025-the-ayurveda-co.html",
+      "angle": "渠道与编制跑在单位经济前；小婴儿有太多妈妈——过早高管化是带编制的负债",
+      "status": "done"
+    },
+    {
+      "name": "Shipmates",
+      "case_name": "Shipmates",
+      "slug": "2025-shipmates",
+      "file": "2025-shipmates.html",
+      "angle": "月数万票与 ARR 仍死于应收与快递价格战；收不回的经常性收入不是护城河",
+      "status": "done"
+    },
+    {
+      "name": "Magic Genomix",
+      "case_name": "Magic Genomix",
+      "slug": "2026-magic-genomix",
+      "file": "2026-magic-genomix.html",
+      "angle": "Inserm IP 签了仍司法清算；临床队列按年、创业现金按月——双时钟合不上就停表",
+      "status": "done"
+    },
+    {
+      "name": "Medial",
+      "case_name": "Medial",
+      "slug": "2026-medial",
+      "file": "2026-medial.html",
+      "angle": "节目与50万用户光环≠可结算ARR；变现空心+A轮关不上后清盘",
+      "status": "done"
+    },
+    {
+      "name": "fizz.hu",
+      "case_name": "fizz.hu",
+      "slug": "2026-fizz-hu",
+      "file": "2026-fizz-hu.html",
+      "angle": "银行runway≠电商单位经济；约13亿福林收入对近85亿亏损后关停",
+      "status": "done"
+    },
+    {
+      "name": "Tryo",
+      "case_name": "Tryo",
+      "slug": "2026-tryo",
+      "file": "2026-tryo.html",
+      "angle": "先试后付击中痛点仍死于履约成本；退还余资是纪律不是软弱",
+      "status": "done"
+    },
+    {
+      "name": "Jamun AI / Amogha AI",
+      "case_name": "Jamun AI",
+      "slug": "2026-jamun-ai",
+      "file": "2026-jamun-ai.html",
+      "angle": "约1万公测用户与愿付信号≠种子轮证明；敏感赛道自举尽后关停",
+      "status": "done"
+    },
+    {
+      "name": "Marb.ai",
+      "case_name": "Marb.ai",
+      "slug": "2026-marb-ai",
+      "file": "2026-marb-ai.html",
+      "angle": "干净盘上可快过经纪人≠中介愿信愿付；CRM文化与残缺数据后约6月关停",
+      "status": "done"
+    },
+    {
+      "name": "GenesisX",
+      "case_name": "GenesisX",
+      "slug": "2026-genesisx",
+      "file": "2026-genesisx.html",
+      "angle": "首年有收入与提速案例≠可扩张速度；教育多于销售后约14个月跑道尽",
+      "status": "done"
+    },
+    {
+      "name": "Yoleni’s",
+      "case_name": "Yoleni’s",
+      "slug": "2026-yolenis",
+      "file": "2026-yolenis.html",
+      "angle": "换东家与短租叠罗汉救不了偿付；旗舰叙事十三年，雅典法院一纸收场",
+      "status": "done"
+    },
+    {
+      "name": "MindWave",
+      "case_name": "MindWave",
+      "slug": "2026-mindwave",
+      "file": "2026-mindwave.html",
+      "angle": "真实回访与治疗师兴趣≠10倍；高情感切换赛道里「更温柔」过不了关",
+      "status": "done"
+    },
+    {
+      "name": "Coziza",
+      "case_name": "Coziza",
+      "slug": "2026-coziza",
+      "file": "2026-coziza.html",
+      "angle": "绕开中介=自建经纪；阿克拉仍过宽+自举双burn后关停",
+      "status": "done"
+    },
+    {
+      "name": "InstantDB",
+      "case_name": "InstantDB",
+      "slug": "2026-instantdb",
+      "file": "2026-instantdb.html",
+      "angle": "1.7万用户/40万应用≠独立云；团队进OpenAI、托管云按日程日落",
+      "status": "done"
+    },
+    {
+      "name": "garnix",
+      "case_name": "garnix",
+      "slug": "2026-garnix",
+      "file": "2026-garnix.html",
+      "angle": "Nix社区口碑≠可规模化托管；Shopify收编后关云并删光用户数据",
+      "status": "done"
+    },
+    {
+      "name": "Clead",
+      "case_name": "Clead",
+      "slug": "2025-clead",
+      "file": "2025-clead.html",
+      "angle": "品牌先于验证+集成墙+路线分裂；学生牙科BI约一年主动收束",
+      "status": "done"
+    },
+    {
+      "name": "抱抱窝",
+      "case_name": "抱抱窝",
+      "slug": "2025-baobaowo",
+      "file": "2025-baobaowo.html",
+      "angle": "问卷/陈述偏好 ≠ 付费闭环；未验证扩团队与过早优化烧光约45万自有资金",
+      "status": "done"
+    },
+    {
+      "name": "考虫",
+      "case_name": "考虫",
+      "slug": "2024-kaochong",
+      "file": "2024-kaochong.html",
+      "angle": "考试生态与名师红利 ≠ 可穿越退潮的盈利结构；体面清算是能力不是免死",
+      "status": "done"
+    },
+    {
+      "name": "优胜教育",
+      "case_name": "优胜教育",
+      "slug": "2020-yousheng-education",
+      "file": "2020-yousheng-education.html",
+      "angle": "零融资千校规模 ≠ 抗危机现金厚度；加盟接盘+预收在疫情下挤兑式崩盘",
+      "status": "done"
+    },
+    {
+      "name": "HOMEE／合宜家居",
+      "case_name": null,
+      "slug": "2026-homee",
+      "file": "2026-homee.html",
+      "angle": "辉达背书≠银行放行权；董事会解任后拒任致真空，预收款家居停摆变消保案",
+      "status": "done"
+    },
+    {
+      "name": "达闼科技",
+      "case_name": "达闼科技",
+      "slug": "2024-cloudminds",
+      "file": "2024-cloudminds.html",
+      "angle": "云端大脑先驱遇端侧拐点+高估值夹缝；造血缺位裁员欠薪，先驱先烈化",
+      "status": "done"
+    },
+    {
+      "name": "Manus／蝴蝶效应",
+      "case_name": "Manus / 蝴蝶效应",
+      "slug": "2026-manus",
+      "file": "2026-manus.html",
+      "angle": "Meta约20亿收购被安审禁止撤销；中资回购独立——跨境换壳控制权走不通",
+      "status": "done"
+    },
+    {
+      "name": "Clico／Invoko（SophiaPro／Karis）",
+      "case_name": "Clico/Invoko",
+      "slug": "2026-clico-invoko",
+      "file": "2026-clico-invoko.html",
+      "angle": "垂直Agent逻辑自洽一年后被迫pivot；融资虚荣心+产品商业模式错配的活体复盘",
+      "status": "done"
+    },
+    {
+      "name": "健新原力",
+      "case_name": "健新原力",
+      "slug": "2025-jianxin-yuanli",
+      "file": "2025-jianxin-yuanli.html",
+      "angle": "CGT CDMO重资产抢跑撞下游冰冻；10亿融资20亿厂房叙事以破产拍卖流拍收场",
+      "status": "done"
+    },
+    {
+      "name": "璎黎药业",
+      "case_name": "璎黎药业",
+      "slug": "2026-yingli-pharma",
+      "file": "2026-yingli-pharma.html",
+      "angle": "单品PI3Kδ获批后扩增折戟+医保出局+治理真空；封门断供舆论下的实质停摆风险",
+      "status": "done"
+    },
+    {
+      "name": "森合创新／Oasa",
+      "case_name": null,
+      "slug": "2025-oasa-senhe",
+      "file": "2025-oasa-senhe.html",
+      "angle": "近亿天使+众筹卡在卷轴刀量产；明星履历换不来良率与续投",
+      "status": "done"
+    },
+    {
+      "name": "Mythic Therapeutics",
+      "case_name": "Mythic Therapeutics",
+      "slug": "2025-mythic-therapeutics",
+      "file": "2025-mythic-therapeutics.html",
+      "angle": "1.03亿B轮+Phase 1仍死于桥接融资；单资产ADC的ABC清算",
+      "status": "done"
+    },
+    {
+      "name": "LegalNow→GlobalGPT",
+      "case_name": "LegalNow→GlobalGPT",
+      "slug": "2024-legalnow-globalgpt",
+      "file": "2024-legalnow-globalgpt.html",
+      "angle": "to C法律AI死于用户验不了交付；现金悬崖pivot到红海套壳才续命",
+      "status": "done"
+    },
+    {
+      "name": "Green Lover Perú",
+      "case_name": "Green Lover Perú",
+      "slug": "2024-green-lover-peru",
+      "file": "2024-green-lover-peru.html",
+      "angle": "卖给全秘鲁等于谁也卖不到；一人配送锁死细分与批发",
+      "status": "done"
+    },
+    {
+      "name": "BRINOS",
+      "case_name": "BRINOS",
+      "slug": "2023-brinos",
+      "file": "2023-brinos.html",
+      "angle": "命题成立也挡不住身心崩塌；CEE医疗深科技缺耐心资本与背书",
+      "status": "done"
+    },
+    {
+      "name": "Jitzs",
+      "case_name": "Jitzs",
+      "slug": "2026-jitzs",
+      "file": "2026-jitzs.html",
+      "angle": "能活的lifestyle仍可因机会成本关闭；非数字化客群抬高自驱门槛",
+      "status": "done"
+    },
+    {
+      "name": "BlocPower",
+      "case_name": null,
+      "slug": "2026-blocpower",
+      "file": "2026-blocpower.html",
+      "angle": "使命融资与众筹叙事，挡不住资本栈里的优先级物理学\n",
+      "status": "done"
+    },
+    {
+      "name": "80 Acres Farms",
+      "case_name": null,
+      "slug": "2026-80-acres-farms",
+      "file": "2026-80-acres-farms.html",
+      "angle": "农场层「单位经济赚钱」救不了公司层固定成本帝国\n",
+      "status": "done"
+    },
+    {
+      "name": "PicSee",
+      "case_name": null,
+      "slug": "2026-picsee",
+      "file": "2026-picsee.html",
+      "angle": "能讲清痛点，买不到「关系密度」；社交产品死于离散安装\n",
+      "status": "done"
+    },
+    {
+      "name": "RecoverFlow",
+      "case_name": null,
+      "slug": "2026-recoverflow",
+      "file": "2026-recoverflow.html",
+      "angle": "落地页与厚 PRD ≠ 验证；冷渠道上的 0 注册是隐形失败，不是数据驱动成功",
+      "status": "done"
+    },
+    {
+      "name": "Subguru",
+      "case_name": null,
+      "slug": "2026-subguru",
+      "file": "2026-subguru.html",
+      "angle": "真实问题与已上线产品，仍可能死于政策价、上游 API 与未产品化的分发",
+      "status": "done"
+    },
+    {
+      "name": "Kulipa",
+      "case_name": null,
+      "slug": "2026-kulipa",
+      "file": "2026-kulipa.html",
+      "angle": "稳定币卡 API 增长再快，也挡不住持牌发卡方 SPOF；服务停摆是事实，破产标签仍有争议",
+      "status": "done"
+    },
+    {
+      "name": "Watobe",
+      "case_name": null,
+      "slug": "2024-watobe",
+      "file": "2024-watobe.html",
+      "angle": "近2000付费与「几乎可盈利」仍死于停电与中产债务；爱用≠付得起",
+      "status": "done"
+    },
+    {
+      "name": "Callforge",
+      "case_name": null,
+      "slug": "2026-callforge",
+      "file": "2026-callforge.html",
+      "angle": "15天杀线救现金救不了冷邮漏斗；产品通、信任库存为零",
+      "status": "done"
+    },
+    {
+      "name": "FoodBO",
+      "case_name": "FoodBO",
+      "slug": "2022-foodbo",
+      "file": "2022-foodbo.html",
+      "angle": "0.5%可及+传统饮食+主粮价格管制，本地溢价植物基无解",
+      "status": "done"
+    },
+    {
+      "name": "Allyourtime",
+      "case_name": "Allyourtime",
+      "slug": "2025-allyourtime",
+      "file": "2025-allyourtime.html",
+      "angle": "愿景+理论+伙伴≠市场；副业与分发低估烧完五位数欧元学费",
+      "status": "done"
+    },
+    {
+      "name": "CodeThreat",
+      "case_name": "CodeThreat",
+      "slug": "2026-codethreat",
+      "file": "2026-codethreat.html",
+      "angle": "SAST被AI改写时，七年三国客户仍走向可控关停",
+      "status": "done"
+    },
+    {
+      "name": "Bugninja",
+      "case_name": "Bugninja",
+      "slug": "2026-bugninja",
+      "file": "2026-bugninja.html",
+      "angle": "银行试点与开源热度算不平存活数学；一月验证稿五月收束",
+      "status": "done"
+    },
+    {
+      "name": "ALRIGHT",
+      "case_name": null,
+      "slug": "2025-alright",
+      "file": "2025-alright.html",
+      "angle": "痛点存在≠紧急度Top1；布道税与功能膨胀后尖峰销售仍无PMF，融不到一年燃料关停",
+      "status": "done"
+    },
+    {
+      "name": "UIPrompt",
+      "case_name": null,
+      "slug": "2026-uiprompt",
+      "file": "2026-uiprompt.html",
+      "angle": "预写14天/3单；订阅改买断两种定价同零→需求/顶部约束；维护模式非假关停",
+      "status": "done"
+    },
+    {
+      "name": "Staq / Admond Lee",
+      "case_name": null,
+      "slug": "2023-staq",
+      "file": "2023-staq.html",
+      "angle": "SEA抄Codat无FMF；大贷款方试点零合同+FTX寒冬后收购失败关停",
+      "status": "done"
+    },
+    {
+      "name": "Garde",
+      "case_name": null,
+      "slug": "2026-garde",
+      "file": "2026-garde.html",
+      "angle": "Claude做出App≠分发与信任；不露脸有机顶约150曝光、零付费后软收束",
+      "status": "done"
+    },
+    {
+      "name": "Brainhawk",
+      "case_name": null,
+      "slug": "2026-brainhawk",
+      "file": "2026-brainhawk.html",
+      "angle": "奖项与迪拜路演≠信贷内行信任；技术齐备仍未及时PMF，只为Top1付费发现太晚",
+      "status": "done"
+    },
+    {
+      "name": "Nex AI",
+      "case_name": null,
+      "slug": "2026-nex-ai",
+      "file": "2026-nex-ai.html",
+      "angle": "七位数企业合同仍关停；里程碑证明能赢≠愿再玩十年企业数据基建",
+      "status": "done"
+    },
+    {
+      "name": "ElemSprite / Tayoou",
+      "case_name": null,
+      "slug": "2026-elemsprite",
+      "file": "2026-elemsprite.html",
+      "angle": "落地页完美主义=躲销售；修平台痛点=给平台写需求；50注册0付费后被Shopify原生AI Sherlock",
+      "status": "done"
+    },
+    {
+      "name": "Craft to Convert / Zoli",
+      "case_name": "Craft to Convert",
+      "slug": "2025-craft-to-convert-zoli",
+      "file": "2025-craft-to-convert-zoli.html",
+      "angle": "获客已通仍死于匈法未满18不可经营；努力≠法律能力；合法关停后身份空心",
+      "status": "done"
+    },
+    {
+      "name": "Kosto",
+      "case_name": null,
+      "slug": "2023-kosto",
+      "file": "2023-kosto.html",
+      "angle": "a16z叙事打不赢tianguis人情赊账；数字化批发死在信任与信贷而非下单UX",
+      "status": "done"
+    },
+    {
+      "name": "Bytemelt",
+      "case_name": "Bytemelt",
+      "slug": "2026-bytemelt",
+      "file": "2026-bytemelt.html",
+      "angle": "地缘一夜改写可投性；中东AI机房停在风险溢价而非算力叙事；主动搁置≠能力不足",
+      "status": "done"
+    },
+    {
+      "name": "AfricPix",
+      "case_name": null,
+      "slug": "2025-africpix",
+      "file": "2025-africpix.html",
+      "angle": "品类正确仍可死于替代成本→0；真实非洲素材被提示词改写；关停后改用AI工作流",
+      "status": "done"
+    },
+    {
+      "name": "Trazzeo／Arif Rahman",
+      "case_name": null,
+      "slug": "2026-trazzeo-arif-rahman",
+      "file": "2026-trazzeo-arif-rahman.html",
+      "angle": "tech-first最贵学费；300注册0付费；AI在工作流而非客户脸；顺序纠正后Kedaipal出现付费",
+      "status": "done"
+    },
+    {
+      "name": "校联帮",
+      "case_name": "校联帮",
+      "slug": "2016-xiaolianbang",
+      "file": "2016-xiaolianbang.html",
+      "angle": "超级入口与16城第一梯队 ≠ 可复制单位经济；3万大使地推把Pre-A烧成欠薪停运",
+      "status": "done"
+    },
+    {
+      "name": "华子工作室",
+      "case_name": "华子工作室",
+      "slug": "2021-huazi-studio",
+      "file": "2021-huazi-studio.html",
+      "angle": "月入十万真利润仍可死于零储备；高峰分红+会展重资产+垫资在黑天鹅里变负债",
+      "status": "done"
+    },
+    {
+      "name": "神奇课堂／家校沟通",
+      "case_name": null,
+      "slug": "2020-shenqi-classroom",
+      "file": "2020-shenqi-classroom.html",
+      "angle": "老师说好用≠学校愿付费；380万做出覆盖后收入不到15万，负UE下拓客即加速解散",
+      "status": "done"
+    },
+    {
+      "name": "同程生活→蜜橙生活",
+      "case_name": "同程生活",
+      "slug": "2021-tongcheng-life",
+      "file": "2021-tongcheng-life.html",
+      "angle": "欲望>履约成本墙；拼盘并购+跟补贴≠护城河，「收购幻觉」拖死供应商账期",
+      "status": "done"
+    },
+    {
+      "name": "T97咖啡",
+      "case_name": "T97咖啡",
+      "slug": "2026-t97-coffee",
+      "file": "2026-t97-coffee.html",
+      "angle": "流量≠线下单位经济；加盟兜底把未验证单店模型写成总部保险负债",
+      "status": "done"
+    },
+    {
+      "name": "pxCode",
+      "case_name": "pxCode",
+      "slug": "2026-pxcode",
+      "file": "2026-pxcode.html",
+      "angle": "做对方向只是上场资格；称赞≠付钱，中间层效率工具死于导入摩擦与地图兵器",
+      "status": "done"
+    },
+    {
+      "name": "Quesma",
+      "case_name": "Quesma",
+      "slug": "2025-quesma",
+      "file": "2025-quesma.html",
+      "angle": "口头验证≠付费紧迫；数据库网关更像 feature，陷 forever pilot 后 IP 拆售枢转",
+      "status": "done"
+    },
+    {
+      "name": "Neta（墨西哥社交电商）",
+      "case_name": "Neta",
+      "slug": "2022-neta-mexico",
+      "file": "2022-neta-mexico.html",
+      "angle": "留存走平≠可盈利 PMF；金字塔底只要价格，多一层 SMB 中介是结构性陷阱",
+      "status": "done"
+    },
+    {
+      "name": "派特鲜生",
+      "case_name": "派特鲜生",
+      "slug": "2025-paite-xiansheng",
+      "file": "2025-paite-xiansheng.html",
+      "angle": "盒马方法论难跨宠粮；低频低换牌 + 大店租金，鲜食单价打不过电商大促",
+      "status": "done"
+    },
+    {
+      "name": "小座茶 / 赵鹏",
+      "case_name": null,
+      "slug": "2025-xiaozuo-tea",
+      "file": "2025-xiaozuo-tea.html",
+      "angle": "快招碰瓷大牌；部分履约把维权卡进刑民灰区",
+      "status": "done"
+    },
+    {
+      "name": "蜜桃里",
+      "case_name": null,
+      "slug": "2026-mitaoli",
+      "file": "2026-mitaoli.html",
+      "angle": "名为特许实为诈骗；最高法典型钉死刑民界限",
+      "status": "done"
+    },
+    {
+      "name": "Tradr",
+      "case_name": null,
+      "slug": "2025-tradr",
+      "file": "2025-tradr.html",
+      "angle": "有成交仍关停；WhatsApp揭穿验证前过度建造",
+      "status": "done"
+    },
+    {
+      "name": "Guiavet",
+      "case_name": null,
+      "slug": "2025-guiavet",
+      "file": "2025-guiavet.html",
+      "angle": "有20万+服务量仍战略关停；牵引≠风投所需斜率与场景",
+      "status": "done"
+    },
+    {
+      "name": "Latú Seguros",
+      "case_name": null,
+      "slug": "2025-latu",
+      "file": "2025-latu.html",
+      "angle": "拉美最大档Pre-seed之一仍死于SME cyber成熟度与价格死循环",
+      "status": "done"
+    },
+    {
+      "name": "Centeni",
+      "case_name": "Centeni",
+      "slug": "2026-centeni",
+      "file": "2026-centeni.html",
+      "angle": "内容与名医拉满仍无PMF；兴趣≠紧迫；退还约一半资本",
+      "status": "done"
+    },
+    {
+      "name": "万物集 / MyMRO",
+      "case_name": "万物集",
+      "slug": "2026-wanwuji-mymro",
+      "file": "2026-wanwuji-mymro.html",
+      "angle": "过单账期与拟IPO叙事救不了供应链兑付；员工可遣散，供货商成最后资产负债表",
+      "status": "done"
+    },
+    {
+      "name": "爱空间",
+      "case_name": "爱空间",
+      "slug": "2026-aikongjian",
+      "file": "2026-aikongjian.html",
+      "angle": "预付款混同+并购破灭；核心施工主体先注销，再公告北京整装暂停",
+      "status": "done"
+    },
+    {
+      "name": "Moxion Power",
+      "case_name": "Moxion Power",
+      "slug": "2024-moxion-power",
+      "file": "2024-moxion-power.html",
+      "angle": "战略Logo与Sunbelt大单≠市场验证；缺双向充电+过早自建+C轮落空→Chapter 7",
+      "status": "done"
+    },
+    {
+      "name": "中智行",
+      "case_name": "中智行",
+      "slug": "2025-zhongzhixing",
+      "file": "2025-zhongzhixing.html",
+      "angle": "明星履历与车路协同叙事兑不成工资；1.5万劳动款触发执转破",
+      "status": "done"
+    },
+    {
+      "name": "舌尖英雄",
+      "case_name": "舌尖英雄",
+      "slug": "2022-shejian-yingxiong",
+      "file": "2022-shejian-yingxiong.html",
+      "angle": "瑞幸式补贴加盟催熟C端预制菜；单店未验，加盟商垫付教育成本",
+      "status": "done"
+    },
+    {
+      "name": "CineGame／《恶校游戏》",
+      "case_name": "CineGame",
+      "slug": "2026-cinegame-evil-school",
+      "file": "2026-cinegame-evil-school.html",
+      "angle": "小赛道影游：像样作品成本地板高于用户池；上线一周解散制作组",
+      "status": "done"
+    },
+    {
+      "name": "Dunzo",
+      "case_name": "Dunzo",
+      "slug": "2025-dunzo",
+      "file": "2025-dunzo.html",
+      "angle": "巨头股权与品类先发≠快商务单位经济；经营债即可触发CIRP",
+      "status": "done"
+    },
+    {
+      "name": "Lilium",
+      "case_name": "Lilium",
+      "slug": "2025-lilium",
+      "file": "2025-lilium.html",
+      "angle": "SPAC与国家担保撑不起认证悬崖；€18M专利残值≠公司获救",
+      "status": "done"
+    },
+    {
+      "name": "Running Tide",
+      "case_name": "Running Tide",
+      "slug": "2024-running-tide",
+      "file": "2024-running-tide.html",
+      "angle": "自愿碳需求塌方×工业资本缺口；先发交付仍换不成扩表融资",
+      "status": "done"
+    },
+    {
+      "name": "Arkeon Biotechnologies",
+      "case_name": null,
+      "slug": "2025-arkeon",
+      "file": "2025-arkeon.html",
+      "angle": "试点工厂跑通仍关不上demo轮；LP隔夜退出触发辛迪加传染×风险叠层",
+      "status": "done"
+    },
+    {
+      "name": "环球易购",
+      "case_name": null,
+      "slug": "2023-huanqiu-yigou",
+      "file": "2023-huanqiu-yigou.html",
+      "angle": "对赌驱动SKU无限扩张→45亿库存核弹；清算后普通债权近乎零清偿",
+      "status": "done"
+    },
+    {
+      "name": "WeAdmit",
+      "case_name": null,
+      "slug": "2025-weadmit",
+      "file": "2025-weadmit.html",
+      "angle": "人力咨询硬套风投缩放；世代100%流失×过早扩编；关闭后才换来垂直AI续作",
+      "status": "done"
+    },
+    {
+      "name": "泽宝",
+      "case_name": null,
+      "slug": "2021-zebao",
+      "file": "2021-zebao.html",
+      "angle": "单一平台许可可撤销时，峰值营收与并购对赌补不回封号后的流量结构",
+      "status": "done"
+    },
+    {
+      "name": "Enerpoly",
+      "case_name": null,
+      "slug": "2025-enerpoly",
+      "file": "2025-enerpoly.html",
+      "angle": "世界首座锌离子工厂剪彩≠融资闭环；发薪日现金墙先于客户到场",
+      "status": "done"
+    },
+    {
+      "name": "bosie",
+      "case_name": null,
+      "slug": "2023-bosie",
+      "file": "2023-bosie.html",
+      "angle": "学霸融资与百亿估值执念≠门店单元经济；近死交棒是止损不是盖棺",
+      "status": "done"
+    },
+    {
+      "name": "毫末智行",
+      "case_name": "毫末智行",
+      "slug": "2025-haomo-ai",
+      "file": "2025-haomo-ai.html",
+      "angle": "单一主机厂订单与股权捆绑 ≠ 可独立造血；融资叙事可领先现金数月",
+      "status": "done"
+    },
+    {
+      "name": "Frubana",
+      "case_name": "Frubana",
+      "slug": "2025-frubana",
+      "file": "2025-frubana.html",
+      "angle": "约2.71亿美元与三国客户 ≠ 可关闭单城单位经济；易腐物理账单到期停运",
+      "status": "done"
+    },
+    {
+      "name": "嗨特购",
+      "case_name": "嗨特购",
+      "slug": "2026-haitgou",
+      "file": "2026-haitgou.html",
+      "angle": "尾货套利与旗舰网红 ≠ 可复制供应链；软折扣货源天花板后加盟变负债",
+      "status": "done"
+    },
+    {
+      "name": "SpringCloud／TASIO",
+      "case_name": null,
+      "slug": "2025-springcloud",
+      "file": "2025-springcloud.html",
+      "angle": "TIPS徽章与示范城市运许 ≠ 可结算的自动驾驶商业闭环",
+      "status": "done"
+    },
+    {
+      "name": "Safar Al-Arab",
+      "case_name": null,
+      "slug": "2026-safar-al-arab",
+      "file": "2026-safar-al-arab.html",
+      "angle": "地缘冲击可一夜关掉收入窗；干净关停是资源判断不是道德失败",
+      "status": "done"
+    },
+    {
+      "name": "Encode／Decode",
+      "case_name": null,
+      "slug": "2025-encode-decode",
+      "file": "2025-encode-decode.html",
+      "angle": "奢侈品预购的品类繁荣GMV与多轮股权 ≠ 寒冬里可兑付的信任资产",
+      "status": "done"
+    },
+    {
+      "name": "Wirecard",
+      "case_name": "Wirecard",
+      "slug": "2020-wirecard",
+      "file": "2020-wirecard.html",
+      "angle": "蓝筹身份与审计签字 ≠ 可核验现金；虚假 TPA 一周内把 DAX 成分股送进破产",
+      "status": "done"
+    },
+    {
+      "name": "KOKO Networks",
+      "case_name": "KOKO Networks",
+      "slug": "2026-koko-networks",
+      "file": "2026-koko-networks.html",
+      "angle": "百万户清洁炊事与 MIGA 担保 ≠ 独立于主权 LoA 的单位经济",
+      "status": "done"
+    },
+    {
+      "name": "Hike",
+      "case_name": "Hike",
+      "slug": "2025-hike",
+      "file": "2025-hike.html",
+      "angle": "本地 RMG 流水与品牌峰值 ≠ 监管悬崖上可迁移、值得重置的公司",
+      "status": "done"
+    },
+    {
+      "name": "BluSmart",
+      "case_name": "BluSmart",
+      "slug": "2025-blusmart",
+      "file": "2025-blusmart.html",
+      "angle": "全电网约车口碑 ≠ 关联绿色贷款用途隔离；SEBI 验真后一夜停运",
+      "status": "done"
+    },
+    {
+      "name": "Investree",
+      "case_name": "Investree",
+      "slug": "2024-investree",
+      "file": "2024-investree.html",
+      "angle": "P2P 累计撮合与先锋牌照 ≠ 不良率/最低资本/资金归集同时达标",
+      "status": "done"
+    },
+    {
+      "name": "Alle",
+      "case_name": "Alle",
+      "slug": "2025-alle",
+      "file": "2025-alle.html",
+      "angle": "10× AI 造型师产品爱 ≠ 月均 3–4 次频率下的可行商业模式",
+      "status": "done"
+    },
+    {
+      "name": "极越汽车",
+      "case_name": "极越汽车",
+      "slug": "2024-jiyue-auto",
+      "file": "2024-jiyue-auto.html",
+      "angle": "智驾与双巨头背书 ≠ 可独立结算的造车现金流；承诺续命款落空即三角爆雷",
+      "status": "done"
+    },
+    {
+      "name": "Fast",
+      "case_name": "Fast",
+      "slug": "2022-fast-checkout",
+      "file": "2022-fast-checkout.html",
+      "angle": "一键结账体验与 Stripe 领投 ≠ 商户网络与可持续单位经济",
+      "status": "done"
+    },
+    {
+      "name": "Publy",
+      "case_name": "Publy",
+      "slug": "2024-publy",
+      "file": "2024-publy.html",
+      "angle": "付费内容先成 ≠ B 轮后支出可永久跑赢增长承诺；现金先于故事死亡",
+      "status": "done"
+    },
+    {
+      "name": "神奇百货",
+      "slug": "2016-shenqi-baihuo",
+      "file": "2016-shenqi-baihuo.html",
+      "angle": "标签能换支票，换不来日销曲线",
+      "case_name": "神奇百货",
+      "status": "done"
+    },
+    {
+      "name": "超级课程表",
+      "slug": "2015-super-course-table",
+      "file": "2015-super-course-table.html",
+      "angle": "期权会过期：融资断档 + 叙事降级",
+      "case_name": "超级课程表",
+      "status": "done"
+    },
+    {
+      "name": "Quibi",
+      "slug": "2020-quibi",
+      "file": "2020-quibi.html",
+      "angle": "大资金最危险的用法，是把实验直接做成战役",
+      "case_name": "Quibi",
+      "status": "done"
+    }
+  ],
+  "by_case": {
+    "波形智能 / 蛙蛙写作": "2024-wawa-writing-oppo",
+    "ofo": "2017-ofo",
+    "泡否": "泡否",
+    "景恩 AI 剪辑": "jingen-ai-edit",
+    "Byju's": "2024-byjus",
+    "Northvolt": "2025-northvolt",
+    "乐乐茶": "2025-lelecha",
+    "自嗨锅": "2026-zihaiguo",
+    "blank me": "2026-blank-me",
+    "blank me / 半分一": "2026-blank-me",
+    "库迪咖啡": "2026-cotti-coffee",
+    "Hokodo": "2025-hokodo",
+    "Attabotics": "2025-attabotics",
+    "奈雪的茶": "2025-nayuki",
+    "霸王茶姬": "2025-chagee",
+    "Favro": "2026-favro",
+    "Phind": "2026-phind",
+    "Kintsugi": "2026-kintsugi",
+    "Poppy": "2026-poppy",
+    "Embodied / Moxie": "2024-embodied-moxie",
+    "拉勾网": "2026-lagou",
+    "Glam": "2026-glam-zid",
+    "Good Glamm / Glam": "2025-good-glamm",
+    "Volocopter": "2024-volocopter",
+    "Merqueo": "2025-merqueo",
+    "ClimateAi": "2026-climateai",
+    "Cydoc": "2025-cydoc",
+    "Arch Finance": "2026-arch-finance",
+    "Liquid Wind": "2026-liquid-wind",
+    "Ringan": "2025-ringan",
+    "Spoony": "2026-spoony",
+    "One Small Step": "2026-one-small-step",
+    "Myssyfarmi": "2026-myssyfarmi",
+    "Glam（沙特 Zid）": "2026-glam-zid",
+    "AirVitalize": "2026-airvitalize",
+    "Atalanta Climate": "2026-atalanta-climate",
+    "Chimoney": "2026-chimoney",
+    "FoodCourt": "2026-foodcourt",
+    "Edukoya": "2025-edukoya",
+    "Log9 Materials": "2025-log9-materials",
+    "Esperanto Technologies": "2025-esperanto",
+    "Ula": "2025-ula",
+    "Tract": "2025-tract",
+    "Sendo / Sendo Farm": "2025-sendo",
+    "Sendo": "2025-sendo",
+    "InfographsAI": "2025-infographsai",
+    "NocNoc": "2026-nocnoc",
+    "ETLR": "2026-etlr",
+    "Montara": "2026-montara",
+    "eFishery": "2025-efishery",
+    "Watcha": "2025-watcha",
+    "Trela": "2026-trela",
+    "Minimus": "2026-minimus",
+    "Snaphunt": "2026-snaphunt",
+    "QiOVA": "2026-qiova",
+    "Coordinal": "2026-coordinal",
+    "RendeRex": "2026-renderex",
+    "Kalulu Hatcheries": "2026-kalulu-hatcheries",
+    "BionicHIVE": "2024-bionichive",
+    "Polyfos": "2025-polyfos",
+    "Qtrove": "2026-qtrove",
+    "Tallarna": "2025-tallarna",
+    "Chickin Worx（利雅得店）": "2026-chickin-worx-riyadh",
+    "Strait Grains": "2026-strait-grains",
+    "Actins AI": "2026-actins-ai",
+    "Exhale Aerosystems": "2026-exhale-aerosystems",
+    "Condor Computing": "2026-condor-computing",
+    "Vibe AI": "2026-vibe-ai",
+    "Ravah": "2026-ravah",
+    "MonitorIntent": "2026-monitorintent",
+    "Zinc": "2025-zinc",
+    "Vivra": "2025-vivra",
+    "Content Goblin": "2025-content-goblin",
+    "Pragmatic / Jamie": "2025-pragmatic-jamie",
+    "Zinnia": "2026-zinnia",
+    "Aletheia & Phos": "2026-aletheia-phos",
+    "Wildland": "2025-wildland",
+    "Limatech": "2026-limatech",
+    "Curnon": "2026-curnon",
+    "Superface": "2026-superface",
+    "feexers": "2025-feexers",
+    "Hitchat": "2025-hitchat",
+    "subtl.ai": "2025-subtl-ai",
+    "Wahine Capital": "2026-wahine-capital",
+    "Enéad": "2026-enead",
+    "The Ayurveda Co.": "2025-the-ayurveda-co",
+    "Shipmates": "2025-shipmates",
+    "Magic Genomix": "2026-magic-genomix",
+    "Medial": "2026-medial",
+    "fizz.hu": "2026-fizz-hu",
+    "Tryo": "2026-tryo",
+    "Jamun AI": "2026-jamun-ai",
+    "Jamun AI / Amogha AI": "2026-jamun-ai",
+    "Marb.ai": "2026-marb-ai",
+    "GenesisX": "2026-genesisx",
+    "Yoleni’s": "2026-yolenis",
+    "MindWave": "2026-mindwave",
+    "Coziza": "2026-coziza",
+    "InstantDB": "2026-instantdb",
+    "garnix": "2026-garnix",
+    "Clead": "2025-clead",
+    "抱抱窝": "2025-baobaowo",
+    "考虫": "2024-kaochong",
+    "优胜教育": "2020-yousheng-education",
+    "HOMEE／合宜家居": "2026-homee",
+    "达闼科技": "2024-cloudminds",
+    "Manus / 蝴蝶效应": "2026-manus",
+    "Manus／蝴蝶效应": "2026-manus",
+    "Clico/Invoko": "2026-clico-invoko",
+    "Clico／Invoko（SophiaPro／Karis）": "2026-clico-invoko",
+    "健新原力": "2025-jianxin-yuanli",
+    "璎黎药业": "2026-yingli-pharma",
+    "森合创新／Oasa": "2025-oasa-senhe",
+    "Mythic Therapeutics": "2025-mythic-therapeutics",
+    "LegalNow→GlobalGPT": "2024-legalnow-globalgpt",
+    "Green Lover Perú": "2024-green-lover-peru",
+    "BRINOS": "2023-brinos",
+    "Jitzs": "2026-jitzs",
+    "BlocPower": "2026-blocpower",
+    "80 Acres Farms": "2026-80-acres-farms",
+    "PicSee": "2026-picsee",
+    "RecoverFlow": "2026-recoverflow",
+    "Subguru": "2026-subguru",
+    "Kulipa": "2026-kulipa",
+    "Watobe": "2024-watobe",
+    "Callforge": "2026-callforge",
+    "FoodBO": "2022-foodbo",
+    "Allyourtime": "2025-allyourtime",
+    "CodeThreat": "2026-codethreat",
+    "Bugninja": "2026-bugninja",
+    "ALRIGHT": "2025-alright",
+    "UIPrompt": "2026-uiprompt",
+    "Staq / Admond Lee": "2023-staq",
+    "Garde": "2026-garde",
+    "Brainhawk": "2026-brainhawk",
+    "Nex AI": "2026-nex-ai",
+    "ElemSprite / Tayoou": "2026-elemsprite",
+    "Craft to Convert": "2025-craft-to-convert-zoli",
+    "Craft to Convert / Zoli": "2025-craft-to-convert-zoli",
+    "Kosto": "2023-kosto",
+    "Bytemelt": "2026-bytemelt",
+    "AfricPix": "2025-africpix",
+    "Trazzeo／Arif Rahman": "2026-trazzeo-arif-rahman",
+    "校联帮": "2016-xiaolianbang",
+    "华子工作室": "2021-huazi-studio",
+    "神奇课堂／家校沟通": "2020-shenqi-classroom",
+    "同程生活": "2021-tongcheng-life",
+    "同程生活→蜜橙生活": "2021-tongcheng-life",
+    "T97咖啡": "2026-t97-coffee",
+    "pxCode": "2026-pxcode",
+    "Quesma": "2025-quesma",
+    "Neta": "2022-neta-mexico",
+    "Neta（墨西哥社交电商）": "2022-neta-mexico",
+    "派特鲜生": "2025-paite-xiansheng",
+    "小座茶 / 赵鹏": "2025-xiaozuo-tea",
+    "蜜桃里": "2026-mitaoli",
+    "Tradr": "2025-tradr",
+    "Guiavet": "2025-guiavet",
+    "Latú Seguros": "2025-latu",
+    "Centeni": "2026-centeni",
+    "万物集": "2026-wanwuji-mymro",
+    "万物集 / MyMRO": "2026-wanwuji-mymro",
+    "爱空间": "2026-aikongjian",
+    "Moxion Power": "2024-moxion-power",
+    "中智行": "2025-zhongzhixing",
+    "舌尖英雄": "2022-shejian-yingxiong",
+    "CineGame": "2026-cinegame-evil-school",
+    "CineGame／《恶校游戏》": "2026-cinegame-evil-school",
+    "Dunzo": "2025-dunzo",
+    "Lilium": "2025-lilium",
+    "Running Tide": "2024-running-tide",
+    "Arkeon Biotechnologies": "2025-arkeon",
+    "环球易购": "2023-huanqiu-yigou",
+    "WeAdmit": "2025-weadmit",
+    "泽宝": "2021-zebao",
+    "Enerpoly": "2025-enerpoly",
+    "bosie": "2023-bosie",
+    "毫末智行": "2025-haomo-ai",
+    "Frubana": "2025-frubana",
+    "嗨特购": "2026-haitgou",
+    "SpringCloud／TASIO": "2025-springcloud",
+    "Safar Al-Arab": "2026-safar-al-arab",
+    "Encode／Decode": "2025-encode-decode",
+    "Wirecard": "2020-wirecard",
+    "KOKO Networks": "2026-koko-networks",
+    "Hike": "2025-hike",
+    "BluSmart": "2025-blusmart",
+    "Investree": "2024-investree",
+    "Alle": "2025-alle",
+    "极越汽车": "2024-jiyue-auto",
+    "Fast": "2022-fast-checkout",
+    "Publy": "2024-publy",
+    "神奇百货": "2016-shenqi-baihuo",
+    "超级课程表": "2015-super-course-table",
+    "Quibi": "2020-quibi"
+  }
+}

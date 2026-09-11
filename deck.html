@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="description" content="创业坟场 · PPT 式翻页复盘" />
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <title>翻页复盘 · 创业坟场笔记</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700;800&family=Space+Grotesk:wght@500;600;700;800&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/app.css" />
+  <link rel="stylesheet" href="css/deck.css" />
+</head>
+<body class="page-deck">
+  <header class="deck-top">
+    <a class="deck-back" id="back" href="cases.html">← 档案</a>
+    <span class="deck-top__title mono" id="deckTitle">翻页复盘</span>
+    <span class="deck-top__page mono" id="pageInd">1 / 1</span>
+  </header>
+
+  <div class="deck-stage" id="stage">
+    <p class="deck-loading" id="loading">加载复盘…</p>
+  </div>
+
+  <div class="deck-dots" id="dots" aria-hidden="true"></div>
+  <nav class="deck-nav" aria-label="翻页">
+    <button type="button" class="deck-nav__btn" id="prev" aria-label="上一页">‹</button>
+    <button type="button" class="deck-nav__btn deck-nav__btn--primary" id="next" aria-label="下一页">›</button>
+  </nav>
+
+  <script src="js/deck.js" defer></script>
+</body>
+</html>

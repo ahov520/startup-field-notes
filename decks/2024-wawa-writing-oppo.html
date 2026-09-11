@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"/>
+<title>伤蛙复盘 · 蛙蛙写作</title>
+<style>
+  :root { --bg:#0b0b0b; --fg:#f2f2f2; --muted:#9a9a9a; --accent:#7CFF6B; --card:#161616; --line:#2a2a2a; }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Noto Sans SC", sans-serif;
+    background:var(--bg); color:var(--fg); }
+  .wrap { max-width: 480px; margin: 0 auto; padding: 16px 16px 80px; }
+  .badge { display:inline-block; font-size:11px; letter-spacing:.08em; text-transform:uppercase;
+    color:#111; background:var(--accent); padding:4px 8px; font-weight:700; }
+  h1 { font-size: 1.55rem; line-height:1.25; margin:12px 0 8px; }
+  .sub { color:var(--muted); font-size:.92rem; line-height:1.5; margin-bottom:20px; }
+  .slide { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:18px 16px; margin:12px 0; }
+  .slide h2 { font-size:1.05rem; margin:0 0 10px; color:var(--accent); }
+  .slide p, .slide li { font-size:.95rem; line-height:1.65; color:#e8e8e8; }
+  .slide ul { padding-left: 1.1em; margin:8px 0; }
+  .kill { font-size:1.05rem; font-weight:650; line-height:1.55; border-left:3px solid var(--accent); padding-left:12px; margin:8px 0; }
+  table { width:100%; border-collapse:collapse; font-size:.82rem; }
+  th, td { border-bottom:1px solid var(--line); padding:8px 4px; text-align:left; vertical-align:top; }
+  th { color:var(--muted); font-weight:600; }
+  .nav { position:fixed; bottom:0; left:0; right:0; background:rgba(11,11,11,.92); backdrop-filter:blur(8px);
+    border-top:1px solid var(--line); padding:10px 16px; display:flex; gap:8px; justify-content:center; }
+  .nav a { color:#111; background:var(--accent); text-decoration:none; font-weight:700; font-size:.85rem;
+    padding:10px 14px; border-radius:999px; }
+  .foot { color:var(--muted); font-size:.75rem; margin-top:24px; line-height:1.5; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <span class="badge">CASE CUT</span>
+  <h1>伤蛙复盘</h1>
+  <p class="sub">波形智能 · 蛙蛙写作 → OPPO<br/>核心命题：漂亮留存，救不了独立公司</p>
+
+  <section class="slide" id="s1">
+    <h2>01 · 一句话要害</h2>
+    <p class="kill">蛙蛙证明了网文长文本能做出超高粘性；没证明垂类写作 Agent 能在算力成本与大厂挤压下，独立长成一家公司。</p>
+    <p>OPPO 买的是<strong>人 + 长文本/个性化技术</strong>，不是要养一个网文 App。</p>
+  </section>
+
+  <section class="slide" id="s2">
+    <h2>02 · 它做成了什么</h2>
+    <ul>
+      <li>2023.03 创办 → 2024.01 蛙蛙上线 → 2024.10 被收购（约 19 个月）</li>
+      <li>公开数据：约 30 万用户；付费日均使用 4.7–6.5 小时；近 200 亿字</li>
+      <li>团队牌极强：ETH NLP 博士 CEO/CTO + 千万级 Pre-A（蓝驰、井贤栋、费革胜等）</li>
+    </ul>
+  </section>
+
+  <section class="slide" id="s3">
+    <h2>03 · 伤口① 粘性 ≠ 毛利</h2>
+    <p>报道里几乎只有用户、字数、时长。<strong>很少看到</strong>：推理成本、付费率、ARPU、续费。</p>
+    <p class="kill">长上下文写作是重生成场景——用户越爱用，账单可能越烫。</p>
+  </section>
+
+  <section class="slide" id="s4">
+    <h2>04 · 伤口② 场景被验证，护城河没锁住</h2>
+    <p>通义 / 豆包 / Kimi / 网文站自建工具 + 开源降价，持续吃掉「垂域写作」溢价。</p>
+    <p>Weaver 2.0 发完不到三个月走向收购——窗口比叙事短。</p>
+  </section>
+
+  <section class="slide" id="s5">
+    <h2>05 · 伤口③ 买方逻辑</h2>
+    <p>OPPO 要的是 AI 手机、端云 Agent、千人千面；波形的 LPA/persona 叙事更贴这个，而不是短剧帝国。</p>
+    <p class="kill">收购 ≈ 招聘 + 技术的资本化写法。产品「还在」≠ 你还独立。</p>
+  </section>
+
+  <section class="slide" id="s6">
+    <h2>06 · 对照全球剧本</h2>
+    <table>
+      <tr><th>案例</th><th>实质</th></tr>
+      <tr><td>Character.AI→Google</td><td>人+技术优先</td></tr>
+      <tr><td>Inflection→微软</td><td>团队进大厂</td></tr>
+      <tr><td>Adept→亚马逊</td><td>许可+核心加入</td></tr>
+      <tr><td>蛙蛙→OPPO</td><td>同一剧本中文版</td></tr>
+    </table>
+  </section>
+
+  <section class="slide" id="s7">
+    <h2>07 · 给你的三条刀口</h2>
+    <ul>
+      <li>先把「时长」翻译成「毛利」，再融资。</li>
+      <li>分清你在卖产品，还是在卖简历。</li>
+      <li>故事下一句必须是：不融资也能活。</li>
+    </ul>
+  </section>
+
+  <section class="slide" id="s8">
+    <h2>08 · 结尾</h2>
+    <p class="kill">伤的不是蛙这只产品，而是幻觉：以为爆款指标 = 可独立长大的公司。</p>
+    <p>在应用层，默认结局常常是——被编进更大系统的零件表。</p>
+  </section>
+
+  <p class="foot">依据 36氪/投资界、钛媒体·猎云、界面、凤凰网等 2024.10 公开报道整理。<br/>大学生创业指南 · 2026-09-11 · 财务未披露处不作臆测。</p>
+</div>
+</body>
+</html>

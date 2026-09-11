@@ -34,7 +34,21 @@
   if (query) qInput.value = query;
 
   let cases = [];
+  let decksByCase = {};
   let didAutoOpen = false;
+
+  const deckSlugFor = (c) => {
+    if (!c) return "";
+    return decksByCase[c.name] || "";
+  };
+
+  const openDeck = (c) => {
+    const slug = deckSlugFor(c);
+    if (!slug) return false;
+    const q = encodeURIComponent(c.name || "");
+    location.href = `deck.html?slug=${encodeURIComponent(slug)}&name=${q}`;
+    return true;
+  };
 
   const badgeClass = (b) => (b === "成功" ? "ok" : b === "转型" ? "pivot" : "fail");
   const icon = (b) => (b === "成功" ? "✦" : b === "转型" ? "↻" : "🪦");
@@ -101,11 +115,13 @@
     grid.innerHTML = list
       .map((c, i) => {
         const b = bucket(c.outcome);
+        const hasDeck = !!deckSlugFor(c);
         return `
-      <button type="button" class="tomb is-${badgeClass(b)}" data-i="${i}">
+      <button type="button" class="tomb is-${badgeClass(b)}${hasDeck ? " has-deck" : ""}" data-i="${i}">
         <div class="tomb__head">
           <span class="tomb__icon ${b === "成功" ? "is-ok" : "is-fail"}">${icon(b)}</span>
           <span class="tomb__badge ${badgeClass(b)}">${esc(b)}</span>
+          ${hasDeck ? `<span class="tomb__badge ppt">PPT</span>` : ""}
         </div>
         <div class="tomb__name">${esc(c.name)}</div>
         <div class="tomb__cause">${esc(c.cause || c.sector || "")}</div>
@@ -115,14 +131,20 @@
       .join("");
     grid._list = list;
     $$(".tomb", grid).forEach((el) => {
-      el.addEventListener("click", () => openDrawer(grid._list[+el.dataset.i]));
+      el.addEventListener("click", () => {
+        const c = grid._list[+el.dataset.i];
+        if (deckSlugFor(c)) openDeck(c);
+        else openDrawer(c);
+      });
     });
     syncUrl();
     if (!didAutoOpen && query) {
       didAutoOpen = true;
       const exact = list.find((c) => c.name.toLowerCase() === query.toLowerCase());
-      if (exact) openDrawer(exact);
-      else if (list.length === 1) openDrawer(list[0]);
+      const target = exact || (list.length === 1 ? list[0] : null);
+      if (target) {
+        if (!openDeck(target)) openDrawer(target);
+      }
     }
   };
 
@@ -148,8 +170,13 @@
       ${(c.tags || []).length ? `<div class="block"><strong>标签</strong>${esc(c.tags.join(" · "))}</div>` : ""}
       <div class="drawer__actions">
         ${
+          deckSlugFor(c)
+            ? `<a class="btn btn--primary" href="deck.html?slug=${encodeURIComponent(deckSlugFor(c))}&name=${encodeURIComponent(c.name)}">PPT 翻页复盘</a>`
+            : `<span class="chip">深度翻页撰写中</span>`
+        }
+        ${
           c.source_url
-            ? `<a class="btn btn--primary" href="${esc(c.source_url)}" target="_blank" rel="noopener">查看来源</a>`
+            ? `<a class="btn" href="${esc(c.source_url)}" target="_blank" rel="noopener">查看来源</a>`
             : c.src
               ? `<span class="chip">${esc(c.src)}</span>`
               : ""
@@ -232,9 +259,11 @@
   Promise.all([
     fetch("data/cases.json").then((r) => r.json()),
     fetch("data/graveyard-stats.json").then((r) => r.json()).catch(() => ({ top_causes: [] })),
+    fetch("data/decks-index.json").then((r) => r.json()).catch(() => ({ by_case: {} })),
   ])
-    .then(([d, g]) => {
+    .then(([d, g, decks]) => {
       cases = d.cases || [];
+      decksByCase = decks.by_case || {};
       paintCauses(g.top_causes || []);
       render();
     })

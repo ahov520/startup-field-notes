@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"/>
+<title>Quesma 复盘</title>
+<style>
+  :root { --bg:#0b0b0b; --fg:#f2f2f2; --muted:#9a9a9a; --accent:#7CFF6B; --card:#161616; --line:#2a2a2a; }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Noto Sans SC", sans-serif;
+    background:var(--bg); color:var(--fg); }
+  .wrap { max-width: 480px; margin: 0 auto; padding: 16px 16px 80px; }
+  .badge { display:inline-block; font-size:11px; letter-spacing:.08em; text-transform:uppercase;
+    color:#111; background:var(--accent); padding:4px 8px; font-weight:700; }
+  h1 { font-size: 1.55rem; line-height:1.25; margin:12px 0 8px; }
+  .sub { color:var(--muted); font-size:.92rem; line-height:1.5; margin-bottom:20px; }
+  .slide { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:18px 16px; margin:12px 0; }
+  .slide h2 { font-size:1.05rem; margin:0 0 10px; color:var(--accent); }
+  .slide p, .slide li { font-size:.95rem; line-height:1.65; color:#e8e8e8; }
+  .slide ul { padding-left: 1.1em; margin:8px 0; }
+  .kill { font-size:1.05rem; font-weight:650; line-height:1.55; border-left:3px solid var(--accent); padding-left:12px; margin:8px 0; }
+  .foot { color:var(--muted); font-size:.75rem; margin-top:24px; line-height:1.5; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <span class="badge">CASE CUT</span>
+  <h1>Quesma 复盘</h1>
+  <p class="sub">口头验证≠付费紧迫；数据库网关更像 feature，陷 forever pilot 后 IP 拆售枢转</p>
+  <section class="slide" id="s1">
+    <h2>01 · 一句话要害</h2>
+    <p class="kill">Quesma 证明了「遗留数据库迁移与兼容」能讲进 VC 会议室，也能让 Fortune 500 与电信巨头在访谈里点头；但它没证明「查询代理」能在企业季度优先级榜上挤进前三，变成客户愿意付钱、愿意上生产、愿意续约的独立产品。一年后技术被最大客户 Hydrolix 以资产形式买下，用来保证 Kibana 互通——**公司叙事结束于 feature 并进别人的平台**，团队拿出售款换 runway 再枢转。这不是「没人用」，而是「用不构成一家独立公司」。</p>
+  </section>
+  <section class="slide" id="s2">
+    <h2>02 · 它做成了什么</h2>
+    <ul>
+<li>发现过程够硬</li>
+<li>融资与组班效率极高</li>
+<li>技术关过了</li>
+<li>失败治理体面</li>
+<li>问题意识升级</li>
+    </ul>
+  </section>
+  <section class="slide" id="w0">
+    <h2>伤口① 口头验证 ≠ 行动验证</h2>
+    <p>B2B 里，兴趣是免费的；生产环境里的 commit 才是货币。</p>
+  </section>
+  <section class="slide" id="w1">
+    <h2>伤口② Forever pilot：第 12 名优先级等于死刑</h2>
+    <p>止痛药要有发作日；慢性病护理很难撑起独立创业的默认路径。</p>
+  </section>
+  <section class="slide" id="w2">
+    <h2>伤口③ Feature 伪装成 Product</h2>
+    <p>若客户成功故事写的是对方平台增长曲线，你多半是插件定价，不是平台定价。</p>
+  </section>
+  <section class="slide" id="w3">
+    <h2>伤口④ 「强迫平等联合创始人」烧掉组织时钟</h2>
+    <p>联合创始人是婚姻条款，不是社交证明；决策权不能为「看起来正确」而平分。</p>
+  </section>
+  <section class="slide" id="w4">
+    <h2>伤口⑤ 市场窗口被通用能力侵蚀</h2>
+    <p>你的差异化若是「复杂度税」，通用工具降税时你的账单最先归零。</p>
+  </section>
+
+  <section class="slide" id="tips">
+    <h2>刀口建议</h2>
+    <ul>
+<li>验证清单必须含「客户本周做什么」</li>
+<li>融资材料加一页：我们是 feature 还是 product？</li>
+<li>不要为教条找联合创始人</li>
+<li>会前展位放在付费信号之后</li>
+<li>卖零件也是产品决策</li>
+    </ul>
+  </section>
+  <section class="slide" id="end">
+    <h2>结论</h2>
+    <p>你可以很快融到钱、做出难技术、挂上名企 logo；但若客户没有「现在必须改」的刀口，试点会永远停在演示环境。独立公司需要的不是被验证的问题，而是被排进前三名的紧迫性。</p>
+  </section>
+  <p class="foot">大学生创业指南 · 伤蛙同档 · 仅公开来源 · 全文见同名 .md</p>
+</div>
+</body>
+</html>
