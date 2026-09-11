@@ -10,6 +10,30 @@
       "status": "done"
     },
     {
+      "name": "神奇百货",
+      "case_name": "神奇百货",
+      "slug": "2016-shenqi-baihuo",
+      "file": "2016-shenqi-baihuo.html",
+      "angle": "人设融资跑在单位经济前面；A轮现金加速错误扩张，裁员搬家砸穿信任",
+      "status": "done"
+    },
+    {
+      "name": "超级课程表",
+      "case_name": "超级课程表",
+      "slug": "2015-super-course-table",
+      "file": "2015-super-course-table.html",
+      "angle": "校园刚需能融到B轮；一亿分红人设透支信用后，结局是收缩存续而非独角兽",
+      "status": "done"
+    },
+    {
+      "name": "Quibi",
+      "case_name": "Quibi",
+      "slug": "2020-quibi",
+      "file": "2020-quibi.html",
+      "angle": "17.5亿美元也伪造不了PMF；付费短视频假设叠罗汉，半年关停",
+      "status": "done"
+    },
+    {
       "name": "ofo",
       "case_name": "ofo",
       "slug": "2017-ofo",
@@ -1450,32 +1474,35 @@
       "status": "done"
     },
     {
-      "name": "神奇百货",
-      "slug": "2016-shenqi-baihuo",
-      "file": "2016-shenqi-baihuo.html",
-      "angle": "标签能换支票，换不来日销曲线",
-      "case_name": "神奇百货",
+      "name": "Yupp.ai",
+      "case_name": "Yupp.ai",
+      "slug": "2026-yupp",
+      "file": "2026-yupp.html",
+      "angle": "明星种子与百万用户 ≠ 足够强的 PMF；范式迁移下主动清盘还资",
       "status": "done"
     },
     {
-      "name": "超级课程表",
-      "slug": "2015-super-course-table",
-      "file": "2015-super-course-table.html",
-      "angle": "期权会过期：融资断档 + 叙事降级",
-      "case_name": "超级课程表",
+      "name": "Telio",
+      "case_name": "Telio",
+      "slug": "2024-telio",
+      "file": "2024-telio.html",
+      "angle": "真月收入与明星 LP ≠ 单位经济；仓配负贡献在融资窗口关闭后直接拖死",
       "status": "done"
     },
     {
-      "name": "Quibi",
-      "slug": "2020-quibi",
-      "file": "2020-quibi.html",
-      "angle": "大资金最危险的用法，是把实验直接做成战役",
-      "case_name": "Quibi",
+      "name": "Ascend Elements",
+      "case_name": "Ascend Elements",
+      "slug": "2026-ascend-elements",
+      "file": "2026-ascend-elements.html",
+      "angle": "近 9 亿美元与 DOE 拨款叙事 ≠ 可闭合的重资产项目融资与车厂现金周期",
       "status": "done"
     }
   ],
   "by_case": {
     "波形智能 / 蛙蛙写作": "2024-wawa-writing-oppo",
+    "神奇百货": "2016-shenqi-baihuo",
+    "超级课程表": "2015-super-course-table",
+    "Quibi": "2020-quibi",
     "ofo": "2017-ofo",
     "泡否": "泡否",
     "景恩 AI 剪辑": "jingen-ai-edit",
@@ -1667,8 +1694,8 @@
     "极越汽车": "2024-jiyue-auto",
     "Fast": "2022-fast-checkout",
     "Publy": "2024-publy",
-    "神奇百货": "2016-shenqi-baihuo",
-    "超级课程表": "2015-super-course-table",
-    "Quibi": "2020-quibi"
+    "Yupp.ai": "2026-yupp",
+    "Telio": "2024-telio",
+    "Ascend Elements": "2026-ascend-elements"
   }
 }
