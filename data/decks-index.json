@@ -1685,6 +1685,33 @@
       "tier": "伤蛙"
     },
     {
+      "name": "妙鸭相机",
+      "case_name": "妙鸭相机",
+      "slug": "2024-miaoya-camera",
+      "file": "2024-miaoya-camera.html",
+      "angle": "C 端 AIGC 暑期总榜爆款证明「愿为单次惊喜付 9.9」≠ 同质化写真赛道能长成独立付费生意；留存窗口以周计，免费标配后一次性付费先塌",
+      "status": "full",
+      "tier": "伤蛙"
+    },
+    {
+      "name": "微亚医疗",
+      "case_name": "微亚医疗",
+      "slug": "2025-weiya-medical",
+      "file": "2025-weiya-medical.html",
+      "angle": "实验室/临床「首例」+ 战略股东叙事 ≠ NMPA 三类证与经营性现金；注册墙把数千万元级融资烧成近清零残值",
+      "status": "full",
+      "tier": "伤蛙"
+    },
+    {
+      "name": "赛博炼金所",
+      "case_name": "赛博炼金所",
+      "slug": "2025-cyber-alchemy",
+      "file": "2025-cyber-alchemy.html",
+      "angle": "AI 内容工具里，私域自然增长 ≠ 生意；「背后有人不差钱」+ 拒接备胎资方，会把过度工程与商业化后置放大成单 LP 猝死",
+      "status": "full",
+      "tier": "伤蛙"
+    },
+    {
       "name": "饿了么",
       "case_name": "饿了么",
       "slug": "case-dc47280b59",
@@ -2000,29 +2027,11 @@
       "tier": "短档"
     },
     {
-      "name": "微亚医疗",
-      "case_name": "微亚医疗",
-      "slug": "case-6885582b36",
-      "file": "case-6885582b36.html",
-      "angle": "实验室「首例」≠注册上市时钟；证未下之前不要按已商业化公司扩编制。",
-      "status": "stub",
-      "tier": "短档"
-    },
-    {
       "name": "超能界",
       "case_name": "超能界",
       "slug": "case-340bec8f34",
       "file": "case-340bec8f34.html",
       "angle": "工具估值焦虑→强行讲社区故事是常见死法；应先把拍摄体验打磨极致再扩圈。",
-      "status": "stub",
-      "tier": "短档"
-    },
-    {
-      "name": "妙鸭相机",
-      "case_name": "妙鸭相机",
-      "slug": "case-d63079897d",
-      "file": "case-d63079897d.html",
-      "angle": "爆款留存窗口极短；同质化赛道要尽早找到付费差异，而不是靠流量幻觉续命。",
       "status": "stub",
       "tier": "短档"
     },
@@ -3098,15 +3107,6 @@
       "tier": "短档"
     },
     {
-      "name": "赛博炼金所",
-      "case_name": "赛博炼金所",
-      "slug": "case-77cc348b64",
-      "file": "case-77cc348b64.html",
-      "angle": "① **自上而下找风口**（Gemini→社媒剪辑）而非自身痛点，变现周期长+算力烧钱；② **过度工程**：Java+Python 双栈、未验证前追求企业级架",
-      "status": "stub",
-      "tier": "短档"
-    },
-    {
       "name": "Crear Digital",
       "case_name": "Crear Digital",
       "slug": "case-f17abaeec5",
@@ -3702,6 +3702,9 @@
     "Yupp.ai": "2026-yupp",
     "Telio": "2024-telio",
     "Ascend Elements": "2026-ascend-elements",
+    "妙鸭相机": "2024-miaoya-camera",
+    "微亚医疗": "2025-weiya-medical",
+    "赛博炼金所": "2025-cyber-alchemy",
     "饿了么": "case-dc47280b59",
     "影石 Insta360": "case-2417b4bc56",
     "家校沟通产品": "case-50c328851a",
@@ -3737,9 +3740,7 @@
     "AI获客原型项目": "case-bddd73df6c",
     "苏珀曼智能": "case-7322cc1dba",
     "一星机器人": "case-69bbbd46a5",
-    "微亚医疗": "case-6885582b36",
     "超能界": "case-340bec8f34",
-    "妙鸭相机": "case-d63079897d",
     "后会友期": "case-2d57e8bbcf",
     "探鹿兼职": "case-ca58236e73",
     "雷柏/零度无人机": "case-8fc49a6d3e",
@@ -3859,7 +3860,6 @@
     "PerfectBot": "case-a7c9faa2a3",
     "Colper.ai": "case-b1bc4d8a53",
     "FoodPE": "case-02c1049274",
-    "赛博炼金所": "case-77cc348b64",
     "Crear Digital": "case-f17abaeec5",
     "云智航科技": "case-1984a7b343",
     "HealthBird": "case-2f4307e739",
@@ -3907,7 +3907,7 @@
   },
   "stats": {
     "total": 389,
-    "full": 187,
-    "stub": 202
+    "full": 190,
+    "stub": 199
   }
 }
