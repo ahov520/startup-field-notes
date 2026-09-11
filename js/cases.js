@@ -35,6 +35,7 @@
 
   let cases = [];
   let decksByCase = {};
+  let decksTierByCase = {};
   let didAutoOpen = false;
 
   const deckSlugFor = (c) => {
@@ -116,12 +117,14 @@
       .map((c, i) => {
         const b = bucket(c.outcome);
         const hasDeck = !!deckSlugFor(c);
+        const tier = decksTierByCase[c.name] || "";
+        const pptLabel = tier === "伤蛙" ? "PPT" : hasDeck ? "短档" : "";
         return `
       <button type="button" class="tomb is-${badgeClass(b)}${hasDeck ? " has-deck" : ""}" data-i="${i}">
         <div class="tomb__head">
           <span class="tomb__icon ${b === "成功" ? "is-ok" : "is-fail"}">${icon(b)}</span>
           <span class="tomb__badge ${badgeClass(b)}">${esc(b)}</span>
-          ${hasDeck ? `<span class="tomb__badge ppt">PPT</span>` : ""}
+          ${pptLabel ? `<span class="tomb__badge ppt${tier === "短档" ? " ppt--stub" : ""}">${pptLabel}</span>` : ""}
         </div>
         <div class="tomb__name">${esc(c.name)}</div>
         <div class="tomb__cause">${esc(c.cause || c.sector || "")}</div>
@@ -264,6 +267,12 @@
     .then(([d, g, decks]) => {
       cases = d.cases || [];
       decksByCase = decks.by_case || {};
+      decksTierByCase = {};
+      (decks.decks || []).forEach((e) => {
+        const tier = e.tier || (e.status === "stub" ? "短档" : "伤蛙");
+        if (e.case_name) decksTierByCase[e.case_name] = tier;
+        if (e.name) decksTierByCase[e.name] = tier;
+      });
       paintCauses(g.top_causes || []);
       render();
     })

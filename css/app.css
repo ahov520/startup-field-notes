@@ -671,4 +671,5 @@ html { font-size: var(--fs); }
 .lex__cases a{font-size:.78rem;border:2px solid #111;border-radius:999px;padding:3px 8px;background:#f4f1ea;text-decoration:none;color:inherit;display:inline-block}
 
 .tomb.has-deck{outline:1px solid rgba(124,255,107,.35)}
+.tomb__badge.ppt--stub{background:#1e2a14;color:#c8ff6b;border:1px solid #3a5a2a}
 .tomb__badge.ppt{background:#7CFF6B;color:#111;margin-left:4px}
