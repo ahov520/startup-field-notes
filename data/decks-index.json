@@ -1739,6 +1739,33 @@
       "tier": "伤蛙"
     },
     {
+      "name": "一星机器人",
+      "case_name": "一星机器人",
+      "slug": "2025-yixing-robot",
+      "file": "2025-yixing-robot.html",
+      "angle": "产业资本叙事 ≠ 独立生存权；种子轮与订单挡不住集团内部竞品优先级与战略合并",
+      "status": "full",
+      "tier": "伤蛙"
+    },
+    {
+      "name": "超能界",
+      "case_name": "超能界",
+      "slug": "2025-chaonengjie",
+      "file": "2025-chaonengjie.html",
+      "angle": "工具估值焦虑驱动社区转型是死法；拍摄体验未极致就扩圈买量后技术与调性双崩",
+      "status": "full",
+      "tier": "伤蛙"
+    },
+    {
+      "name": "Cartwheel Robotics",
+      "case_name": "Cartwheel Robotics",
+      "slug": "2026-cartwheel-robotics",
+      "file": "2026-cartwheel-robotics.html",
+      "angle": "原型速度 ≠ 量产资本；约$3M/七人更早撞上硬件死亡谷，拿错的钱与否决权往往比没钱更致命",
+      "status": "full",
+      "tier": "伤蛙"
+    },
+    {
       "name": "饿了么",
       "case_name": "饿了么",
       "slug": "case-dc47280b59",
@@ -2045,24 +2072,6 @@
       "tier": "短档"
     },
     {
-      "name": "一星机器人",
-      "case_name": "一星机器人",
-      "slug": "case-69bbbd46a5",
-      "file": "case-69bbbd46a5.html",
-      "angle": "产业资本叙事≠独立生存权；挂靠大厂资源时先问清退出条件与内部竞品优先级。",
-      "status": "stub",
-      "tier": "短档"
-    },
-    {
-      "name": "超能界",
-      "case_name": "超能界",
-      "slug": "case-340bec8f34",
-      "file": "case-340bec8f34.html",
-      "angle": "工具估值焦虑→强行讲社区故事是常见死法；应先把拍摄体验打磨极致再扩圈。",
-      "status": "stub",
-      "tier": "短档"
-    },
-    {
       "name": "后会友期",
       "case_name": "后会友期",
       "slug": "case-2d57e8bbcf",
@@ -2239,15 +2248,6 @@
       "slug": "case-3fcb2876b4",
       "file": "case-3fcb2876b4.html",
       "angle": "预购与开源退场是负责任路径；人形硬件在没有成本曲线前不要把预收款当收入。",
-      "status": "stub",
-      "tier": "短档"
-    },
-    {
-      "name": "Cartwheel Robotics",
-      "case_name": "Cartwheel Robotics",
-      "slug": "case-7adbd36499",
-      "file": "case-7adbd36499.html",
-      "angle": "原型速度≠量产资本；小团队更早撞上硬件死亡谷；拿错的钱与否决权，往往比没钱更致命。",
       "status": "stub",
       "tier": "短档"
     },
@@ -3709,6 +3709,9 @@
     "CHOIES": "2025-choies",
     "昼夜诗酒茶": "2026-zhouye-shijiucha",
     "Aprende Institute": "2024-aprende-institute",
+    "一星机器人": "2025-yixing-robot",
+    "超能界": "2025-chaonengjie",
+    "Cartwheel Robotics": "2026-cartwheel-robotics",
     "饿了么": "case-dc47280b59",
     "影石 Insta360": "case-2417b4bc56",
     "家校沟通产品": "case-50c328851a",
@@ -3743,8 +3746,6 @@
     "Mad Space": "case-65bfc5ed98",
     "AI获客原型项目": "case-bddd73df6c",
     "苏珀曼智能": "case-7322cc1dba",
-    "一星机器人": "case-69bbbd46a5",
-    "超能界": "case-340bec8f34",
     "后会友期": "case-2d57e8bbcf",
     "探鹿兼职": "case-ca58236e73",
     "雷柏/零度无人机": "case-8fc49a6d3e",
@@ -3765,7 +3766,6 @@
     "Lenny — PMF essay": "case-6dec81786e",
     "Agrifood–climate cohort": "case-b0277f6f6a",
     "K-Scale Labs": "case-3fcb2876b4",
-    "Cartwheel Robotics": "case-7adbd36499",
     "Embodied (Moxie)": "case-74762dffcf",
     "Maeve Aerospace": "case-9704599615",
     "Stralis Aircraft": "case-59386f606c",
@@ -3904,11 +3904,13 @@
     "Clarko": "case-552ab2ac29",
     "Kitsune": "case-6295ad9af6",
     "福天航空": "case-4b148bc5a1",
-    "厦门之星": "case-3921d9524f"
+    "厦门之星": "case-3921d9524f",
+    "一星机器人（苏州）": "2025-yixing-robot",
+    "Cartwheel": "2026-cartwheel-robotics"
   },
   "stats": {
     "total": 389,
-    "full": 193,
-    "stub": 196
+    "full": 196,
+    "stub": 193
   }
 }
