@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11",
+  "updated": "2026-09-14",
   "decks": [
     {
       "name": "波形智能 / 蛙蛙写作",
@@ -1712,6 +1712,33 @@
       "tier": "伤蛙"
     },
     {
+      "name": "CHOIES／择尚科技",
+      "case_name": "CHOIES",
+      "slug": "2025-choies",
+      "file": "2025-choies.html",
+      "angle": "独立站流量可买、单位经济与组织买不来；买量把「跨境第一股」做到营收归零与终止挂牌风险",
+      "status": "full",
+      "tier": "伤蛙"
+    },
+    {
+      "name": "昼夜诗酒茶",
+      "case_name": "昼夜诗酒茶",
+      "slug": "2026-zhouye-shijiucha",
+      "file": "2026-zhouye-shijiucha.html",
+      "angle": "新茶饮高频翻台叠不上「情绪微醺」低频停留；隔离验证失败后能力回流；关停进行中非已清算",
+      "status": "full",
+      "tier": "伤蛙"
+    },
+    {
+      "name": "Aprende Institute",
+      "case_name": "Aprende Institute",
+      "slug": "2024-aprende-institute",
+      "file": "2024-aprende-institute.html",
+      "angle": "西语职教 Facebook CAC 通胀与低价订阅难结算就业结果；纠正 SoftBank 关停误读，公司仍在运营并向 B2B 医疗人力迁移",
+      "status": "full",
+      "tier": "伤蛙"
+    },
+    {
       "name": "饿了么",
       "case_name": "饿了么",
       "slug": "case-dc47280b59",
@@ -2230,15 +2257,6 @@
       "slug": "case-74762dffcf",
       "file": "case-74762dffcf.html",
       "angle": "消费机器人若核心体验绑云，关停=变砖；设计日就要规划离线降级与用户数据退出路径。",
-      "status": "stub",
-      "tier": "短档"
-    },
-    {
-      "name": "Aprende Institute",
-      "case_name": "Aprende Institute",
-      "slug": "case-8492703eb5",
-      "file": "case-8492703eb5.html",
-      "angle": "先把完课率修到健康再放大获客支出；软银式人数膨胀在寒冬会反噬；职业教育单位经济容错极低。",
       "status": "stub",
       "tier": "短档"
     },
@@ -2864,15 +2882,6 @@
       "tier": "短档"
     },
     {
-      "name": "CHOIES",
-      "case_name": "CHOIES",
-      "slug": "case-fc6dff161e",
-      "file": "case-fc6dff161e.html",
-      "angle": "亚马逊/买量打法搬到独立站会在流量成本上涨后崩盘；独立站要建私域与品牌资产而非只砸广告。",
-      "status": "stub",
-      "tier": "短档"
-    },
-    {
       "name": "深宇生物",
       "case_name": "深宇生物",
       "slug": "case-84cb9adc59",
@@ -2887,15 +2896,6 @@
       "slug": "case-90ebcbd15b",
       "file": "case-90ebcbd15b.html",
       "angle": "地方国资招商内卷输血≠造血；多基地产能与分散股权会放大现金流黑洞。",
-      "status": "stub",
-      "tier": "短档"
-    },
-    {
-      "name": "昼夜诗酒茶",
-      "case_name": "昼夜诗酒茶",
-      "slug": "case-4499829708",
-      "file": "case-4499829708.html",
-      "angle": "茶饮高频低价逻辑难支撑酒馆低频深体验；子品牌隔离试错失败后应及时关停回流，而非硬扛。",
       "status": "stub",
       "tier": "短档"
     },
@@ -3705,6 +3705,10 @@
     "妙鸭相机": "2024-miaoya-camera",
     "微亚医疗": "2025-weiya-medical",
     "赛博炼金所": "2025-cyber-alchemy",
+    "CHOIES／择尚科技": "2025-choies",
+    "CHOIES": "2025-choies",
+    "昼夜诗酒茶": "2026-zhouye-shijiucha",
+    "Aprende Institute": "2024-aprende-institute",
     "饿了么": "case-dc47280b59",
     "影石 Insta360": "case-2417b4bc56",
     "家校沟通产品": "case-50c328851a",
@@ -3763,7 +3767,6 @@
     "K-Scale Labs": "case-3fcb2876b4",
     "Cartwheel Robotics": "case-7adbd36499",
     "Embodied (Moxie)": "case-74762dffcf",
-    "Aprende Institute": "case-8492703eb5",
     "Maeve Aerospace": "case-9704599615",
     "Stralis Aircraft": "case-59386f606c",
     "Kheyti": "case-89864229a4",
@@ -3833,10 +3836,8 @@
     "众创空间尸检模式库（TrueSight）": "case-e788b816ed",
     "Banana.dev": "case-3141af5e76",
     "Buffer": "case-7e62bc342f",
-    "CHOIES": "case-fc6dff161e",
     "深宇生物": "case-84cb9adc59",
     "哪吒汽车": "case-90ebcbd15b",
-    "昼夜诗酒茶": "case-4499829708",
     "Gigbanc": "case-25188d3f78",
     "Zeepay": "case-bcbb4dd95a",
     "Zeleros": "case-1d235a6215",
@@ -3907,7 +3908,7 @@
   },
   "stats": {
     "total": 389,
-    "full": 190,
-    "stub": 199
+    "full": 193,
+    "stub": 196
   }
 }
